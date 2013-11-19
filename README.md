@@ -2,7 +2,7 @@
 
 # JS Poker
 
-A no-limit Texas hold'em poker tournament for Javascript bots.
+A No-limit Texas Hold'em poker tournament for Javascript bots.
 
 ### Current Bounty $xxxUSD paid to the winner via Bitcoins
 
@@ -16,9 +16,10 @@ A no-limit Texas hold'em poker tournament for Javascript bots.
 
 ## Rules
 
+1. The game is No-limit Texas Hold'em ($10-20), with each player entering with $1000 in chips
 1. Only one file may be modified in the pull request, 'players/challengerBot.js' (Pull requests to fix other issues are gladly accepted however)
 1. You cannot load any modules. This includes Node.js core modules (fs, http, etc.)
-1. Source code may not be obsfuscated/minfied.
+1. Source code may not be obsfuscated/minfied, in order to allow winnners to be easily analyzed.
 1. Bots must win through legitimate poker play. Hacking is fine, but the bounty will only be paid to legitimate winners. Thinkof it this way, if your bot was in a casino, would it get kicked out or arrested?
 
 ## Instructions
