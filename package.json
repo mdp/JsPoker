@@ -1,0 +1,26 @@
+{
+  "name": "JsPoker",
+  "version": "0.0.1",
+  "description": "A javascript based poker tournament",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdp/JsPoker"
+  },
+  "keywords": [
+    "poker",
+    "yahoo"
+  ],
+  "author": "Mark Percival <m@mdp.im> (@mdp)",
+  "license": "MIT",
+  "dependencies": {
+    "machine-poker": "~0.5.0",
+    "async": "~0.2.9"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0"
+  }
+}
