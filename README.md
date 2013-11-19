@@ -41,10 +41,19 @@ to make tuning and debugging easier.
 Bots are handed an a game data object with the current state of the game and simply have
 to return a wager as an integer.
 
+##### Game data
+
 Here's an example game date payload: [GameData.json](https://gist.github.com/mdp/050cd82f651eb9f9b9c8)
 
 - Wagers of less than the amount required to call are considered a 'fold'
 - Wagers of '0', when the call amount is '0', are considered a check.
 - A negative wager will force a fold.
 - Failure to return an integer will assume a wager of '0', which may in turn result in a fold
+
+##### Example players
+
+Take a look at the players currently at the table for an idea of how this works.
+
+- TimidBot only plays pairs [players/timidBot.js](players/timidBot.js)
+- UnpredictableBot raises randomly at different stages of the game [players/unpredictableBot.js](players/unpredictableBot.js)
 
