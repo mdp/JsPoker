@@ -1,4 +1,4 @@
-![JS Poker](http://img.mdp.im.s3.amazonaws.com/2013m18Untitled_7u9swn.jpg)
+![JS Poker](http://img.mdp.im.s3.amazonaws.com/2013m19Untitled_83t55f.jpg)
 
 # JS Poker
 
@@ -13,14 +13,15 @@ At the present moment they are each quite unintelligent/unimaginative. The chall
 write a competitor in JS that can handily beat them all over the course of 50 tournaments,
 each with a maximum of 500 hands.
 
-You win when your bot doubles it's money, and we consider a bounty claimed when your bot
-does it via a pull-request and subsequent passing of the tests in Travis.
+You win if your bot doubles it's money, and we consider a bounty claimed when your bot
+is submitted via a pull request and the Travis-CI tests pass. (Tests will run the
+tournament simulation and pass or fail based on performance)
 
 If you win, your bot will be added to the table to play future bots.
 
 ## How to play
 
-1. Build a poker bot
+1. Modify the existing [challenger bot](players/challengerBot.js)
 1. Tune it to double your money over the course of 25,000 hands (50 Tournaments of 500 hands each)
 1. Test it with `npm test` until your confident it has a good chance of winning.
 1. Submit a pull request. If the Travis tests pass, you win the bounty.
