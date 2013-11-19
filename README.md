@@ -4,7 +4,7 @@
 
 A No-limit Texas Hold'em poker tournament for Javascript bots.
 
-### Current Bounty $xxxUSD paid to the winner via Bitcoins
+### Current Bounty $xxxUSD paid to the winner via Bitcoin
 
 ## Introduction
 
@@ -29,13 +29,13 @@ If you win, your bot will be added to the table to play future bots.
 
 ## Rules
 
-1. The game is No-limit Texas Hold'em ($10-20), with each player entering with $1000 in chips
+1. The game is No-limit Texas Hold'em ($10-20), with each player starting with $1000
 1. Only one file may be modified in the pull request, 'players/challengerBot.js' (Pull requests to fix other issues are gladly accepted however)
 1. You cannot load any modules. This includes Node.js core modules (fs, http, etc.)
 1. Source code may not be obsfuscated/minfied, in order to allow winnners to be easily analyzed.
 1. Bots must win through legitimate poker play. Hacking is fine, but the bounty will only be paid to legitimate winners. Thinkof it this way, if your bot was in a casino, would it get kicked out or arrested?
 
-## Instructions
+## Installation
 
     git clone https://github.com/mdp/JsPoker.git
     cd JsPoker
@@ -53,7 +53,7 @@ to make tuning and debugging easier.
 
 #### Game data and bot actions
 
-Bots are handed an a game data object with the current state of the game and simply have
+Bots are handed a game data object with the current state of the game and simply have
 to return a wager as an integer.
 
 - Wagers of less than the amount required to call are considered a 'fold'
@@ -67,7 +67,7 @@ Here's an example game date payload: [GameData.json](https://gist.github.com/mdp
 
 #### Example players
 
-Take a look at the players currently at the table for an idea of how this works.
+Take a look at the code for the current set of players. Here are a couple decent examples:
 
 - TimidBot only plays pairs [players/timidBot.js](players/timidBot.js)
 - UnpredictableBot raises randomly at different stages of the game [players/unpredictableBot.js](players/unpredictableBot.js)
