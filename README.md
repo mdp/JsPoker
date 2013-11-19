@@ -6,6 +6,18 @@ A No-limit Texas Hold'em poker tournament for Javascript bots.
 
 ### Current Bounty $xxxUSD paid to the winner via Bitcoins
 
+## Introduction
+
+JsPoker is a automated poker competition, where your opponents are bots writen in Javascript.
+At the present moment they are each quite unintelligent/unimaginative. The challenge is to
+write a competitor in JS that can handily beat them all over the course of 50 tournaments,
+each with a maximum of 500 hands.
+
+You win when your bot doubles it's money, and we consider a bounty claimed when your bot
+does it via a pull-request and subsequent passing of the tests in Travis.
+
+If you win, your bot will be added to the table to play future bots.
+
 ## How to play
 
 1. Build a poker bot
