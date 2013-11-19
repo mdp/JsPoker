@@ -5,7 +5,7 @@ function isPair(cards) {
 
 module.exports = function () {
 
-  // Only calls pairs
+  // Only calls with pocket pairs
   var info = {
     name: "TimidBot"
   };

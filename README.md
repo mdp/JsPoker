@@ -65,7 +65,32 @@ to return a wager as an integer.
 
 Here's an example game date payload: [GameData.json](https://gist.github.com/mdp/050cd82f651eb9f9b9c8)
 
+Game object consists of 6 properties:
+
+- `self` Your bots current standing/cards
+- `hand` The current number hand being played
+- `state` The betting state of the game. Ex. 'river'
+- `betting` Betting options available - These are incremental wager options
+- `players` Array of each player, their actions for any round, and wager/stack
+- `community` Community cards
+
 #### Example players
+
+Here's an extremely simple bot that only raises each betting round:
+
+    // I only raise!
+    module.exports = function () {
+      var info = {
+        name: "RaiseBot"
+      };
+      function play(game) {
+        if (game.state !== "complete") {
+          return game.betting.raise;
+        }
+      }
+
+      return { play: play, info: info }
+    }
 
 Take a look at the code for the current set of players. Here are a couple decent examples:
 
