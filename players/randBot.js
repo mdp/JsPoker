@@ -11,7 +11,7 @@ module.exports = function () {
         return game.betting.raise;
       } else {return game.betting.call}
     }
-  };
+  }
 
   return { play: play, info: info }
 
