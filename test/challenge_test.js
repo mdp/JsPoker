@@ -10,6 +10,11 @@ var tournament = require('./tournament')
     , sys = require('sys')
     , assert = require('assert');
 
+var redColor   = '\033[31m'
+    , greenColor = '\033[32m'
+    , blueColor  = '\033[34m'
+    , resetColor = '\033[0m';
+
 function runTournaments(n, next) {
   var opts = {
     hands: HANDS_PER_TOURNAMENT
@@ -17,7 +22,11 @@ function runTournaments(n, next) {
   var table = tournament.createTable(challenger, opts)
   table.on('tournamentComplete', function (players) {
     players = players.sort(function(a, b){ return a.chips < b.chips });
-    sys.print("Round #" + (n+1) + " - " + players[0].name + ", ");
+    if (challenger.name === players[0].name) {
+      sys.print(greenColor + "." + resetColor);
+    } else {
+      sys.print(redColor + "." + resetColor);
+    }
     next(null, players[0]);
   });
   table.start();
