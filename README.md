@@ -8,8 +8,8 @@ A No-limit Texas Hold'em poker tournament for Javascript bots.
 
 ## Introduction
 
-JsPoker is a automated poker competition, where your opponents are bots writen in Javascript.
-At the present moment they are each quite unintelligent/unimaginative. The challenge is to
+JsPoker is an automated poker competition, where your opponents are bots writen in Javascript.
+At the moment they are each quite unintelligent/unimaginative. The challenge is to
 write a competitor in JS that can handily beat them all over the course of 50 tournaments,
 each with a maximum of 500 hands.
 
