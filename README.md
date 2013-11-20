@@ -34,6 +34,9 @@ If you win, your bot will be added to the table to play future bots.
 1. You cannot load any modules. This includes Node.js core modules (fs, http, etc.)
 1. Source code may not be obsfuscated/minfied, in order to allow winnners to be easily analyzed.
 1. Bots must win through legitimate poker play. Hacking is fine, but the bounty will only be paid to legitimate winners. Thinkof it this way, if your bot was in a casino, would it get kicked out or arrested?
+1. Only 5 attempts per user, per 24 hour period. You can't just keep updating the pull request and having
+Travis repeatedly rerun the tests to try and win by luck. I'll consider this is a soft limit, but in
+general, don't be an ass.
 
 ## Installation
 
@@ -56,11 +59,6 @@ to make tuning and debugging easier.
 Bots are handed a game data object with the current state of the game and simply have
 to return a wager as an integer.
 
-- Wagers of less than the amount required to call are considered a 'fold'
-- Wagers of '0', when the call amount is '0', are considered a check.
-- A negative wager will force a fold.
-- Failure to return an integer will assume a wager of '0', which may in turn result in a fold
-
 #### Game data
 
 Here's an example game date payload: [GameData.json](https://gist.github.com/mdp/050cd82f651eb9f9b9c8)
@@ -73,6 +71,22 @@ Game object consists of 6 properties:
 - `betting` Betting options available - These are incremental wager options
 - `players` Array of each player, their actions for any round, and wager/stack
 - `community` Community cards
+
+#### Bot Actions
+
+In Texas Hold'em, you're only real options are to stay in the game, or fold. With that in mind
+bots only need to return an integer representing the additional amount they wish to
+add to the pot.
+
+The game objects `betting` property shows the betting options available to the player/bot. `call`
+represents the additional amount needed to stay in the game, while `raise` represents the minimum amount
+a player can bet if they wish to raise.
+
+- Wagers of less than the amount required to call are considered a 'fold'
+- Wagers of '0', when the call amount is '0', are considered a check.
+- Wagers greater than the call, but less than the minimum raise will result in a call
+- A negative wager will force a fold.
+- Failure to return an integer will assume a wager of '0', which may in turn result in a fold
 
 #### Example players
 
