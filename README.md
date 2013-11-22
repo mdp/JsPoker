@@ -4,7 +4,7 @@
 
 A No-limit Texas Hold'em poker tournament for Javascript bots.
 
-### Current Bounty $xxxUSD paid to the winner via Bitcoin
+### Current Bounty $50USD paid to the winner via Bitcoin
 
 ## Introduction
 
