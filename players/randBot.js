@@ -4,7 +4,7 @@ module.exports = function () {
     name: "RandBot"
   };
 
-  function play(game) {
+  function update(game) {
     if (game.state !== "complete") {
       var heads = Math.random() > 0.5;
       if (heads) {
@@ -13,6 +13,6 @@ module.exports = function () {
     }
   }
 
-  return { play: play, info: info }
+  return { update: update, info: info }
 
 }

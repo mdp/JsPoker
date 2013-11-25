@@ -8,7 +8,7 @@ module.exports = function () {
     name: "RandBot"
   };
 
-  function play(game) {
+  function update(game) {
     var wager;
     if (game.state !== "complete") {
       var wager = game.betting.call
@@ -30,6 +30,6 @@ module.exports = function () {
     }
   }
 
-  return { play: play, info: info }
+  return { update: update, info: info }
 
 }

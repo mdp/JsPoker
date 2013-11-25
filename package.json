@@ -17,7 +17,7 @@
   "author": "Mark Percival <m@mdp.im> (@mdp)",
   "license": "MIT",
   "dependencies": {
-    "machine-poker": "~0.5.0",
+    "machine-poker": "~0.5.1",
     "async": "~0.2.9"
   },
   "devDependencies": {

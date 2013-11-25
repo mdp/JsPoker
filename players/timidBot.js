@@ -10,7 +10,7 @@ module.exports = function () {
     name: "TimidBot"
   };
 
-  function play(game) {
+  function update(game) {
     if (game.state !== "complete") {
       if (isPair(game.self.cards)) {
         return game.betting.call
@@ -19,6 +19,6 @@ module.exports = function () {
     }
   }
 
-  return { play: play, info: info }
+  return { update: update, info: info }
 
 }

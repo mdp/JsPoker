@@ -4,12 +4,12 @@ module.exports = function () {
     name: "FoldBot"
   };
 
-  function play(game) {
+  function update(game) {
     if (game.state !== "complete") {
       return 0
     }
   };
 
-  return { play: play, info: info }
+  return { update: update, info: info }
 
 }

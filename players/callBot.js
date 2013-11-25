@@ -4,12 +4,12 @@ module.exports = function () {
     name: "CallBot"
   };
 
-  function play(game) {
+  function update(game) {
     if (game.state !== "complete") {
       return game.betting.call
     }
   };
 
-  return { play: play, info: info }
+  return { update: update, info: info }
 
 }
