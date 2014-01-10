@@ -25,6 +25,7 @@ If you win, your bot will be added to the table to play future bots.
 1. Tune it to double your money over the course of 25,000 hands (50 Tournaments of 500 hands each)
 1. Test it with `npm test` until your confident it has a good chance of winning.
 1. Submit a pull request. If the Travis tests pass, you win the bounty.
+1. The first successful pull request wins the round.
 1. Winning bot is added to the table. Contest repeats.
 
 ## Rules
