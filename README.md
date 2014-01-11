@@ -13,11 +13,26 @@ At the moment they are each quite unintelligent/unimaginative. The challenge is 
 write a competitor in JS that can handily beat them all over the course of 50 tournaments,
 each with a maximum of 500 hands.
 
-You win if your bot doubles it's money, and we consider a bounty claimed when your bot
+You win if your bot doubles it's money (may change if it's too difficult),
+and we consider a bounty claimed when your bot
 is submitted via a pull request and the Travis-CI tests pass. (Tests will run the
 tournament simulation and pass or fail based on performance)
 
 If you win, your bot will be added to the table to play future bots.
+
+## Why/Goals
+
+Like many people, I like to play poker and lose money. The obvious next step is to automate this.
+
+My long term goal is to build a platform that allows people to play their bots against each other in real time for real money.
+
+#### Goals
+- Anyone with a small amount of programming experience should be able to play.
+- It should be easy to run a tournament for a group of competitors safely (Skilled play vs Clever hacks)
+- Competitors should be able to lose (or win) real money.
+- Hardware constraints (ex. Bots are each hosted on their own Raspberry Pi)
+
+I'd love to be running real tournament next year in a location that legally allows it.
 
 ## How to play
 
@@ -25,7 +40,7 @@ If you win, your bot will be added to the table to play future bots.
 1. Tune it to double your money over the course of 25,000 hands (50 Tournaments of 500 hands each)
 1. Test it with `npm test` until your confident it has a good chance of winning.
 1. Submit a pull request. If the Travis tests pass, you win the bounty.
-1. The first successful pull request wins the round.
+1. First pull request that passes wins the current round.
 1. Winning bot is added to the table. Contest repeats.
 
 ## Rules
@@ -33,14 +48,15 @@ If you win, your bot will be added to the table to play future bots.
 1. The game is No-limit Texas Hold'em ($10-20), with each player starting with $1000
 1. Only one file may be modified in the pull request, 'players/challengerBot.js' (Pull requests to fix other issues are gladly accepted however)
 1. You cannot load any modules. This includes Node.js core modules (fs, http, etc.)
-1. Source code may not be obsfuscated/minfied, in order to allow winnners to be easily analyzed.
+1. Source code may not be obsfuscated/minfied. Everyone should be able to learn from your winning bot.
 1. Bots must win through legitimate poker play. Hacking is fine, but the bounty will only be paid to legitimate winners. Thinkof it this way, if your bot was in a casino, would it get kicked out or arrested?
-1. Only 5 attempts per user, per 24 hour period. You can't just keep updating the pull request and having
+1. Only 3 attempts per user, per 24 hour period. You can't just keep updating the pull request and having
 Travis repeatedly rerun the tests to try and win by luck. I'll consider this is a soft limit, but in
-general, don't be an ass.
+general, don't be an ass. TravisCI is a fantastic tool and I don't want to abuse their time or resources.
 
 ## Installation
 
+    # Requires NodeJs >= 0.10.0
     git clone https://github.com/mdp/JsPoker.git
     cd JsPoker
     npm install
@@ -112,3 +128,23 @@ Take a look at the code for the current set of players. Here are a couple decent
 - TimidBot only plays pairs [players/timidBot.js](players/timidBot.js)
 - UnpredictableBot raises randomly at different stages of the game [players/unpredictableBot.js](players/unpredictableBot.js)
 
+### Contribute
+
+- Found a bug? By all means feel free to report it or send me a pull request.
+- The next step is to build a tournament system for handling a real-time tournment with seperate players, each on their own host.
+- It would be great to give people a way to watch or monitor game play.
+
+### Resources
+
+- [Texas Hold'em Wikipedia](http://en.wikipedia.org/wiki/Texas_hold_'em)
+- Poker code and depenencies
+  - [MachinePoker](https://github.com/mdp/MachinePoker) runs this competition
+  - [Binions](https://github.com/mdp/binions) is the core code for playing Texas Hold'em
+  - [Hoyle](https://github.com/mdp/hoyle) is the card/hand evaluator code
+- #machinepoker on Freenode
+
+### Requirements
+
+- Node.js >= 0.10
+- an 80386sx microprocessor or better with at least 8 MB of RAM
+- OSx, Ubuntu, BSD, or some other POSIX compatible file system. (I don't have a windows machine to test with. Happy to take PR's to fix this)
