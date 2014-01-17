@@ -48,9 +48,10 @@ describe("Writing a winning poker bot", function () {
   this.timeout(120000);
 
   it("should be your own bot", function (done) {
-    assert.ok(challenger.name !== "Nameless Challenger", "Start by naming your bot");
-    assert.ok(challenger.email.length > 0, "Give your email address");
-    assert.ok(challenger.btcWallet.length > 0, "Where should we send the money?");
+    assert.ok(challenger.playerInfo.name !== "Nameless Challenger", "Start by naming your bot");
+    assert.ok(challenger.playerInfo.email.length > 0, "Give your email address");
+    assert.ok(challenger.playerInfo.btcWallet.length > 0, "Where should we send the money?");
+    done();
   });
 
   it("should increase money "+ CHALLENGE + "x",
