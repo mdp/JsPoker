@@ -2,37 +2,43 @@
 
 # JS Poker
 
-A No-limit Texas Hold'em poker tournament for Javascript bots.
+A No-limit Texas Hold'em poker tournament for Javascript bots played via pull requests with Travis CI as the dealer.
 
-### Current Bounty $50USD paid to the winner via Bitcoin
+### Current Bounty $50USD paid to the winner via Bitcoin (Challenge: 2x return on your money)
+
+As the complexity ramps up, the challenge difficulty will decrease.
 
 ## Introduction
 
-JsPoker is an automated poker competition, where your opponents are bots writen in Javascript.
+JsPoker is an automated poker competition, where your opponents are bots written in Javascript.
 At the moment they are each quite unintelligent/unimaginative. The challenge is to
 write a competitor in JS that can handily beat them all over the course of 50 tournaments,
 each with a maximum of 500 hands.
 
-You win if your bot doubles it's money (may change if it's too difficult),
-and we consider a bounty claimed when your bot
+You win if your bot beats the challenged return on it's money, and we consider a bounty claimed when your bot
 is submitted via a pull request and the Travis-CI tests pass. (Tests will run the
 tournament simulation and pass or fail based on performance)
 
+_Example_:
+
+Each bot starts with $1000 for every tournament, regardless of past performance. It must play 50 tournaments against the other bots. Therefore the bot is putting up $50k in total in the tournaments and needs to see a return of $100k if the challenge is 2x. This may seem hard, but keep in mind that over the course of 50 tournaments, the other bots are putting $300k into the pot, you only need to take 1/3 of this.
+
 If you win, your bot will be added to the table to play future bots.
 
-## Why/Goals
+## Why
 
 Like many people, I like to play poker and lose money. The obvious next step is to automate this.
 
-My long term goal is to build a platform that allows people to play their bots against each other in real time for real money.
-
 #### Goals
+
+MachinePoker (The library behind JsPoker) will eventually be a platform that allows people to play their bots against each other in real time for real money (In jurisdictions that allow it)
+
 - Anyone with a small amount of programming experience should be able to play.
 - It should be easy to run a tournament for a group of competitors safely (Skilled play vs Clever hacks)
 - Competitors should be able to lose (or win) real money.
 - Hardware constraints (ex. Bots are each hosted on their own Raspberry Pi)
 
-I'd love to be running real tournament next year in a location that legally allows it.
+For now, you play against opensource bots via a Pull Request and win if the Travis CI tests pass.
 
 ## How to play
 
@@ -48,9 +54,9 @@ I'd love to be running real tournament next year in a location that legally allo
 1. The game is No-limit Texas Hold'em ($10-20), with each player starting with $1000
 1. Only one file may be modified in the pull request, 'players/challengerBot.js' (Pull requests to fix other issues are gladly accepted however)
 1. You cannot load any modules. This includes Node.js core modules (fs, http, etc.)
-1. Source code may not be obsfuscated/minfied. Everyone should be able to learn from your winning bot.
-1. Bots must win through legitimate poker play. Hacking is fine, but the bounty will only be paid to legitimate winners. Thinkof it this way, if your bot was in a casino, would it get kicked out or arrested?
-1. Only 3 attempts per user, per 24 hour period. You can't just keep updating the pull request and having
+1. Source code may not be obsfuscated/minified. Everyone should be able to learn from your winning bot.
+1. Bots must win through legitimate poker play. Hacking is fine, but the bounty will only be paid to legitimate winners. Think of it this way, if your bot was in a casino, would it get kicked out or arrested?
+1. Only 2 attempts per user, per 24 hour period. You can't just keep updating the pull request and having
 Travis repeatedly rerun the tests to try and win by luck. I'll consider this is a soft limit, but in
 general, don't be an ass. TravisCI is a fantastic tool and I don't want to abuse their time or resources.
 
@@ -61,6 +67,7 @@ general, don't be an ass. TravisCI is a fantastic tool and I don't want to abuse
     cd JsPoker
     npm install
     npm test
+    # Now go and turn your bot into a champion!
 
 ### Building a better poker bot
 
@@ -131,7 +138,7 @@ Take a look at the code for the current set of players. Here are a couple decent
 ### Contribute
 
 - Found a bug? By all means feel free to report it or send me a pull request.
-- The next step is to build a tournament system for handling a real-time tournment with seperate players, each on their own host.
+- The next step is to build a tournament system for handling a real-time tournament with separate players, each on their own host.
 - It would be great to give people a way to watch or monitor game play.
 
 ### Resources

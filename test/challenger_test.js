@@ -1,7 +1,7 @@
 var NUMBER_OF_TOURNAMENTS = 50,
     HANDS_PER_TOURNAMENT = 500,
     CHIPS = 1000,
-    EARNINGS = 2.0;
+    CHALLENGE = 2.0;
 
 var tournament = require('./tournament')
     , MachinePoker = require('machine-poker')
@@ -24,6 +24,7 @@ function getPlayer(players, player) {
   }
 }
 
+var totalBankroll = CHIPS*NUMBER_OF_TOURNAMENTS;
 function runTournaments(n, next) {
   var opts = {
     hands: HANDS_PER_TOURNAMENT,
@@ -32,10 +33,11 @@ function runTournaments(n, next) {
   var table = tournament.createTable(challenger, opts)
   table.on('tournamentComplete', function (players) {
     var player = getPlayer(players, challenger)
-    if (player.chips >= CHIPS * EARNINGS) {
-      sys.print(greenColor + "." + resetColor)
+    totalBankroll += player.chips - CHIPS; // Take out the chips played;
+    if (player.chips >= CHIPS * CHALLENGE) {
+      sys.print(greenColor + (n+1) + ". W - Earnings: $" + player.chips + "\t\tTotal: $" + totalBankroll + resetColor + "\n")
     } else {
-      sys.print(redColor + "." + resetColor)
+      sys.print(redColor + (n+1) +". L - Earnings: $" + player.chips + "\t\tTotal: $" + totalBankroll + resetColor + "\n")
     }
     next(null, player.chips);
   });
@@ -43,7 +45,7 @@ function runTournaments(n, next) {
 }
 
 describe("Writing a winning poker bot", function () {
-  this.timeout(60000);
+  this.timeout(120000);
 
   it("should be your own bot", function (done) {
     assert.ok(challenger.name !== "Nameless Challenger", "Start by naming your bot");
@@ -51,12 +53,13 @@ describe("Writing a winning poker bot", function () {
     assert.ok(challenger.btcWallet.length > 0, "Where should we send the money?");
   });
 
-  it("should increase money "+ EARNINGS + "x",
+  it("should increase money "+ CHALLENGE + "x",
     function (done) {
+      sys.print("\n\n===Starting Tournaments===\n\n");
       async.timesSeries(
         NUMBER_OF_TOURNAMENTS,
         runTournaments, function (err, winnings) {
-          var toBeat = EARNINGS * NUMBER_OF_TOURNAMENTS * CHIPS;
+          var toBeat = CHALLENGE * NUMBER_OF_TOURNAMENTS * CHIPS;
           winnings = winnings.reduce(function (x, y) { return x + y });
           assert.ok(
             winnings > toBeat,
