@@ -4,7 +4,7 @@
 
 A No-limit Texas Hold'em poker tournament for Javascript bots played via pull requests with Travis CI as the dealer.
 
-### Current Bounty $50USD paid to the winner via Bitcoin (Challenge: 2x return on your money)
+### Current Bounty $50USD paid to the winner via Bitcoin (Current Challenge: 2.0x return on your money)
 
 As the complexity ramps up, the challenge difficulty will decrease.
 
@@ -27,21 +27,12 @@ If you win, your bot will be added to the table to play future bots.
 
 ## Why
 
-Like many people, I like to play poker and lose money. The obvious next step is to automate this.
+Like many people, I like to play poker and lose money. The obvious next step was to automate this.
 
-#### Goals
-
-MachinePoker (The library behind JsPoker) will eventually be a platform that allows people to play their bots against each other in real time for real money (In jurisdictions that allow it)
-
-- Anyone with a small amount of programming experience should be able to play.
-- It should be easy to run a tournament for a group of competitors safely (Skilled play vs Clever hacks)
-- Competitors should be able to lose (or win) real money.
-- Hardware constraints (ex. Bots are each hosted on their own Raspberry Pi)
-
-For now, you play against opensource bots via a Pull Request and win if the Travis CI tests pass.
 
 ## How to play
 
+1. Clone this repo and run 'npm install'
 1. Modify the existing [challenger bot](players/challengerBot.js)
 1. Tune it to double your money over the course of 25,000 hands (50 Tournaments of 500 hands each)
 1. Test it with `npm test` until your confident it has a good chance of winning.
@@ -134,6 +125,15 @@ Take a look at the code for the current set of players. Here are a couple decent
 
 - TimidBot only plays pairs [players/timidBot.js](players/timidBot.js)
 - UnpredictableBot raises randomly at different stages of the game [players/unpredictableBot.js](players/unpredictableBot.js)
+
+#### Goals
+
+MachinePoker (The library behind JsPoker) will eventually be a platform that allows people to play their bots against each other in real time for real money (In jurisdictions that allow it)
+
+- Anyone with a small amount of programming experience should be able to play.
+- It should be easy to run a tournament for a group of competitors safely (Skilled play vs Clever hacks)
+- Competitors should be able to lose (or win) real money.
+- Hardware constraints (ex. Bots are each hosted on their own Raspberry Pi)
 
 ### Contribute
 
