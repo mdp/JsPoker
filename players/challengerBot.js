@@ -55,7 +55,7 @@ module.exports = function () {
   function update(game) {
     if (game.state !== "complete") {
       if (havePair(game.self.cards, game.community) || almostFlush(game.self.cards, game.community) || almostStraight(game.self.cards, game.community)) {
-        return game.betting.raise * 2;
+        return game.betting.raise;
       }
     }
   }
