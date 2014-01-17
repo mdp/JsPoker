@@ -1,6 +1,7 @@
 var MachinePoker = require('machine-poker')
     , SmartBot = require('../players/smartBot')
     , MercBot = require('../players/mercBot')
+    , TollusBot = require('../players/tollusBot')
     , CallBot = require('../players/callBot')
     , UnpredictableBot = require('../players/unpredictableBot')
     , RandBot = require('../players/randBot')
@@ -15,7 +16,7 @@ exports.createTable = function (challenger, opts) {
   table.addPlayers(
     [ JsSeat.create(MercBot)
     , JsSeat.create(SmartBot)
-    , JsSeat.create(CallBot)
+    , JsSeat.create(Tollus)
     , JsSeat.create(UnpredictableBot)
     , JsSeat.create(RandBot)
     , JsSeat.create(CallBot)
