@@ -1,6 +1,7 @@
 var NUMBER_OF_TOURNAMENTS = 50,
     HANDS_PER_TOURNAMENT = 500,
     CHIPS = 1000,
+    ROUND = 3,
     CHALLENGE = 2.0;
 
 var tournament = require('./tournament')
@@ -56,7 +57,7 @@ describe("Writing a winning poker bot", function () {
 
   it("should increase money "+ CHALLENGE + "x",
     function (done) {
-      sys.print("\n\n===Starting Tournaments===\n\n");
+      sys.print("\n\n===Starting Tournament Round " + ROUND + "===\n\n");
       async.timesSeries(
         NUMBER_OF_TOURNAMENTS,
         runTournaments, function (err, winnings) {
