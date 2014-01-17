@@ -16,7 +16,7 @@ exports.createTable = function (challenger, opts) {
   table.addPlayers(
     [ JsSeat.create(MercBot)
     , JsSeat.create(SmartBot)
-    , JsSeat.create(Tollus)
+    , JsSeat.create(TollusBot)
     , JsSeat.create(UnpredictableBot)
     , JsSeat.create(RandBot)
     , JsSeat.create(CallBot)
