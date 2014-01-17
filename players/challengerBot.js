@@ -30,9 +30,33 @@ var floppedAPair = function(mycards, community) {
     strength = 2      triiiips
     strength = 3      quads
   */
-  var strength = 5 - uniq.length;
-  return strength;
+  var strength = allcards.length - uniq.length;
+  return strength + flushdraw(mycards, community);
 
+}
+var flushdraw = function(mycards, community) {
+  var allcards = [];
+  allcards.push(community[0][1])
+  allcards.push(community[1][1])
+  allcards.push(community[2][1])
+  allcards.push(mycards[0][1]);
+  allcards.push(mycards[1][1]);
+  var uniq = allcards.getUnique();
+  /*
+    strenght = 0      rainbow, total shit
+    strength = 1      2-flush, total shit
+    strength = 2      3-flush, can make runner runner
+    strength = 3      4-flush, flush draw!
+    strength = 4      flopped a flush. take the money!
+    currently, we only bet a flopped flush!
+  */
+  var strength = allcards.length - uniq.length;
+  if (strength == 4) {
+    return 5;
+  }
+  else {
+    return 0;
+  }
 }
 var preflopStrength = function(cards) {
   var card1 = cards[0][0],
@@ -67,7 +91,7 @@ var info = {
   email: "jonathanburger11@gmail.com",
   btcWallet: "1JfK4EHYXiwTYPtMuW4mzECiQA5udREFZB"
 };
-
+var lastflopstrength;
 function update(game) {
   if (game.state == "pre-flop") {
     /*
@@ -81,9 +105,23 @@ function update(game) {
   }
   if (game.state == "flop") {
       var strength = floppedAPair(game.self.cards, game.community)
-      if (strength == 0) return 0;
+      var lastflopstrength = strength;
+      /*
+        No pair, fold
+      */
+      if (strength == 0) {return 0};
+      /*
+        Made a pair, call
+      */
       if (strength == 1) return game.betting.call;
+      /*
+        Made trips or quads, raise
+      */
       if (strength >  1 && game.betting.canRaise) {return game.betting.raise} else { return game.betting.call }; 
+  }
+  if (game.state == "turn" || game.state == "river") {
+    if (lastflopstrength == 1) return game.betting.call;
+    if (lastflopstrength > 1) return game.betting.raise*lastflopstrength;
   }
   if (game.state !== "complete") {
     return game.betting.call
