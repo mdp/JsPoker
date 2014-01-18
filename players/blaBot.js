@@ -13,13 +13,13 @@ module.exports = function () {
         FULL_HOUSE = 100,
         FLUSH = 100,
         STRAIGHT = 100,
-        TRIPS = 100,
-        TWO_PAIR = 100,
+        TRIPS = 0,
+        TWO_PAIR = 0,
         PAIR = 0,
 
         // Potentials
-        FLUSH_DRAW = 10,
-        STRAIGHT_DRAW = 10,
+        FLUSH_DRAW = 20,
+        STRAIGHT_DRAW = 20,
         ACE_HIGH = 0;
 
     function Card(card) {
@@ -99,11 +99,7 @@ module.exports = function () {
     };
 
     Hand.prototype.isRoyalFlush = function() {
-        if (!this.isStraight() || !this.isFlush()) { return false; }
-
-        var vals = this.cards.map(function(card) { return card.getValue(); });
-
-        return this.getHighCard() === 14;
+        return this.getHighCard() === 14 && this.isStraightFlush();
     };
 
     Hand.prototype.isStraightFlush = function() {
@@ -134,17 +130,23 @@ module.exports = function () {
     Hand.prototype.isStraight = function() {
         var vals = this.cards.map(function(card) { return card.getValue(); }),
             previousCard = 0,
-            cardsInHand = this.cards.length;
+            cardsInHand = this.cards.length,
+            cards = [],
+            diff;
 
         if (cardsInHand < 5) return false;
 
-        return vals.every(function(val) {
-            if (!previousCard || (previousCard + 1 === val || (val === 14 && previousCard === 5))) {
-                previousCard = val;
-                return true;
-            } else {
-                return false;
+        return vals.some(function(val) {
+            previousCard = cards[cards.length - 1];
+            diff = null;
+            if (previousCard) { diff = val - previousCard; }
+            if (diff > 1) {
+                cards = [];
+                cards.push(val);
+            } else if (diff === 1) {
+                cards.push(val);
             }
+            if (cards.length === 5) return true;
         });
     };
 
@@ -157,7 +159,7 @@ module.exports = function () {
             _this = this;
 
         Object.keys(this.organized.values).forEach(function(key) {
-            if (_this.organized.values[key].length > 2) { pairCount++; }
+            if (_this.organized.values[key].length === 2) { pairCount++; }
         });
 
         return pairCount === 2;
