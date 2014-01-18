@@ -226,9 +226,9 @@ module.exports = function () {
         if (this.isQuads()) return 95;
         if (this.isFullHouse()) return 80;
         if (this.isFlush()) return 60;
-        if (this.isStraight()) return 0;
-        if (this.isTrips()) return 0;
-        if (this.isTwoPair()) return 0;
+        // if (this.isStraight()) return 0;
+        // if (this.isTrips()) return 0;
+        // if (this.isTwoPair()) return 0;
         
         return this.getPotential(state);
     };
