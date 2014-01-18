@@ -6,7 +6,7 @@ A No-limit Texas Hold'em poker tournament for Javascript bots played via pull re
 
 ### Current Bounty $50USD paid to the winner via Bitcoin (Current Challenge: 2.0x return on your money)
 
-#### Round 5
+#### Round 6
 
 As the complexity ramps up, the challenge difficulty will decrease.
 
