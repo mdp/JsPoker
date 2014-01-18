@@ -6,6 +6,22 @@ module.exports = function () {
         btcWallet: '1AyuzcTWwSc3EGBDbGuuagBbysD4XUDBLa'
     };
 
+        // Hands
+    var ROYAL_FLUSH = 100,
+        STRAIGHT_FLUSH = 100,
+        QUADS = 100,
+        FULL_HOUSE = 100,
+        FLUSH = 100,
+        STRAIGHT = 100,
+        TRIPS = 100,
+        TWO_PAIR = 100,
+        PAIR = 0,
+
+        // Potentials
+        FLUSH_DRAW = 10,
+        STRAIGHT_DRAW = 10,
+        ACE_HIGH = 0;
+
     function Card(card) {
         this.card = card;
         this.suit = this.getSuit();
@@ -117,7 +133,10 @@ module.exports = function () {
 
     Hand.prototype.isStraight = function() {
         var vals = this.cards.map(function(card) { return card.getValue(); }),
-            previousCard = 0;
+            previousCard = 0,
+            cardsInHand = this.cards.length;
+
+        if (cardsInHand < 5) return false;
 
         return vals.every(function(val) {
             if (!previousCard || (previousCard + 1 === val || (val === 14 && previousCard === 5))) {
@@ -196,94 +215,145 @@ module.exports = function () {
         return this.getSameSuitCount() >= cardsRequired;
     };
 
-    Hand.prototype.getPotential = function(state) {
+    Hand.prototype.getStrength = function(state) {
+        state = state ? state : 'turn';
+
+        if (this.isRoyalFlush()) return ROYAL_FLUSH;
+        if (this.isStraightFlush()) return STRAIGHT_FLUSH;
+        if (this.isQuads()) return QUADS;
+        if (this.isFullHouse()) return FULL_HOUSE;
+        if (this.isFlush()) return FLUSH;
+        if (this.isStraight() && STRAIGHT) return STRAIGHT;
+        if (this.isTrips() && TRIPS) return TRIPS;
+        if (this.isTwoPair() && TWO_PAIR) return TWO_PAIR;
+        if (this.isPair() && PAIR) return PAIR;
+
+        // potential/crappy hands
         switch (state) {
             case 'pre-flop':
-                if (this.isPair() && this.getHighCard() >= 10) return 100;
-                if (this.getHighCard() >= 10) return -1;
-                if (this.isPotentialFlush(2)) return -1;
-                if (this.isPotentialStraight(2)) return -1;
+                if (this.isPotentialFlush(2) && FLUSH_DRAW) return FLUSH_DRAW;
+                if (this.isPotentialStraight(2) && STRAIGHT_DRAW) return STRAIGHT_DRAW;
+                if (this.getHighCard() === 14 && ACE_HIGH) return ACE_HIGH;
                 break;
             case 'flop':
-                if (this.isPotentialFlush(4)) return -1;
-                if (this.isPotentialStraight(4)) return -1;
-                break;
             case 'river':
-                if (this.isPotentialFlush(4)) return -1;
-                if (this.isPotentialStraight(4)) return -1;
+                if (this.isPotentialFlush(4) && FLUSH_DRAW) return FLUSH_DRAW;
+                if (this.isPotentialStraight(4) && STRAIGHT_DRAW) return STRAIGHT_DRAW;
                 break;
             case 'turn':
-                if (this.isPair() && this.getHighCard() >= 12) return -1;
                 break;
         }
 
         return 0;
     };
 
-    Hand.prototype.getStrength = function(state) {
-        if (this.isRoyalFlush()) return 100;
-        if (this.isStraightFlush()) return 99;
-        if (this.isQuads()) return 95;
-        if (this.isFullHouse()) return 80;
-        if (this.isFlush()) return 60;
-        // if (this.isStraight()) return 0;
-        // if (this.isTrips()) return 0;
-        // if (this.isTwoPair()) return 0;
-        
-        return this.getPotential(state);
-    };
-
-    function Player(table) {
-        this.game = table.game;
+    function Player(self, table) {
         this.table = table;
-        this.betting = this.game.betting;
-        this.player = this.game.self;
+        this.bets = this.table.getBets();
+        this.player = self;
 
-        this.hand = new Hand(this.player.cards.concat(this.game.community));
-        this.communityHand = new Hand(this.game.community);
+        this.hand = new Hand(this.player.cards.concat(this.table.getCommunity()));
     }
 
     Player.prototype.getHandStrength = function() {
-        return this.hand.getStrength(this.game.state);
+        return this.hand.getStrength(this.table.getState());
     };
 
-    Player.prototype.getAction = function() {
-        var str = this.getHandStrength(),
-            toCall = this.betting.call,
-            multiplier = parseFloat(str / 100),
+    Player.prototype.getBet = function() {
+        var handStrength = this.getHandStrength(),
+            toCall = this.bets.call,
+            multiplier = parseFloat(handStrength / 100),
             chipLeader = this.table.getChipLeader(),
-            raiseAmount = chipLeader.chips * multiplier;
+            secondChipLeader = this.table.getChipLeader(2),
+            raiseAmount = 0,
+            bet = 0;
 
-        if (str === -1) return toCall >= this.player.chips * 0.1 ? 0 : toCall;
-        if (!str) return 0;
-
-        if (this.betting.canRaise) {
-            if (raiseAmount < toCall) return toCall;
-            return raiseAmount;
+        if (handStrength === 100) {
+            raiseAmount = chipLeader.chips;
         } else {
-            return toCall;
+            // if i'm not the chip leader, make a safe bet based on my hand strength
+            if (chipLeader.chips >= this.player.chips) {
+                raiseAmount = this.player.chips * multiplier;
+            // if i am the chip leader, force the second highest all-in on strong hands
+            } else {
+                if (handStrength >= FLUSH) {
+                    raiseAmount = secondChipLeader.chips;
+                } else {
+                    raiseAmount = chipLeader.chips * multiplier;
+                }
+            }
         }
+
+        switch (this.table.getState()) {
+            case 'pre-flop':
+                if (!handStrength) {
+                    if (toCall <= this.table.getBigBlind()) bet = toCall;
+                } else {
+                    bet = toCall > raiseAmount ? 0 : toCall;
+                }
+                break;
+            case 'flop':
+            case 'turn':
+            case 'river':
+                if (!handStrength) return 0;
+
+                if (this.bets.canRaise && handStrength >= STRAIGHT) {
+                    bet = raiseAmount < toCall ? toCall : raiseAmount;
+                } else {
+                    bet = toCall > raiseAmount ? 0 : toCall;
+                }
+                break;
+        }
+
+        return bet;
     };
 
     function Table(game) {
         this.game = game;
+        this.players = game.players;
     }
 
-    Table.prototype.getChipLeader = function() {
-        var leader = { chips: 0 };
+    Table.prototype.sortPlayers = function() {
+        this.players.sort(function(a, b) {
+            return b.chips - a.chips;
+        });
+    };
 
-        this.game.players.forEach(function(player) {
-            if (player.chips > leader.chips) leader = player;
+    Table.prototype.getChipLeader = function(rank) {
+        rank = rank ? rank - 1 : 0;
+
+        this.sortPlayers();
+
+        return this.players[rank];
+    };
+
+    Table.prototype.getBigBlind = function() {
+        var bigBlind = 0;
+
+        this.players.forEach(function(player) {
+            if (player.blind > bigBlind) bigBlind = player.blind;
         });
 
-        return leader;
+        return bigBlind;
+    };
+
+    Table.prototype.getState = function() {
+        return this.game.state;
+    };
+
+    Table.prototype.getCommunity = function() {
+        return this.game.community;
+    };
+
+    Table.prototype.getBets = function() {
+        return this.game.betting;
     };
 
     function update(game) {
         var table = new Table(game),
-            player = new Player(table);
+            player = new Player(game.self, table);
 
-        if (game.state !== 'complete') return player.getAction();
+        if (game.state !== 'complete') return player.getBet();
     }
 
     return {
