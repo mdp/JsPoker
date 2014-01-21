@@ -1,7 +1,7 @@
 var NUMBER_OF_TOURNAMENTS = 50,
     HANDS_PER_TOURNAMENT = 500,
     CHIPS = 1000,
-    ROUND = 6,
+    ROUND = 7,
     CHALLENGE = 2.0;
 
 var tournament = require('./tournament')
