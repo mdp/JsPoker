@@ -4,13 +4,9 @@
 
 A No-limit Texas Hold'em poker tournament for Javascript bots played via pull requests with Travis CI as the dealer.
 
-### Current Bounty $50USD paid to the winner via Bitcoin (Current Challenge: 2.0x return on your money)
+### Bounty challenge complete
 
-#### Round 7
-
-As the complexity ramps up, the challenge difficulty will decrease.
-
-#### Current players
+#### Winning Players
 
 1. whistle_tips
 2. blaBot
@@ -18,7 +14,7 @@ As the complexity ramps up, the challenge difficulty will decrease.
 4. MercBot
 5. SmartBot
 6. Tollus
-7. Nameless Challenger
+7. SneakyCharlie
 
 ## Introduction
 
