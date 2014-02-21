@@ -9,6 +9,7 @@ var MachinePoker = require('machine-poker')
     , CallBot = require('../players/callBot')
     , UnpredictableBot = require('../players/unpredictableBot')
     , RandBot = require('../players/randBot')
+    , ThoseAreMyFish = require('../players/thoseAreMyFish')
     , JsSeat = MachinePoker.seats.JsLocal;
 
 exports.createTable = function (challenger, opts) {
@@ -18,12 +19,12 @@ exports.createTable = function (challenger, opts) {
   });
 
   table.addPlayers(
-    [ JsSeat.create(SmartBot)
-    , JsSeat.create(TollusBot)
+    [ JsSeat.create(TollusBot)
     , JsSeat.create(FlopsASetBot)
     , JsSeat.create(BlaBot)
     , JsSeat.create(WhistleTipsBot)
     , JsSeat.create(SneakyCharlie)
+    , JsSeat.create(ThoseAreMyFish)
     , challenger
     ]
   );
