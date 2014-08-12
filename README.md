@@ -6,15 +6,15 @@ A No-limit Texas Hold'em poker tournament for Javascript bots played via pull re
 
 ### Bounty challenge complete
 
-#### Winning Players
+#### Current Winning Players
 
-1. whistle_tips
-2. blaBot
-3. FlopASetBot
-4. MercBot
-5. SmartBot
-6. Tollus
-7. SneakyCharlie
+1. edi9999
+2. ThoseAreMyFish
+3. whistle_tips
+4. SneakyCharlie
+5. blaBot
+6. FlopASetBot
+7. Tollus
 
 ## Introduction
 
