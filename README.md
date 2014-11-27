@@ -8,13 +8,13 @@ A No-limit Texas Hold'em poker tournament for Javascript bots played via pull re
 
 #### Current Winning Players
 
-1. edi9999
-2. ThoseAreMyFish
-3. whistle_tips
-4. SneakyCharlie
-5. blaBot
-6. FlopASetBot
-7. Tollus
+1. status3Bot $152306
+2. ThoseAreMyFish $105849
+3. edi9999 $67519
+4. SneakyCharlie $17395
+5. FlopASetBot $3520
+6. whistle_tips $2081
+7. blaBot $1330
 
 ## Introduction
 
