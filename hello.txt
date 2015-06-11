@@ -1,0 +1,5225 @@
+ 
+[34m==== Round #1 starting ====[0m
+[34m7 players:[0m
+[34m  edi9999 ($1000) [0m
+[34m  status3Bot ($1000) [0m
+[34m  SneakyCharlie ($1000) [0m
+[34m  FlopASetBot ($1000) [0m
+[34m  whistle_tips ($1000) [0m
+[34m  blaBot ($1000) [0m
+[34m  SpyGlass ($1000) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($995) Ts Kc [0m
+[34m  status3Bot ($990) 4s Ac [0m
+[34m  SneakyCharlie ($1000) Qh 2h [0m
+[34m  FlopASetBot ($1000) 9s 5h [0m
+[34m  whistle_tips ($1000) 7s 3h [0m
+[34m  blaBot ($1000) 2c Jc [0m
+[34m  SpyGlass ($1000) 8s Qd [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips called $10[0m
+[31m  blaBot called $10[0m
+[31m  SpyGlass went ALL IN with $1000[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot folded[0m
+[31m  whistle_tips folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #1 complete.[0m
+[34mWinner was SpyGlass  Amount won: $1035[0m
+[34mPositions: [0m
+[34medi9999 ($995) had Ts Kc  [0m
+[34mstatus3Bot ($990) had 4s Ac  [0m
+[34mSneakyCharlie ($1000) had Qh 2h  [0m
+[34mFlopASetBot ($1000) had 9s 5h  [0m
+[34mwhistle_tips ($990) had 7s 3h  [0m
+[34mblaBot ($990) had 2c Jc  [0m
+[34mSpyGlass ($1035) had 8s Qd  [0m
+[34m=================================[0m
+ 
+[34m==== Round #2 starting ====[0m
+[34m7 players:[0m
+[34m  status3Bot ($990) [0m
+[34m  SneakyCharlie ($1000) [0m
+[34m  FlopASetBot ($1000) [0m
+[34m  whistle_tips ($990) [0m
+[34m  blaBot ($990) [0m
+[34m  SpyGlass ($1035) [0m
+[34m  edi9999 ($995) [0m
+ 
+[34m-- pre-flop[0m
+[34m  status3Bot ($985) Jc Ad [0m
+[34m  SneakyCharlie ($990) 7d Td [0m
+[34m  FlopASetBot ($1000) 4c Ah [0m
+[34m  whistle_tips ($990) 6c 2h [0m
+[34m  blaBot ($990) 8c Ac [0m
+[34m  SpyGlass ($1035) 8s 9d [0m
+[34m  edi9999 ($995) 5s 7s [0m
+[31m  status3Bot  paid a blind of $5[0m
+[31m  SneakyCharlie  paid a blind of $10[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips called $10[0m
+[31m  blaBot called $10[0m
+[31m  SpyGlass went ALL IN with $1035[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot folded[0m
+[31m  SneakyCharlie folded[0m
+[31m  whistle_tips folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #2 complete.[0m
+[34mWinner was SpyGlass  Amount won: $1070[0m
+[34mPositions: [0m
+[34mstatus3Bot ($985) had Jc Ad  [0m
+[34mSneakyCharlie ($990) had 7d Td  [0m
+[34mFlopASetBot ($1000) had 4c Ah  [0m
+[34mwhistle_tips ($980) had 6c 2h  [0m
+[34mblaBot ($980) had 8c Ac  [0m
+[34mSpyGlass ($1070) had 8s 9d  [0m
+[34medi9999 ($995) had 5s 7s  [0m
+[34m=================================[0m
+ 
+[34m==== Round #3 starting ====[0m
+[34m7 players:[0m
+[34m  SneakyCharlie ($990) [0m
+[34m  FlopASetBot ($1000) [0m
+[34m  whistle_tips ($980) [0m
+[34m  blaBot ($980) [0m
+[34m  SpyGlass ($1070) [0m
+[34m  edi9999 ($995) [0m
+[34m  status3Bot ($985) [0m
+ 
+[34m-- pre-flop[0m
+[34m  SneakyCharlie ($985) Kh Jh [0m
+[34m  FlopASetBot ($990) Ts Td [0m
+[34m  whistle_tips ($980) 2s Tc [0m
+[34m  blaBot ($980) Ad 8h [0m
+[34m  SpyGlass ($1070) 9h 6d [0m
+[34m  edi9999 ($995) 8c 8d [0m
+[34m  status3Bot ($985) 7s 9s [0m
+[31m  SneakyCharlie  paid a blind of $5[0m
+[31m  FlopASetBot  paid a blind of $10[0m
+[31m  whistle_tips called $10[0m
+[31m  blaBot called $10[0m
+[31m  SpyGlass went ALL IN with $1070[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot folded[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #3 complete.[0m
+[34mWinner was SpyGlass  Amount won: $1105[0m
+[34mPositions: [0m
+[34mSneakyCharlie ($985) had Kh Jh  [0m
+[34mFlopASetBot ($990) had Ts Td  [0m
+[34mwhistle_tips ($970) had 2s Tc  [0m
+[34mblaBot ($970) had Ad 8h  [0m
+[34mSpyGlass ($1105) had 9h 6d  [0m
+[34medi9999 ($995) had 8c 8d  [0m
+[34mstatus3Bot ($985) had 7s 9s  [0m
+[34m=================================[0m
+ 
+[34m==== Round #4 starting ====[0m
+[34m7 players:[0m
+[34m  FlopASetBot ($990) [0m
+[34m  whistle_tips ($970) [0m
+[34m  blaBot ($970) [0m
+[34m  SpyGlass ($1105) [0m
+[34m  edi9999 ($995) [0m
+[34m  status3Bot ($985) [0m
+[34m  SneakyCharlie ($985) [0m
+ 
+[34m-- pre-flop[0m
+[34m  FlopASetBot ($985) 5d 9c [0m
+[34m  whistle_tips ($960) Tc Ad [0m
+[34m  blaBot ($970) 7d Js [0m
+[34m  SpyGlass ($1105) Th 8s [0m
+[34m  edi9999 ($995) 3s 4h [0m
+[34m  status3Bot ($985) Qd 9d [0m
+[34m  SneakyCharlie ($985) 2c Td [0m
+[31m  FlopASetBot  paid a blind of $5[0m
+[31m  whistle_tips  paid a blind of $10[0m
+[31m  blaBot called $10[0m
+[31m  SpyGlass went ALL IN with $1105[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot folded[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #4 complete.[0m
+[34mWinner was SpyGlass  Amount won: $1130[0m
+[34mPositions: [0m
+[34mFlopASetBot ($985) had 5d 9c  [0m
+[34mwhistle_tips ($960) had Tc Ad  [0m
+[34mblaBot ($960) had 7d Js  [0m
+[34mSpyGlass ($1130) had Th 8s  [0m
+[34medi9999 ($995) had 3s 4h  [0m
+[34mstatus3Bot ($985) had Qd 9d  [0m
+[34mSneakyCharlie ($985) had 2c Td  [0m
+[34m=================================[0m
+ 
+[34m==== Round #5 starting ====[0m
+[34m7 players:[0m
+[34m  whistle_tips ($960) [0m
+[34m  blaBot ($960) [0m
+[34m  SpyGlass ($1130) [0m
+[34m  edi9999 ($995) [0m
+[34m  status3Bot ($985) [0m
+[34m  SneakyCharlie ($985) [0m
+[34m  FlopASetBot ($985) [0m
+ 
+[34m-- pre-flop[0m
+[34m  whistle_tips ($955) 6c 6s [0m
+[34m  blaBot ($950) 8h Ac [0m
+[34m  SpyGlass ($1130) Ah 8s [0m
+[34m  edi9999 ($995) Kc 8d [0m
+[34m  status3Bot ($985) 7c 3c [0m
+[34m  SneakyCharlie ($985) 6d 4c [0m
+[34m  FlopASetBot ($985) 7s 5d [0m
+[31m  whistle_tips  paid a blind of $5[0m
+[31m  blaBot  paid a blind of $10[0m
+[31m  SpyGlass went ALL IN with $1130[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot folded[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #5 complete.[0m
+[34mWinner was SpyGlass  Amount won: $1145[0m
+[34mPositions: [0m
+[34mwhistle_tips ($955) had 6c 6s  [0m
+[34mblaBot ($950) had 8h Ac  [0m
+[34mSpyGlass ($1145) had Ah 8s  [0m
+[34medi9999 ($995) had Kc 8d  [0m
+[34mstatus3Bot ($985) had 7c 3c  [0m
+[34mSneakyCharlie ($985) had 6d 4c  [0m
+[34mFlopASetBot ($985) had 7s 5d  [0m
+[34m=================================[0m
+ 
+[34m==== Round #6 starting ====[0m
+[34m7 players:[0m
+[34m  blaBot ($950) [0m
+[34m  SpyGlass ($1145) [0m
+[34m  edi9999 ($995) [0m
+[34m  status3Bot ($985) [0m
+[34m  SneakyCharlie ($985) [0m
+[34m  FlopASetBot ($985) [0m
+[34m  whistle_tips ($955) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($945) Kh Js [0m
+[34m  SpyGlass ($1135) 5c 4s [0m
+[34m  edi9999 ($995) 7c 4d [0m
+[34m  status3Bot ($985) 6d 3h [0m
+[34m  SneakyCharlie ($985) 9d 2s [0m
+[34m  FlopASetBot ($985) Jd 8h [0m
+[34m  whistle_tips ($955) 9s 5d [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  SpyGlass  paid a blind of $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips called $10[0m
+[31m  blaBot called $5[0m
+[31m  SpyGlass went ALL IN with $1135[0m
+[31m  status3Bot folded[0m
+[31m  whistle_tips folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #6 complete.[0m
+[34mWinner was SpyGlass  Amount won: $1175[0m
+[34mPositions: [0m
+[34mblaBot ($940) had Kh Js  [0m
+[34mSpyGlass ($1175) had 5c 4s  [0m
+[34medi9999 ($995) had 7c 4d  [0m
+[34mstatus3Bot ($975) had 6d 3h  [0m
+[34mSneakyCharlie ($985) had 9d 2s  [0m
+[34mFlopASetBot ($985) had Jd 8h  [0m
+[34mwhistle_tips ($945) had 9s 5d  [0m
+[34m=================================[0m
+ 
+[34m==== Round #7 starting ====[0m
+[34m7 players:[0m
+[34m  SpyGlass ($1175) [0m
+[34m  edi9999 ($995) [0m
+[34m  status3Bot ($975) [0m
+[34m  SneakyCharlie ($985) [0m
+[34m  FlopASetBot ($985) [0m
+[34m  whistle_tips ($945) [0m
+[34m  blaBot ($940) [0m
+ 
+[34m-- pre-flop[0m
+[34m  SpyGlass ($1170) 6h 8c [0m
+[34m  edi9999 ($985) Jd 5h [0m
+[34m  status3Bot ($975) Tc 3d [0m
+[34m  SneakyCharlie ($985) 9c Ad [0m
+[34m  FlopASetBot ($985) 2c Td [0m
+[34m  whistle_tips ($945) Qh 2d [0m
+[34m  blaBot ($940) Ts 4s [0m
+[31m  SpyGlass  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips called $10[0m
+[31m  blaBot called $10[0m
+[31m  SpyGlass went ALL IN with $1170[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot folded[0m
+[31m  whistle_tips folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #7 complete.[0m
+[34mWinner was SpyGlass  Amount won: $1215[0m
+[34mPositions: [0m
+[34mSpyGlass ($1215) had 6h 8c  [0m
+[34medi9999 ($985) had Jd 5h  [0m
+[34mstatus3Bot ($965) had Tc 3d  [0m
+[34mSneakyCharlie ($985) had 9c Ad  [0m
+[34mFlopASetBot ($985) had 2c Td  [0m
+[34mwhistle_tips ($935) had Qh 2d  [0m
+[34mblaBot ($930) had Ts 4s  [0m
+[34m=================================[0m
+ 
+[34m==== Round #8 starting ====[0m
+[34m7 players:[0m
+[34m  edi9999 ($985) [0m
+[34m  status3Bot ($965) [0m
+[34m  SneakyCharlie ($985) [0m
+[34m  FlopASetBot ($985) [0m
+[34m  whistle_tips ($935) [0m
+[34m  blaBot ($930) [0m
+[34m  SpyGlass ($1215) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($980) 4c 2c [0m
+[34m  status3Bot ($955) 9c Kd [0m
+[34m  SneakyCharlie ($985) 8c 5c [0m
+[34m  FlopASetBot ($985) Qh 7d [0m
+[34m  whistle_tips ($935) 4d Tc [0m
+[34m  blaBot ($930) 9s 3h [0m
+[34m  SpyGlass ($1215) Jh 3d [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips called $10[0m
+[31m  blaBot called $10[0m
+[31m  SpyGlass went ALL IN with $1215[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot folded[0m
+[31m  whistle_tips folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #8 complete.[0m
+[34mWinner was SpyGlass  Amount won: $1250[0m
+[34mPositions: [0m
+[34medi9999 ($980) had 4c 2c  [0m
+[34mstatus3Bot ($955) had 9c Kd  [0m
+[34mSneakyCharlie ($985) had 8c 5c  [0m
+[34mFlopASetBot ($985) had Qh 7d  [0m
+[34mwhistle_tips ($925) had 4d Tc  [0m
+[34mblaBot ($920) had 9s 3h  [0m
+[34mSpyGlass ($1250) had Jh 3d  [0m
+[34m=================================[0m
+ 
+[34m==== Round #9 starting ====[0m
+[34m7 players:[0m
+[34m  status3Bot ($955) [0m
+[34m  SneakyCharlie ($985) [0m
+[34m  FlopASetBot ($985) [0m
+[34m  whistle_tips ($925) [0m
+[34m  blaBot ($920) [0m
+[34m  SpyGlass ($1250) [0m
+[34m  edi9999 ($980) [0m
+ 
+[34m-- pre-flop[0m
+[34m  status3Bot ($950) 3h 5c [0m
+[34m  SneakyCharlie ($975) 8h Ac [0m
+[34m  FlopASetBot ($985) Qs 5d [0m
+[34m  whistle_tips ($925) Kh Js [0m
+[34m  blaBot ($920) 5h 4h [0m
+[34m  SpyGlass ($1250) 6h Ad [0m
+[34m  edi9999 ($980) Kd 7d [0m
+[31m  status3Bot  paid a blind of $5[0m
+[31m  SneakyCharlie  paid a blind of $10[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips called $10[0m
+[31m  blaBot called $10[0m
+[31m  SpyGlass went ALL IN with $1250[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot folded[0m
+[31m  SneakyCharlie folded[0m
+[31m  whistle_tips folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #9 complete.[0m
+[34mWinner was SpyGlass  Amount won: $1285[0m
+[34mPositions: [0m
+[34mstatus3Bot ($950) had 3h 5c  [0m
+[34mSneakyCharlie ($975) had 8h Ac  [0m
+[34mFlopASetBot ($985) had Qs 5d  [0m
+[34mwhistle_tips ($915) had Kh Js  [0m
+[34mblaBot ($910) had 5h 4h  [0m
+[34mSpyGlass ($1285) had 6h Ad  [0m
+[34medi9999 ($980) had Kd 7d  [0m
+[34m=================================[0m
+ 
+[34m==== Round #10 starting ====[0m
+[34m7 players:[0m
+[34m  SneakyCharlie ($975) [0m
+[34m  FlopASetBot ($985) [0m
+[34m  whistle_tips ($915) [0m
+[34m  blaBot ($910) [0m
+[34m  SpyGlass ($1285) [0m
+[34m  edi9999 ($980) [0m
+[34m  status3Bot ($950) [0m
+ 
+[34m-- pre-flop[0m
+[34m  SneakyCharlie ($970) Kh 5h [0m
+[34m  FlopASetBot ($975) 3s 7h [0m
+[34m  whistle_tips ($915) 2d 5s [0m
+[34m  blaBot ($910) 6d 8d [0m
+[34m  SpyGlass ($1285) Td Qc [0m
+[34m  edi9999 ($980) 9s 4d [0m
+[34m  status3Bot ($950) Tc 6h [0m
+[31m  SneakyCharlie  paid a blind of $5[0m
+[31m  FlopASetBot  paid a blind of $10[0m
+[31m  whistle_tips called $10[0m
+[31m  blaBot called $10[0m
+[31m  SpyGlass went ALL IN with $1285[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot folded[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #10 complete.[0m
+[34mWinner was SpyGlass  Amount won: $1320[0m
+[34mPositions: [0m
+[34mSneakyCharlie ($970) had Kh 5h  [0m
+[34mFlopASetBot ($975) had 3s 7h  [0m
+[34mwhistle_tips ($905) had 2d 5s  [0m
+[34mblaBot ($900) had 6d 8d  [0m
+[34mSpyGlass ($1320) had Td Qc  [0m
+[34medi9999 ($980) had 9s 4d  [0m
+[34mstatus3Bot ($950) had Tc 6h  [0m
+[34m=================================[0m
+ 
+[34m==== Round #11 starting ====[0m
+[34m7 players:[0m
+[34m  FlopASetBot ($975) [0m
+[34m  whistle_tips ($905) [0m
+[34m  blaBot ($900) [0m
+[34m  SpyGlass ($1320) [0m
+[34m  edi9999 ($980) [0m
+[34m  status3Bot ($950) [0m
+[34m  SneakyCharlie ($970) [0m
+ 
+[34m-- pre-flop[0m
+[34m  FlopASetBot ($970) 2s 3h [0m
+[34m  whistle_tips ($895) 7c 8s [0m
+[34m  blaBot ($900) Tc 7h [0m
+[34m  SpyGlass ($1320) Jh Kd [0m
+[34m  edi9999 ($980) 6d 3s [0m
+[34m  status3Bot ($950) Jd 2c [0m
+[34m  SneakyCharlie ($970) Td Ah [0m
+[31m  FlopASetBot  paid a blind of $5[0m
+[31m  whistle_tips  paid a blind of $10[0m
+[31m  blaBot called $10[0m
+[31m  SpyGlass went ALL IN with $1320[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot folded[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #11 complete.[0m
+[34mWinner was SpyGlass  Amount won: $1345[0m
+[34mPositions: [0m
+[34mFlopASetBot ($970) had 2s 3h  [0m
+[34mwhistle_tips ($895) had 7c 8s  [0m
+[34mblaBot ($890) had Tc 7h  [0m
+[34mSpyGlass ($1345) had Jh Kd  [0m
+[34medi9999 ($980) had 6d 3s  [0m
+[34mstatus3Bot ($950) had Jd 2c  [0m
+[34mSneakyCharlie ($970) had Td Ah  [0m
+[34m=================================[0m
+ 
+[34m==== Round #12 starting ====[0m
+[34m7 players:[0m
+[34m  whistle_tips ($895) [0m
+[34m  blaBot ($890) [0m
+[34m  SpyGlass ($1345) [0m
+[34m  edi9999 ($980) [0m
+[34m  status3Bot ($950) [0m
+[34m  SneakyCharlie ($970) [0m
+[34m  FlopASetBot ($970) [0m
+ 
+[34m-- pre-flop[0m
+[34m  whistle_tips ($890) 3h 4d [0m
+[34m  blaBot ($880) Jd 5s [0m
+[34m  SpyGlass ($1345) 4s Kd [0m
+[34m  edi9999 ($980) 4c 6c [0m
+[34m  status3Bot ($950) 8d 4h [0m
+[34m  SneakyCharlie ($970) Tc 2d [0m
+[34m  FlopASetBot ($970) 2s 9c [0m
+[31m  whistle_tips  paid a blind of $5[0m
+[31m  blaBot  paid a blind of $10[0m
+[31m  SpyGlass went ALL IN with $1345[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot folded[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #12 complete.[0m
+[34mWinner was SpyGlass  Amount won: $1360[0m
+[34mPositions: [0m
+[34mwhistle_tips ($890) had 3h 4d  [0m
+[34mblaBot ($880) had Jd 5s  [0m
+[34mSpyGlass ($1360) had 4s Kd  [0m
+[34medi9999 ($980) had 4c 6c  [0m
+[34mstatus3Bot ($950) had 8d 4h  [0m
+[34mSneakyCharlie ($970) had Tc 2d  [0m
+[34mFlopASetBot ($970) had 2s 9c  [0m
+[34m=================================[0m
+ 
+[34m==== Round #13 starting ====[0m
+[34m7 players:[0m
+[34m  blaBot ($880) [0m
+[34m  SpyGlass ($1360) [0m
+[34m  edi9999 ($980) [0m
+[34m  status3Bot ($950) [0m
+[34m  SneakyCharlie ($970) [0m
+[34m  FlopASetBot ($970) [0m
+[34m  whistle_tips ($890) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($875) 4d 5h [0m
+[34m  SpyGlass ($1350) 7d 8d [0m
+[34m  edi9999 ($980) Kc 4h [0m
+[34m  status3Bot ($950) Js 6d [0m
+[34m  SneakyCharlie ($970) Qs Qh [0m
+[34m  FlopASetBot ($970) Kd Qd [0m
+[34m  whistle_tips ($890) 7c 4c [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  SpyGlass  paid a blind of $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie raised by $160[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips called $160[0m
+[31m  blaBot folded[0m
+[31m  SpyGlass went ALL IN with $1350[0m
+[31m  status3Bot folded[0m
+[31m  SneakyCharlie went ALL IN with $810[0m
+[31m  whistle_tips folded[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 2c Ts 2d [0m
+[34m Pot is: 2505[0m
+[34m  SpyGlass ($0) 7d,8d (One pair)[0m
+[34m  SneakyCharlie ($0) Qs,Qh (Two pair)[0m
+[31m Actions: [0m
+ 
+[34m-- turn[0m
+[34m Cards are: 2c Ts 2d 2s [0m
+[34m Pot is: 2505[0m
+[34m  SpyGlass ($0) 7d,8d (Three of a kind)[0m
+[34m  SneakyCharlie ($0) Qs,Qh (Full house)[0m
+[31m Actions: [0m
+ 
+[34m-- river[0m
+[34m Cards are: 2c Ts 2d 2s 9c [0m
+[34m Pot is: 2505[0m
+[34m  SpyGlass ($0) 7d,8d (Three of a kind)[0m
+[34m  SneakyCharlie ($0) Qs,Qh (Full house)[0m
+[31m Actions: [0m
+ 
+[34m-- final[0m
+[34m Cards are: 2c Ts 2d 2s 9c [0m
+[34m Pot is: 2505[0m
+[34m  SpyGlass ($0) 7d,8d (Three of a kind)[0m
+[34m  SneakyCharlie ($0) Qs,Qh (Full house)[0m
+[31m Actions: [0m
+ 
+[34mRound #13 complete.[0m
+[34mWinners are:[0m
+[34mSneakyCharlie with Full house. Amount won: $2115[0m
+[34mSpyGlass with Three of a kind. Amount won: $390[0m
+[34mPositions: [0m
+[34mblaBot ($875) had 4d 5h  [0m
+[34mSpyGlass ($390) had 7d 8d  (Three of a kind)[0m
+[34medi9999 ($980) had Kc 4h  [0m
+[34mstatus3Bot ($940) had Js 6d  [0m
+[34mSneakyCharlie ($2115) had Qs Qh  (Full house)[0m
+[34mFlopASetBot ($970) had Kd Qd  [0m
+[34mwhistle_tips ($730) had 7c 4c  [0m
+[34m=================================[0m
+ 
+[34m==== Round #14 starting ====[0m
+[34m7 players:[0m
+[34m  SpyGlass ($390) [0m
+[34m  edi9999 ($980) [0m
+[34m  status3Bot ($940) [0m
+[34m  SneakyCharlie ($2115) [0m
+[34m  FlopASetBot ($970) [0m
+[34m  whistle_tips ($730) [0m
+[34m  blaBot ($875) [0m
+ 
+[34m-- pre-flop[0m
+[34m  SpyGlass ($385) 2s 4c [0m
+[34m  edi9999 ($970) 8h Ks [0m
+[34m  status3Bot ($940) 5h Ac [0m
+[34m  SneakyCharlie ($2115) Kd 9h [0m
+[34m  FlopASetBot ($970) Jc 3h [0m
+[34m  whistle_tips ($730) 5c 6h [0m
+[34m  blaBot ($875) 6s 9s [0m
+[31m  SpyGlass  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips called $10[0m
+[31m  blaBot called $10[0m
+[31m  SpyGlass went ALL IN with $385[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot folded[0m
+[31m  whistle_tips folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #14 complete.[0m
+[34mWinner was SpyGlass  Amount won: $430[0m
+[34mPositions: [0m
+[34mSpyGlass ($430) had 2s 4c  [0m
+[34medi9999 ($970) had 8h Ks  [0m
+[34mstatus3Bot ($930) had 5h Ac  [0m
+[34mSneakyCharlie ($2115) had Kd 9h  [0m
+[34mFlopASetBot ($970) had Jc 3h  [0m
+[34mwhistle_tips ($720) had 5c 6h  [0m
+[34mblaBot ($865) had 6s 9s  [0m
+[34m=================================[0m
+ 
+[34m==== Round #15 starting ====[0m
+[34m7 players:[0m
+[34m  edi9999 ($970) [0m
+[34m  status3Bot ($930) [0m
+[34m  SneakyCharlie ($2115) [0m
+[34m  FlopASetBot ($970) [0m
+[34m  whistle_tips ($720) [0m
+[34m  blaBot ($865) [0m
+[34m  SpyGlass ($430) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($965) Th Ts [0m
+[34m  status3Bot ($920) 9c Qd [0m
+[34m  SneakyCharlie ($2115) 3h Jd [0m
+[34m  FlopASetBot ($970) Td As [0m
+[34m  whistle_tips ($720) Qc 9h [0m
+[34m  blaBot ($865) Qs 7c [0m
+[34m  SpyGlass ($430) 8c 7s [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips called $10[0m
+[31m  blaBot called $10[0m
+[31m  SpyGlass went ALL IN with $430[0m
+[31m  edi9999 went ALL IN with $965[0m
+[31m  status3Bot folded[0m
+[31m  whistle_tips folded[0m
+[31m  blaBot folded[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 4h 8d Ad [0m
+[34m Pot is: 1430[0m
+[34m  edi9999 ($0) Th,Ts (One pair)[0m
+[34m  SpyGlass ($0) 8c,7s (One pair)[0m
+[31m Actions: [0m
+ 
+[34m-- turn[0m
+[34m Cards are: 4h 8d Ad Tc [0m
+[34m Pot is: 1430[0m
+[34m  edi9999 ($0) Th,Ts (Three of a kind)[0m
+[34m  SpyGlass ($0) 8c,7s (One pair)[0m
+[31m Actions: [0m
+ 
+[34m-- river[0m
+[34m Cards are: 4h 8d Ad Tc Kc [0m
+[34m Pot is: 1430[0m
+[34m  edi9999 ($0) Th,Ts (Three of a kind)[0m
+[34m  SpyGlass ($0) 8c,7s (One pair)[0m
+[31m Actions: [0m
+ 
+[34m-- final[0m
+[34m Cards are: 4h 8d Ad Tc Kc [0m
+[34m Pot is: 1430[0m
+[34m  edi9999 ($0) Th,Ts (Three of a kind)[0m
+[34m  SpyGlass ($0) 8c,7s (One pair)[0m
+[31m Actions: [0m
+ 
+[34mRound #15 complete.[0m
+[34mWinner was edi9999 with Three of a kind Amount won: $1430[0m
+[34mPositions: [0m
+[34medi9999 ($1430) had Th Ts  (Three of a kind)[0m
+[34mstatus3Bot ($920) had 9c Qd  [0m
+[34mSneakyCharlie ($2115) had 3h Jd  [0m
+[34mFlopASetBot ($970) had Td As  [0m
+[34mwhistle_tips ($710) had Qc 9h  [0m
+[34mblaBot ($855) had Qs 7c  [0m
+[34mSpyGlass ($0) had 8c 7s  (One pair)[0m
+[34m=================================[0m
+ 
+[34m==== Round #16 starting ====[0m
+[34m6 players:[0m
+[34m  status3Bot ($920) [0m
+[34m  SneakyCharlie ($2115) [0m
+[34m  FlopASetBot ($970) [0m
+[34m  whistle_tips ($710) [0m
+[34m  blaBot ($855) [0m
+[34m  edi9999 ($1430) [0m
+ 
+[34m-- pre-flop[0m
+[34m  status3Bot ($915) Kh Qh [0m
+[34m  SneakyCharlie ($2105) 5d 7d [0m
+[34m  FlopASetBot ($970) Tc Kc [0m
+[34m  whistle_tips ($710) 9d 2d [0m
+[34m  blaBot ($855) 4s Th [0m
+[34m  edi9999 ($1430) Qs Js [0m
+[31m  status3Bot  paid a blind of $5[0m
+[31m  SneakyCharlie  paid a blind of $10[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips called $10[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 raised by $40[0m
+[31m  status3Bot folded[0m
+[31m  SneakyCharlie folded[0m
+[31m  whistle_tips called $30[0m
+[31m  blaBot folded[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 7h 2c 4c [0m
+[34m Pot is: 105[0m
+[34m  whistle_tips ($670) 9d,2d (One pair)[0m
+[34m  edi9999 ($1390) Qs,Js[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  edi9999 raised by $10[0m
+[31m  whistle_tips called $10[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 7h 2c 4c 4d [0m
+[34m Pot is: 125[0m
+[34m  whistle_tips ($660) 9d,2d (Two pair)[0m
+[34m  edi9999 ($1380) Qs,Js (One pair)[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: 7h 2c 4c 4d Jh [0m
+[34m Pot is: 125[0m
+[34m  whistle_tips ($660) 9d,2d (Two pair)[0m
+[34m  edi9999 ($1380) Qs,Js (Two pair)[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: 7h 2c 4c 4d Jh [0m
+[34m Pot is: 125[0m
+[34m  whistle_tips ($660) 9d,2d (Two pair)[0m
+[34m  edi9999 ($1380) Qs,Js (Two pair)[0m
+[31m Actions: [0m
+ 
+[34mRound #16 complete.[0m
+[34mWinner was edi9999 with Two pair Amount won: $125[0m
+[34mPositions: [0m
+[34mstatus3Bot ($915) had Kh Qh  [0m
+[34mSneakyCharlie ($2105) had 5d 7d  [0m
+[34mFlopASetBot ($970) had Tc Kc  [0m
+[34mwhistle_tips ($660) had 9d 2d  (Two pair)[0m
+[34mblaBot ($845) had 4s Th  [0m
+[34medi9999 ($1505) had Qs Js  (Two pair)[0m
+[34m=================================[0m
+ 
+[34m==== Round #17 starting ====[0m
+[34m6 players:[0m
+[34m  SneakyCharlie ($2105) [0m
+[34m  FlopASetBot ($970) [0m
+[34m  whistle_tips ($660) [0m
+[34m  blaBot ($845) [0m
+[34m  edi9999 ($1505) [0m
+[34m  status3Bot ($915) [0m
+ 
+[34m-- pre-flop[0m
+[34m  SneakyCharlie ($2100) 3s 9s [0m
+[34m  FlopASetBot ($960) 3h 6c [0m
+[34m  whistle_tips ($660) 7c 9h [0m
+[34m  blaBot ($845) 2s 8s [0m
+[34m  edi9999 ($1505) Ac 3c [0m
+[34m  status3Bot ($915) 7d Td [0m
+[31m  SneakyCharlie  paid a blind of $5[0m
+[31m  FlopASetBot  paid a blind of $10[0m
+[31m  whistle_tips called $10[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Th 4d Ad [0m
+[34m Pot is: 45[0m
+[34m  FlopASetBot ($960) 3h,6c[0m
+[34m  whistle_tips ($650) 7c,9h[0m
+[34m  blaBot ($835) 2s,8s[0m
+[34m  status3Bot ($905) 7d,Td (One pair)[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  whistle_tips checked[0m
+[31m  blaBot checked[0m
+[31m  status3Bot raised by $50[0m
+[31m  FlopASetBot called $50[0m
+[31m  whistle_tips folded[0m
+[31m  blaBot folded[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Th 4d Ad Jh [0m
+[34m Pot is: 145[0m
+[34m  FlopASetBot ($910) 3h,6c[0m
+[34m  status3Bot ($855) 7d,Td (One pair)[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  status3Bot raised by $50[0m
+[31m  FlopASetBot called $50[0m
+ 
+[34m-- river[0m
+[34m Cards are: Th 4d Ad Jh 4s [0m
+[34m Pot is: 245[0m
+[34m  FlopASetBot ($860) 3h,6c (One pair)[0m
+[34m  status3Bot ($805) 7d,Td (Two pair)[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  status3Bot raised by $50[0m
+[31m  FlopASetBot called $50[0m
+ 
+[34m-- final[0m
+[34m Cards are: Th 4d Ad Jh 4s [0m
+[34m Pot is: 345[0m
+[34m  FlopASetBot ($810) 3h,6c (One pair)[0m
+[34m  status3Bot ($755) 7d,Td (Two pair)[0m
+[31m Actions: [0m
+ 
+[34mRound #17 complete.[0m
+[34mWinner was status3Bot with Two pair Amount won: $345[0m
+[34mPositions: [0m
+[34mSneakyCharlie ($2100) had 3s 9s  [0m
+[34mFlopASetBot ($810) had 3h 6c  (One pair)[0m
+[34mwhistle_tips ($650) had 7c 9h  [0m
+[34mblaBot ($835) had 2s 8s  [0m
+[34medi9999 ($1505) had Ac 3c  [0m
+[34mstatus3Bot ($1100) had 7d Td  (Two pair)[0m
+[34m=================================[0m
+ 
+[34m==== Round #18 starting ====[0m
+[34m6 players:[0m
+[34m  FlopASetBot ($810) [0m
+[34m  whistle_tips ($650) [0m
+[34m  blaBot ($835) [0m
+[34m  edi9999 ($1505) [0m
+[34m  status3Bot ($1100) [0m
+[34m  SneakyCharlie ($2100) [0m
+ 
+[34m-- pre-flop[0m
+[34m  FlopASetBot ($805) 9c Qs [0m
+[34m  whistle_tips ($640) 6h Kc [0m
+[34m  blaBot ($835) Jh 2h [0m
+[34m  edi9999 ($1505) 7c Ks [0m
+[34m  status3Bot ($1100) 4c 5c [0m
+[34m  SneakyCharlie ($2100) Ts 8s [0m
+[31m  FlopASetBot  paid a blind of $5[0m
+[31m  whistle_tips  paid a blind of $10[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Qd 2d 7h [0m
+[34m Pot is: 35[0m
+[34m  whistle_tips ($640) 6h,Kc[0m
+[34m  blaBot ($825) Jh,2h (One pair)[0m
+[34m  status3Bot ($1090) 4c,5c[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Qd 2d 7h 6c [0m
+[34m Pot is: 35[0m
+[34m  whistle_tips ($640) 6h,Kc (One pair)[0m
+[34m  blaBot ($825) Jh,2h (One pair)[0m
+[34m  status3Bot ($1090) 4c,5c[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: Qd 2d 7h 6c Ah [0m
+[34m Pot is: 35[0m
+[34m  whistle_tips ($640) 6h,Kc (One pair)[0m
+[34m  blaBot ($825) Jh,2h (One pair)[0m
+[34m  status3Bot ($1090) 4c,5c[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: Qd 2d 7h 6c Ah [0m
+[34m Pot is: 35[0m
+[34m  whistle_tips ($640) 6h,Kc (One pair)[0m
+[34m  blaBot ($825) Jh,2h (One pair)[0m
+[34m  status3Bot ($1090) 4c,5c[0m
+[31m Actions: [0m
+ 
+[34mRound #18 complete.[0m
+[34mWinner was whistle_tips with One pair Amount won: $35[0m
+[34mPositions: [0m
+[34mFlopASetBot ($805) had 9c Qs  [0m
+[34mwhistle_tips ($675) had 6h Kc  (One pair)[0m
+[34mblaBot ($825) had Jh 2h  (One pair)[0m
+[34medi9999 ($1505) had 7c Ks  [0m
+[34mstatus3Bot ($1090) had 4c 5c  (High card)[0m
+[34mSneakyCharlie ($2100) had Ts 8s  [0m
+[34m=================================[0m
+ 
+[34m==== Round #19 starting ====[0m
+[34m6 players:[0m
+[34m  whistle_tips ($675) [0m
+[34m  blaBot ($825) [0m
+[34m  edi9999 ($1505) [0m
+[34m  status3Bot ($1090) [0m
+[34m  SneakyCharlie ($2100) [0m
+[34m  FlopASetBot ($805) [0m
+ 
+[34m-- pre-flop[0m
+[34m  whistle_tips ($670) Tc Td [0m
+[34m  blaBot ($815) 9c Qc [0m
+[34m  edi9999 ($1505) 3d Js [0m
+[34m  status3Bot ($1090) 3c Kh [0m
+[34m  SneakyCharlie ($2100) Th 2s [0m
+[34m  FlopASetBot ($805) 4h 6d [0m
+[31m  whistle_tips  paid a blind of $5[0m
+[31m  blaBot  paid a blind of $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips called $5[0m
+[31m  blaBot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 9d Ah Qs [0m
+[34m Pot is: 30[0m
+[34m  whistle_tips ($665) Tc,Td (One pair)[0m
+[34m  blaBot ($815) 9c,Qc (Two pair)[0m
+[34m  status3Bot ($1080) 3c,Kh[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  blaBot checked[0m
+[31m  status3Bot raised by $30[0m
+[31m  whistle_tips called $30[0m
+[31m  blaBot folded[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 9d Ah Qs Jh [0m
+[34m Pot is: 90[0m
+[34m  whistle_tips ($635) Tc,Td (One pair)[0m
+[34m  status3Bot ($1050) 3c,Kh[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  status3Bot raised by $30[0m
+[31m  whistle_tips called $30[0m
+ 
+[34m-- river[0m
+[34m Cards are: 9d Ah Qs Jh Kd [0m
+[34m Pot is: 150[0m
+[34m  whistle_tips ($605) Tc,Td (Straight)[0m
+[34m  status3Bot ($1020) 3c,Kh (One pair)[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  status3Bot raised by $30[0m
+[31m  whistle_tips called $30[0m
+ 
+[34m-- final[0m
+[34m Cards are: 9d Ah Qs Jh Kd [0m
+[34m Pot is: 210[0m
+[34m  whistle_tips ($575) Tc,Td (Straight)[0m
+[34m  status3Bot ($990) 3c,Kh (One pair)[0m
+[31m Actions: [0m
+ 
+[34mRound #19 complete.[0m
+[34mWinner was whistle_tips with Straight Amount won: $210[0m
+[34mPositions: [0m
+[34mwhistle_tips ($785) had Tc Td  (Straight)[0m
+[34mblaBot ($815) had 9c Qc  [0m
+[34medi9999 ($1505) had 3d Js  [0m
+[34mstatus3Bot ($990) had 3c Kh  (One pair)[0m
+[34mSneakyCharlie ($2100) had Th 2s  [0m
+[34mFlopASetBot ($805) had 4h 6d  [0m
+[34m=================================[0m
+ 
+[34m==== Round #20 starting ====[0m
+[34m6 players:[0m
+[34m  blaBot ($815) [0m
+[34m  edi9999 ($1505) [0m
+[34m  status3Bot ($990) [0m
+[34m  SneakyCharlie ($2100) [0m
+[34m  FlopASetBot ($805) [0m
+[34m  whistle_tips ($785) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($810) 2s 8s [0m
+[34m  edi9999 ($1495) 5s Ac [0m
+[34m  status3Bot ($990) 8c 9s [0m
+[34m  SneakyCharlie ($2100) 6d 3s [0m
+[34m  FlopASetBot ($805) Qc Kc [0m
+[34m  whistle_tips ($785) 2h 5c [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips called $10[0m
+[31m  blaBot called $5[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 9h Kd 3h [0m
+[34m Pot is: 40[0m
+[34m  blaBot ($805) 2s,8s[0m
+[34m  edi9999 ($1495) 5s,Ac[0m
+[34m  status3Bot ($980) 8c,9s (One pair)[0m
+[34m  whistle_tips ($775) 2h,5c[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 raised by $10[0m
+[31m  status3Bot called $10[0m
+[31m  whistle_tips folded[0m
+[31m  blaBot folded[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 9h Kd 3h Qd [0m
+[34m Pot is: 60[0m
+[34m  edi9999 ($1485) 5s,Ac[0m
+[34m  status3Bot ($970) 8c,9s (One pair)[0m
+[31m Actions: [0m
+[31m  edi9999 checked[0m
+[31m  status3Bot raised by $20[0m
+[31m  edi9999 folded[0m
+ 
+[34mRound #20 complete.[0m
+[34mWinner was status3Bot  Amount won: $80[0m
+[34mPositions: [0m
+[34mblaBot ($805) had 2s 8s  [0m
+[34medi9999 ($1485) had 5s Ac  [0m
+[34mstatus3Bot ($1030) had 8c 9s  [0m
+[34mSneakyCharlie ($2100) had 6d 3s  [0m
+[34mFlopASetBot ($805) had Qc Kc  [0m
+[34mwhistle_tips ($775) had 2h 5c  [0m
+[34m=================================[0m
+ 
+[34m==== Round #21 starting ====[0m
+[34m6 players:[0m
+[34m  edi9999 ($1485) [0m
+[34m  status3Bot ($1030) [0m
+[34m  SneakyCharlie ($2100) [0m
+[34m  FlopASetBot ($805) [0m
+[34m  whistle_tips ($775) [0m
+[34m  blaBot ($805) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1480) Kc 3s [0m
+[34m  status3Bot ($1020) 6c Qc [0m
+[34m  SneakyCharlie ($2100) 4s 3h [0m
+[34m  FlopASetBot ($805) 7d 3c [0m
+[34m  whistle_tips ($775) 2s 9c [0m
+[34m  blaBot ($805) Kh 4h [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips called $10[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Qd 8c 6s [0m
+[34m Pot is: 35[0m
+[34m  status3Bot ($1020) 6c,Qc (Two pair)[0m
+[34m  whistle_tips ($765) 2s,9c[0m
+[34m  blaBot ($795) Kh,4h[0m
+[31m Actions: [0m
+[31m  status3Bot raised by $10[0m
+[31m  whistle_tips folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #21 complete.[0m
+[34mWinner was status3Bot  Amount won: $45[0m
+[34mPositions: [0m
+[34medi9999 ($1480) had Kc 3s  [0m
+[34mstatus3Bot ($1055) had 6c Qc  [0m
+[34mSneakyCharlie ($2100) had 4s 3h  [0m
+[34mFlopASetBot ($805) had 7d 3c  [0m
+[34mwhistle_tips ($765) had 2s 9c  [0m
+[34mblaBot ($795) had Kh 4h  [0m
+[34m=================================[0m
+ 
+[34m==== Round #22 starting ====[0m
+[34m6 players:[0m
+[34m  edi9999 ($1480) [0m
+[34m  status3Bot ($1055) [0m
+[34m  SneakyCharlie ($2100) [0m
+[34m  FlopASetBot ($805) [0m
+[34m  whistle_tips ($765) [0m
+[34m  blaBot ($795) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1475) As 4c [0m
+[34m  status3Bot ($1045) 8c 6s [0m
+[34m  SneakyCharlie ($2100) Qd 2d [0m
+[34m  FlopASetBot ($805) 9d 5c [0m
+[34m  whistle_tips ($765) 3h 3c [0m
+[34m  blaBot ($795) 2c 3s [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  whistle_tips called $10[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 6d 2h 5d [0m
+[34m Pot is: 35[0m
+[34m  status3Bot ($1045) 8c,6s (One pair)[0m
+[34m  whistle_tips ($755) 3h,3c (One pair)[0m
+[34m  blaBot ($785) 2c,3s (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot raised by $10[0m
+[31m  whistle_tips called $10[0m
+[31m  blaBot folded[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 6d 2h 5d 5s [0m
+[34m Pot is: 55[0m
+[34m  status3Bot ($1035) 8c,6s (Two pair)[0m
+[34m  whistle_tips ($745) 3h,3c (Two pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  whistle_tips checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: 6d 2h 5d 5s 5h [0m
+[34m Pot is: 55[0m
+[34m  status3Bot ($1035) 8c,6s (Full house)[0m
+[34m  whistle_tips ($745) 3h,3c (Full house)[0m
+[31m Actions: [0m
+[31m  status3Bot raised by $240[0m
+[31m  whistle_tips went ALL IN with $745[0m
+[31m  status3Bot called $505[0m
+ 
+[34m-- final[0m
+[34m Cards are: 6d 2h 5d 5s 5h [0m
+[34m Pot is: 1545[0m
+[34m  status3Bot ($290) 8c,6s (Full house)[0m
+[34m  whistle_tips ($0) 3h,3c (Full house)[0m
+[31m Actions: [0m
+ 
+[34mRound #22 complete.[0m
+[34mWinner was status3Bot with Full house Amount won: $1545[0m
+[34mPositions: [0m
+[34medi9999 ($1475) had As 4c  [0m
+[34mstatus3Bot ($1835) had 8c 6s  (Full house)[0m
+[34mSneakyCharlie ($2100) had Qd 2d  [0m
+[34mFlopASetBot ($805) had 9d 5c  [0m
+[34mwhistle_tips ($0) had 3h 3c  (Full house)[0m
+[34mblaBot ($785) had 2c 3s  [0m
+[34m=================================[0m
+ 
+[34m==== Round #23 starting ====[0m
+[34m5 players:[0m
+[34m  status3Bot ($1835) [0m
+[34m  SneakyCharlie ($2100) [0m
+[34m  FlopASetBot ($805) [0m
+[34m  blaBot ($785) [0m
+[34m  edi9999 ($1475) [0m
+ 
+[34m-- pre-flop[0m
+[34m  status3Bot ($1830) 2h 9d [0m
+[34m  SneakyCharlie ($2090) 7s 6c [0m
+[34m  FlopASetBot ($805) 4h 8d [0m
+[34m  blaBot ($785) 8s 2d [0m
+[34m  edi9999 ($1475) 9h Ks [0m
+[31m  status3Bot  paid a blind of $5[0m
+[31m  SneakyCharlie  paid a blind of $10[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $5[0m
+[31m  SneakyCharlie checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 5c 8c 4d [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1825) 2h,9d[0m
+[34m  SneakyCharlie ($2090) 7s,6c (Straight)[0m
+[34m  blaBot ($775) 8s,2d (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie raised by $80[0m
+[31m  blaBot folded[0m
+[31m  status3Bot folded[0m
+ 
+[34mRound #23 complete.[0m
+[34mWinner was SneakyCharlie  Amount won: $110[0m
+[34mPositions: [0m
+[34mstatus3Bot ($1825) had 2h 9d  [0m
+[34mSneakyCharlie ($2120) had 7s 6c  [0m
+[34mFlopASetBot ($805) had 4h 8d  [0m
+[34mblaBot ($775) had 8s 2d  [0m
+[34medi9999 ($1475) had 9h Ks  [0m
+[34m=================================[0m
+ 
+[34m==== Round #24 starting ====[0m
+[34m5 players:[0m
+[34m  SneakyCharlie ($2120) [0m
+[34m  FlopASetBot ($805) [0m
+[34m  blaBot ($775) [0m
+[34m  edi9999 ($1475) [0m
+[34m  status3Bot ($1825) [0m
+ 
+[34m-- pre-flop[0m
+[34m  SneakyCharlie ($2115) 9c Jh [0m
+[34m  FlopASetBot ($795) Qc Ad [0m
+[34m  blaBot ($775) Tc 7h [0m
+[34m  edi9999 ($1475) As 6c [0m
+[34m  status3Bot ($1825) Jd 5d [0m
+[31m  SneakyCharlie  paid a blind of $5[0m
+[31m  FlopASetBot  paid a blind of $10[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot went ALL IN with $795[0m
+[31m  blaBot folded[0m
+[31m  status3Bot folded[0m
+ 
+[34mRound #24 complete.[0m
+[34mWinner was FlopASetBot  Amount won: $830[0m
+[34mPositions: [0m
+[34mSneakyCharlie ($2115) had 9c Jh  [0m
+[34mFlopASetBot ($830) had Qc Ad  [0m
+[34mblaBot ($765) had Tc 7h  [0m
+[34medi9999 ($1475) had As 6c  [0m
+[34mstatus3Bot ($1815) had Jd 5d  [0m
+[34m=================================[0m
+ 
+[34m==== Round #25 starting ====[0m
+[34m5 players:[0m
+[34m  FlopASetBot ($830) [0m
+[34m  blaBot ($765) [0m
+[34m  edi9999 ($1475) [0m
+[34m  status3Bot ($1815) [0m
+[34m  SneakyCharlie ($2115) [0m
+ 
+[34m-- pre-flop[0m
+[34m  FlopASetBot ($825) Ts 3h [0m
+[34m  blaBot ($755) 7h 8c [0m
+[34m  edi9999 ($1475) 9h 4d [0m
+[34m  status3Bot ($1815) 8h 4h [0m
+[34m  SneakyCharlie ($2115) 6h 3s [0m
+[31m  FlopASetBot  paid a blind of $5[0m
+[31m  blaBot  paid a blind of $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Tc Qs Js [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($755) 7h,8c[0m
+[34m  status3Bot ($1805) 8h,4h[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Tc Qs Js Ah [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($755) 7h,8c[0m
+[34m  status3Bot ($1805) 8h,4h[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: Tc Qs Js Ah Kd [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($755) 7h,8c (Straight)[0m
+[34m  status3Bot ($1805) 8h,4h (Straight)[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: Tc Qs Js Ah Kd [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($755) 7h,8c (Straight)[0m
+[34m  status3Bot ($1805) 8h,4h (Straight)[0m
+[31m Actions: [0m
+ 
+[34mRound #25 complete.[0m
+[34mWinners are:[0m
+[34mblaBot with Straight. Amount won: $13[0m
+[34mstatus3Bot with Straight. Amount won: $12[0m
+[34mPositions: [0m
+[34mFlopASetBot ($825) had Ts 3h  [0m
+[34mblaBot ($768) had 7h 8c  (Straight)[0m
+[34medi9999 ($1475) had 9h 4d  [0m
+[34mstatus3Bot ($1817) had 8h 4h  (Straight)[0m
+[34mSneakyCharlie ($2115) had 6h 3s  [0m
+[34m=================================[0m
+ 
+[34m==== Round #26 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($768) [0m
+[34m  edi9999 ($1475) [0m
+[34m  status3Bot ($1817) [0m
+[34m  SneakyCharlie ($2115) [0m
+[34m  FlopASetBot ($825) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($763) Kh Kd [0m
+[34m  edi9999 ($1465) 7c 9c [0m
+[34m  status3Bot ($1817) Jc 9h [0m
+[34m  SneakyCharlie ($2115) 2c 2d [0m
+[34m  FlopASetBot ($825) 3c 5h [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie raised by $160[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot folded[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot folded[0m
+ 
+[34mRound #26 complete.[0m
+[34mWinner was SneakyCharlie  Amount won: $185[0m
+[34mPositions: [0m
+[34mblaBot ($763) had Kh Kd  [0m
+[34medi9999 ($1465) had 7c 9c  [0m
+[34mstatus3Bot ($1807) had Jc 9h  [0m
+[34mSneakyCharlie ($2140) had 2c 2d  [0m
+[34mFlopASetBot ($825) had 3c 5h  [0m
+[34m=================================[0m
+ 
+[34m==== Round #27 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($763) [0m
+[34m  edi9999 ($1465) [0m
+[34m  status3Bot ($1807) [0m
+[34m  SneakyCharlie ($2140) [0m
+[34m  FlopASetBot ($825) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($758) 3d Ks [0m
+[34m  edi9999 ($1455) 9d 8h [0m
+[34m  status3Bot ($1807) Jc 9s [0m
+[34m  SneakyCharlie ($2140) 6s As [0m
+[34m  FlopASetBot ($825) 6h Jh [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $5[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 5s Td Qh [0m
+[34m Pot is: 30[0m
+[34m  blaBot ($753) 3d,Ks[0m
+[34m  edi9999 ($1455) 9d,8h[0m
+[34m  status3Bot ($1797) Jc,9s[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 raised by $10[0m
+[31m  status3Bot folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #27 complete.[0m
+[34mWinner was edi9999  Amount won: $40[0m
+[34mPositions: [0m
+[34mblaBot ($753) had 3d Ks  [0m
+[34medi9999 ($1485) had 9d 8h  [0m
+[34mstatus3Bot ($1797) had Jc 9s  [0m
+[34mSneakyCharlie ($2140) had 6s As  [0m
+[34mFlopASetBot ($825) had 6h Jh  [0m
+[34m=================================[0m
+ 
+[34m==== Round #28 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1485) [0m
+[34m  status3Bot ($1797) [0m
+[34m  SneakyCharlie ($2140) [0m
+[34m  FlopASetBot ($825) [0m
+[34m  blaBot ($753) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1480) 5c 8h [0m
+[34m  status3Bot ($1787) Jd 5d [0m
+[34m  SneakyCharlie ($2140) 7d 6h [0m
+[34m  FlopASetBot ($825) 9c Kd [0m
+[34m  blaBot ($753) 8d Ts [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 2s 3c Ac [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1787) Jd,5d[0m
+[34m  blaBot ($743) 8d,Ts[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 2s 3c Ac Tc [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1787) Jd,5d[0m
+[34m  blaBot ($743) 8d,Ts (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: 2s 3c Ac Tc 2d [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1787) Jd,5d (One pair)[0m
+[34m  blaBot ($743) 8d,Ts (Two pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: 2s 3c Ac Tc 2d [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1787) Jd,5d (One pair)[0m
+[34m  blaBot ($743) 8d,Ts (Two pair)[0m
+[31m Actions: [0m
+ 
+[34mRound #28 complete.[0m
+[34mWinner was blaBot with Two pair Amount won: $25[0m
+[34mPositions: [0m
+[34medi9999 ($1480) had 5c 8h  [0m
+[34mstatus3Bot ($1787) had Jd 5d  (One pair)[0m
+[34mSneakyCharlie ($2140) had 7d 6h  [0m
+[34mFlopASetBot ($825) had 9c Kd  [0m
+[34mblaBot ($768) had 8d Ts  (Two pair)[0m
+[34m=================================[0m
+ 
+[34m==== Round #29 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1480) [0m
+[34m  status3Bot ($1787) [0m
+[34m  SneakyCharlie ($2140) [0m
+[34m  FlopASetBot ($825) [0m
+[34m  blaBot ($768) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1475) Qc Ad [0m
+[34m  status3Bot ($1777) Js 8h [0m
+[34m  SneakyCharlie ($2140) As 5d [0m
+[34m  FlopASetBot ($825) 4d Qh [0m
+[34m  blaBot ($768) 6d 8s [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 raised by $20[0m
+[31m  status3Bot folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #29 complete.[0m
+[34mWinner was edi9999  Amount won: $45[0m
+[34mPositions: [0m
+[34medi9999 ($1500) had Qc Ad  [0m
+[34mstatus3Bot ($1777) had Js 8h  [0m
+[34mSneakyCharlie ($2140) had As 5d  [0m
+[34mFlopASetBot ($825) had 4d Qh  [0m
+[34mblaBot ($758) had 6d 8s  [0m
+[34m=================================[0m
+ 
+[34m==== Round #30 starting ====[0m
+[34m5 players:[0m
+[34m  status3Bot ($1777) [0m
+[34m  SneakyCharlie ($2140) [0m
+[34m  FlopASetBot ($825) [0m
+[34m  blaBot ($758) [0m
+[34m  edi9999 ($1500) [0m
+ 
+[34m-- pre-flop[0m
+[34m  status3Bot ($1772) 3d 8s [0m
+[34m  SneakyCharlie ($2130) Qd Ad [0m
+[34m  FlopASetBot ($825) 6c Td [0m
+[34m  blaBot ($758) Js Qh [0m
+[34m  edi9999 ($1500) 2h Kd [0m
+[31m  status3Bot  paid a blind of $5[0m
+[31m  SneakyCharlie  paid a blind of $10[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $5[0m
+[31m  SneakyCharlie raised by $80[0m
+[31m  blaBot folded[0m
+[31m  status3Bot folded[0m
+ 
+[34mRound #30 complete.[0m
+[34mWinner was SneakyCharlie  Amount won: $110[0m
+[34mPositions: [0m
+[34mstatus3Bot ($1767) had 3d 8s  [0m
+[34mSneakyCharlie ($2160) had Qd Ad  [0m
+[34mFlopASetBot ($825) had 6c Td  [0m
+[34mblaBot ($748) had Js Qh  [0m
+[34medi9999 ($1500) had 2h Kd  [0m
+[34m=================================[0m
+ 
+[34m==== Round #31 starting ====[0m
+[34m5 players:[0m
+[34m  SneakyCharlie ($2160) [0m
+[34m  FlopASetBot ($825) [0m
+[34m  blaBot ($748) [0m
+[34m  edi9999 ($1500) [0m
+[34m  status3Bot ($1767) [0m
+ 
+[34m-- pre-flop[0m
+[34m  SneakyCharlie ($2155) 2s 4h [0m
+[34m  FlopASetBot ($815) 5c Ad [0m
+[34m  blaBot ($748) 5s 6s [0m
+[34m  edi9999 ($1500) 8d Kd [0m
+[34m  status3Bot ($1767) 3d 7h [0m
+[31m  SneakyCharlie  paid a blind of $5[0m
+[31m  FlopASetBot  paid a blind of $10[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 6h 9d 4s [0m
+[34m Pot is: 35[0m
+[34m  FlopASetBot ($815) 5c,Ad[0m
+[34m  blaBot ($738) 5s,6s (One pair)[0m
+[34m  status3Bot ($1757) 3d,7h[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 6h 9d 4s Jc [0m
+[34m Pot is: 35[0m
+[34m  FlopASetBot ($815) 5c,Ad[0m
+[34m  blaBot ($738) 5s,6s (One pair)[0m
+[34m  status3Bot ($1757) 3d,7h[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: 6h 9d 4s Jc 6c [0m
+[34m Pot is: 35[0m
+[34m  FlopASetBot ($815) 5c,Ad (One pair)[0m
+[34m  blaBot ($738) 5s,6s (Three of a kind)[0m
+[34m  status3Bot ($1757) 3d,7h (One pair)[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: 6h 9d 4s Jc 6c [0m
+[34m Pot is: 35[0m
+[34m  FlopASetBot ($815) 5c,Ad (One pair)[0m
+[34m  blaBot ($738) 5s,6s (Three of a kind)[0m
+[34m  status3Bot ($1757) 3d,7h (One pair)[0m
+[31m Actions: [0m
+ 
+[34mRound #31 complete.[0m
+[34mWinner was blaBot with Three of a kind Amount won: $35[0m
+[34mPositions: [0m
+[34mSneakyCharlie ($2155) had 2s 4h  [0m
+[34mFlopASetBot ($815) had 5c Ad  (One pair)[0m
+[34mblaBot ($773) had 5s 6s  (Three of a kind)[0m
+[34medi9999 ($1500) had 8d Kd  [0m
+[34mstatus3Bot ($1757) had 3d 7h  (One pair)[0m
+[34m=================================[0m
+ 
+[34m==== Round #32 starting ====[0m
+[34m5 players:[0m
+[34m  FlopASetBot ($815) [0m
+[34m  blaBot ($773) [0m
+[34m  edi9999 ($1500) [0m
+[34m  status3Bot ($1757) [0m
+[34m  SneakyCharlie ($2155) [0m
+ 
+[34m-- pre-flop[0m
+[34m  FlopASetBot ($810) 2d 5d [0m
+[34m  blaBot ($763) Qd Ad [0m
+[34m  edi9999 ($1500) Jh 6d [0m
+[34m  status3Bot ($1757) 8h 7c [0m
+[34m  SneakyCharlie ($2155) Jc 2c [0m
+[31m  FlopASetBot  paid a blind of $5[0m
+[31m  blaBot  paid a blind of $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Tc Qc Qs [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($763) Qd,Ad (Three of a kind)[0m
+[34m  status3Bot ($1747) 8h,7c (One pair)[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Tc Qc Qs 5s [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($763) Qd,Ad (Three of a kind)[0m
+[34m  status3Bot ($1747) 8h,7c (One pair)[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: Tc Qc Qs 5s 9c [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($763) Qd,Ad (Three of a kind)[0m
+[34m  status3Bot ($1747) 8h,7c (One pair)[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: Tc Qc Qs 5s 9c [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($763) Qd,Ad (Three of a kind)[0m
+[34m  status3Bot ($1747) 8h,7c (One pair)[0m
+[31m Actions: [0m
+ 
+[34mRound #32 complete.[0m
+[34mWinner was blaBot with Three of a kind Amount won: $25[0m
+[34mPositions: [0m
+[34mFlopASetBot ($810) had 2d 5d  [0m
+[34mblaBot ($788) had Qd Ad  (Three of a kind)[0m
+[34medi9999 ($1500) had Jh 6d  [0m
+[34mstatus3Bot ($1747) had 8h 7c  (One pair)[0m
+[34mSneakyCharlie ($2155) had Jc 2c  [0m
+[34m=================================[0m
+ 
+[34m==== Round #33 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($788) [0m
+[34m  edi9999 ($1500) [0m
+[34m  status3Bot ($1747) [0m
+[34m  SneakyCharlie ($2155) [0m
+[34m  FlopASetBot ($810) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($783) 8h Th [0m
+[34m  edi9999 ($1490) 5h Td [0m
+[34m  status3Bot ($1747) Jd 3c [0m
+[34m  SneakyCharlie ($2155) 4c Kc [0m
+[34m  FlopASetBot ($810) Qs Jh [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $5[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: As 6s 6d [0m
+[34m Pot is: 30[0m
+[34m  blaBot ($778) 8h,Th (One pair)[0m
+[34m  edi9999 ($1490) 5h,Td (One pair)[0m
+[34m  status3Bot ($1737) Jd,3c (One pair)[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 raised by $10[0m
+[31m  status3Bot folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #33 complete.[0m
+[34mWinner was edi9999  Amount won: $40[0m
+[34mPositions: [0m
+[34mblaBot ($778) had 8h Th  [0m
+[34medi9999 ($1520) had 5h Td  [0m
+[34mstatus3Bot ($1737) had Jd 3c  [0m
+[34mSneakyCharlie ($2155) had 4c Kc  [0m
+[34mFlopASetBot ($810) had Qs Jh  [0m
+[34m=================================[0m
+ 
+[34m==== Round #34 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($778) [0m
+[34m  edi9999 ($1520) [0m
+[34m  status3Bot ($1737) [0m
+[34m  SneakyCharlie ($2155) [0m
+[34m  FlopASetBot ($810) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($773) 3h 6c [0m
+[34m  edi9999 ($1510) 8d 8s [0m
+[34m  status3Bot ($1737) 3d 4d [0m
+[34m  SneakyCharlie ($2155) 5d Kc [0m
+[34m  FlopASetBot ($810) 7h Ts [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $5[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Kh Qc 3c [0m
+[34m Pot is: 30[0m
+[34m  blaBot ($768) 3h,6c (One pair)[0m
+[34m  edi9999 ($1510) 8d,8s (One pair)[0m
+[34m  status3Bot ($1727) 3d,4d (One pair)[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 raised by $10[0m
+[31m  status3Bot called $10[0m
+[31m  blaBot folded[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Kh Qc 3c Jc [0m
+[34m Pot is: 50[0m
+[34m  edi9999 ($1500) 8d,8s (One pair)[0m
+[34m  status3Bot ($1717) 3d,4d (One pair)[0m
+[31m Actions: [0m
+[31m  edi9999 checked[0m
+[31m  status3Bot raised by $20[0m
+[31m  edi9999 folded[0m
+ 
+[34mRound #34 complete.[0m
+[34mWinner was status3Bot  Amount won: $70[0m
+[34mPositions: [0m
+[34mblaBot ($768) had 3h 6c  [0m
+[34medi9999 ($1500) had 8d 8s  [0m
+[34mstatus3Bot ($1767) had 3d 4d  [0m
+[34mSneakyCharlie ($2155) had 5d Kc  [0m
+[34mFlopASetBot ($810) had 7h Ts  [0m
+[34m=================================[0m
+ 
+[34m==== Round #35 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1500) [0m
+[34m  status3Bot ($1767) [0m
+[34m  SneakyCharlie ($2155) [0m
+[34m  FlopASetBot ($810) [0m
+[34m  blaBot ($768) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1495) 4c 3h [0m
+[34m  status3Bot ($1757) 5c 5d [0m
+[34m  SneakyCharlie ($2155) Ah 5h [0m
+[34m  FlopASetBot ($810) Ts Jc [0m
+[34m  blaBot ($768) Jd 8c [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 4d Th Jh [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1757) 5c,5d (One pair)[0m
+[34m  blaBot ($758) Jd,8c (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot raised by $10[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #35 complete.[0m
+[34mWinner was status3Bot  Amount won: $35[0m
+[34mPositions: [0m
+[34medi9999 ($1495) had 4c 3h  [0m
+[34mstatus3Bot ($1782) had 5c 5d  [0m
+[34mSneakyCharlie ($2155) had Ah 5h  [0m
+[34mFlopASetBot ($810) had Ts Jc  [0m
+[34mblaBot ($758) had Jd 8c  [0m
+[34m=================================[0m
+ 
+[34m==== Round #36 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1495) [0m
+[34m  status3Bot ($1782) [0m
+[34m  SneakyCharlie ($2155) [0m
+[34m  FlopASetBot ($810) [0m
+[34m  blaBot ($758) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1490) 3h Qc [0m
+[34m  status3Bot ($1772) As 7d [0m
+[34m  SneakyCharlie ($2155) 6d 7h [0m
+[34m  FlopASetBot ($810) Ks Ac [0m
+[34m  blaBot ($758) 7s 3s [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot went ALL IN with $810[0m
+[31m  blaBot folded[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot folded[0m
+ 
+[34mRound #36 complete.[0m
+[34mWinner was FlopASetBot  Amount won: $825[0m
+[34mPositions: [0m
+[34medi9999 ($1490) had 3h Qc  [0m
+[34mstatus3Bot ($1772) had As 7d  [0m
+[34mSneakyCharlie ($2155) had 6d 7h  [0m
+[34mFlopASetBot ($825) had Ks Ac  [0m
+[34mblaBot ($758) had 7s 3s  [0m
+[34m=================================[0m
+ 
+[34m==== Round #37 starting ====[0m
+[34m5 players:[0m
+[34m  status3Bot ($1772) [0m
+[34m  SneakyCharlie ($2155) [0m
+[34m  FlopASetBot ($825) [0m
+[34m  blaBot ($758) [0m
+[34m  edi9999 ($1490) [0m
+ 
+[34m-- pre-flop[0m
+[34m  status3Bot ($1767) 8s 7c [0m
+[34m  SneakyCharlie ($2145) Kd Jh [0m
+[34m  FlopASetBot ($825) 7s 9h [0m
+[34m  blaBot ($758) Qd 7h [0m
+[34m  edi9999 ($1490) Jc 4c [0m
+[31m  status3Bot  paid a blind of $5[0m
+[31m  SneakyCharlie  paid a blind of $10[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $5[0m
+[31m  SneakyCharlie checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: As Ad 2h [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1762) 8s,7c (One pair)[0m
+[34m  SneakyCharlie ($2145) Kd,Jh (One pair)[0m
+[34m  blaBot ($748) Qd,7h (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: As Ad 2h Kc [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1762) 8s,7c (One pair)[0m
+[34m  SneakyCharlie ($2145) Kd,Jh (Two pair)[0m
+[34m  blaBot ($748) Qd,7h (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: As Ad 2h Kc 5c [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1762) 8s,7c (One pair)[0m
+[34m  SneakyCharlie ($2145) Kd,Jh (Two pair)[0m
+[34m  blaBot ($748) Qd,7h (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: As Ad 2h Kc 5c [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1762) 8s,7c (One pair)[0m
+[34m  SneakyCharlie ($2145) Kd,Jh (Two pair)[0m
+[34m  blaBot ($748) Qd,7h (One pair)[0m
+[31m Actions: [0m
+ 
+[34mRound #37 complete.[0m
+[34mWinner was SneakyCharlie with Two pair Amount won: $30[0m
+[34mPositions: [0m
+[34mstatus3Bot ($1762) had 8s 7c  (One pair)[0m
+[34mSneakyCharlie ($2175) had Kd Jh  (Two pair)[0m
+[34mFlopASetBot ($825) had 7s 9h  [0m
+[34mblaBot ($748) had Qd 7h  (One pair)[0m
+[34medi9999 ($1490) had Jc 4c  [0m
+[34m=================================[0m
+ 
+[34m==== Round #38 starting ====[0m
+[34m5 players:[0m
+[34m  SneakyCharlie ($2175) [0m
+[34m  FlopASetBot ($825) [0m
+[34m  blaBot ($748) [0m
+[34m  edi9999 ($1490) [0m
+[34m  status3Bot ($1762) [0m
+ 
+[34m-- pre-flop[0m
+[34m  SneakyCharlie ($2170) Qs 6s [0m
+[34m  FlopASetBot ($815) Kc 9c [0m
+[34m  blaBot ($748) 3h 9h [0m
+[34m  edi9999 ($1490) Ad Kd [0m
+[34m  status3Bot ($1762) 8s Tc [0m
+[31m  SneakyCharlie  paid a blind of $5[0m
+[31m  FlopASetBot  paid a blind of $10[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 raised by $40[0m
+[31m  status3Bot folded[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $30[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 4d 6c 2d [0m
+[34m Pot is: 95[0m
+[34m  blaBot ($708) 3h,9h[0m
+[34m  edi9999 ($1450) Ad,Kd[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 raised by $10[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #38 complete.[0m
+[34mWinner was edi9999  Amount won: $105[0m
+[34mPositions: [0m
+[34mSneakyCharlie ($2170) had Qs 6s  [0m
+[34mFlopASetBot ($815) had Kc 9c  [0m
+[34mblaBot ($708) had 3h 9h  [0m
+[34medi9999 ($1545) had Ad Kd  [0m
+[34mstatus3Bot ($1762) had 8s Tc  [0m
+[34m=================================[0m
+ 
+[34m==== Round #39 starting ====[0m
+[34m5 players:[0m
+[34m  FlopASetBot ($815) [0m
+[34m  blaBot ($708) [0m
+[34m  edi9999 ($1545) [0m
+[34m  status3Bot ($1762) [0m
+[34m  SneakyCharlie ($2170) [0m
+ 
+[34m-- pre-flop[0m
+[34m  FlopASetBot ($810) 6d 4s [0m
+[34m  blaBot ($698) 4d Js [0m
+[34m  edi9999 ($1545) 8d Jc [0m
+[34m  status3Bot ($1762) Td Ad [0m
+[34m  SneakyCharlie ($2170) Kd Qh [0m
+[31m  FlopASetBot  paid a blind of $5[0m
+[31m  blaBot  paid a blind of $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie raised by $160[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot folded[0m
+[31m  status3Bot folded[0m
+ 
+[34mRound #39 complete.[0m
+[34mWinner was SneakyCharlie  Amount won: $185[0m
+[34mPositions: [0m
+[34mFlopASetBot ($810) had 6d 4s  [0m
+[34mblaBot ($698) had 4d Js  [0m
+[34medi9999 ($1545) had 8d Jc  [0m
+[34mstatus3Bot ($1752) had Td Ad  [0m
+[34mSneakyCharlie ($2195) had Kd Qh  [0m
+[34m=================================[0m
+ 
+[34m==== Round #40 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($698) [0m
+[34m  edi9999 ($1545) [0m
+[34m  status3Bot ($1752) [0m
+[34m  SneakyCharlie ($2195) [0m
+[34m  FlopASetBot ($810) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($693) 8s 3s [0m
+[34m  edi9999 ($1535) Qh Kh [0m
+[34m  status3Bot ($1752) 4h 3d [0m
+[34m  SneakyCharlie ($2195) 4c 5s [0m
+[34m  FlopASetBot ($810) As Qd [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot went ALL IN with $810[0m
+[31m  blaBot folded[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot folded[0m
+ 
+[34mRound #40 complete.[0m
+[34mWinner was FlopASetBot  Amount won: $835[0m
+[34mPositions: [0m
+[34mblaBot ($693) had 8s 3s  [0m
+[34medi9999 ($1535) had Qh Kh  [0m
+[34mstatus3Bot ($1742) had 4h 3d  [0m
+[34mSneakyCharlie ($2195) had 4c 5s  [0m
+[34mFlopASetBot ($835) had As Qd  [0m
+[34m=================================[0m
+ 
+[34m==== Round #41 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($693) [0m
+[34m  edi9999 ($1535) [0m
+[34m  status3Bot ($1742) [0m
+[34m  SneakyCharlie ($2195) [0m
+[34m  FlopASetBot ($835) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($688) Jd 6c [0m
+[34m  edi9999 ($1525) Ah 4h [0m
+[34m  status3Bot ($1742) 9d 3d [0m
+[34m  SneakyCharlie ($2195) Tc 7s [0m
+[34m  FlopASetBot ($835) 2d Ad [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $5[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Jc 3c 8d [0m
+[34m Pot is: 30[0m
+[34m  blaBot ($683) Jd,6c (One pair)[0m
+[34m  edi9999 ($1525) Ah,4h[0m
+[34m  status3Bot ($1732) 9d,3d (One pair)[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 raised by $10[0m
+[31m  status3Bot called $10[0m
+[31m  blaBot folded[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Jc 3c 8d 2s [0m
+[34m Pot is: 50[0m
+[34m  edi9999 ($1515) Ah,4h[0m
+[34m  status3Bot ($1722) 9d,3d (One pair)[0m
+[31m Actions: [0m
+[31m  edi9999 checked[0m
+[31m  status3Bot raised by $20[0m
+[31m  edi9999 folded[0m
+ 
+[34mRound #41 complete.[0m
+[34mWinner was status3Bot  Amount won: $70[0m
+[34mPositions: [0m
+[34mblaBot ($683) had Jd 6c  [0m
+[34medi9999 ($1515) had Ah 4h  [0m
+[34mstatus3Bot ($1772) had 9d 3d  [0m
+[34mSneakyCharlie ($2195) had Tc 7s  [0m
+[34mFlopASetBot ($835) had 2d Ad  [0m
+[34m=================================[0m
+ 
+[34m==== Round #42 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1515) [0m
+[34m  status3Bot ($1772) [0m
+[34m  SneakyCharlie ($2195) [0m
+[34m  FlopASetBot ($835) [0m
+[34m  blaBot ($683) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1510) 2d 7c [0m
+[34m  status3Bot ($1762) 7h Jd [0m
+[34m  SneakyCharlie ($2195) Td Ah [0m
+[34m  FlopASetBot ($835) 6s 3d [0m
+[34m  blaBot ($683) 8s 9d [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 5s 5h 3s [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1762) 7h,Jd (One pair)[0m
+[34m  blaBot ($673) 8s,9d (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 5s 5h 3s 8c [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1762) 7h,Jd (One pair)[0m
+[34m  blaBot ($673) 8s,9d (Two pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: 5s 5h 3s 8c 9c [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1762) 7h,Jd (One pair)[0m
+[34m  blaBot ($673) 8s,9d (Two pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: 5s 5h 3s 8c 9c [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1762) 7h,Jd (One pair)[0m
+[34m  blaBot ($673) 8s,9d (Two pair)[0m
+[31m Actions: [0m
+ 
+[34mRound #42 complete.[0m
+[34mWinner was blaBot with Two pair Amount won: $25[0m
+[34mPositions: [0m
+[34medi9999 ($1510) had 2d 7c  [0m
+[34mstatus3Bot ($1762) had 7h Jd  (One pair)[0m
+[34mSneakyCharlie ($2195) had Td Ah  [0m
+[34mFlopASetBot ($835) had 6s 3d  [0m
+[34mblaBot ($698) had 8s 9d  (Two pair)[0m
+[34m=================================[0m
+ 
+[34m==== Round #43 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1510) [0m
+[34m  status3Bot ($1762) [0m
+[34m  SneakyCharlie ($2195) [0m
+[34m  FlopASetBot ($835) [0m
+[34m  blaBot ($698) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1505) 5d 3c [0m
+[34m  status3Bot ($1752) 9c Qh [0m
+[34m  SneakyCharlie ($2195) 3h 8h [0m
+[34m  FlopASetBot ($835) 6h 2c [0m
+[34m  blaBot ($698) 9s 7c [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 6s Jd Qc [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1752) 9c,Qh (One pair)[0m
+[34m  blaBot ($688) 9s,7c[0m
+[31m Actions: [0m
+[31m  status3Bot raised by $10[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #43 complete.[0m
+[34mWinner was status3Bot  Amount won: $35[0m
+[34mPositions: [0m
+[34medi9999 ($1505) had 5d 3c  [0m
+[34mstatus3Bot ($1777) had 9c Qh  [0m
+[34mSneakyCharlie ($2195) had 3h 8h  [0m
+[34mFlopASetBot ($835) had 6h 2c  [0m
+[34mblaBot ($688) had 9s 7c  [0m
+[34m=================================[0m
+ 
+[34m==== Round #44 starting ====[0m
+[34m5 players:[0m
+[34m  status3Bot ($1777) [0m
+[34m  SneakyCharlie ($2195) [0m
+[34m  FlopASetBot ($835) [0m
+[34m  blaBot ($688) [0m
+[34m  edi9999 ($1505) [0m
+ 
+[34m-- pre-flop[0m
+[34m  status3Bot ($1772) Jc Kh [0m
+[34m  SneakyCharlie ($2185) 4d 2h [0m
+[34m  FlopASetBot ($835) 3s 6h [0m
+[34m  blaBot ($688) 8s 3h [0m
+[34m  edi9999 ($1505) 2c 8h [0m
+[31m  status3Bot  paid a blind of $5[0m
+[31m  SneakyCharlie  paid a blind of $10[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $5[0m
+[31m  SneakyCharlie checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Tc 2d 7c [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1767) Jc,Kh[0m
+[34m  SneakyCharlie ($2185) 4d,2h (One pair)[0m
+[34m  blaBot ($678) 8s,3h[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Tc 2d 7c As [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1767) Jc,Kh[0m
+[34m  SneakyCharlie ($2185) 4d,2h (One pair)[0m
+[34m  blaBot ($678) 8s,3h[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: Tc 2d 7c As 5c [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1767) Jc,Kh[0m
+[34m  SneakyCharlie ($2185) 4d,2h (One pair)[0m
+[34m  blaBot ($678) 8s,3h[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: Tc 2d 7c As 5c [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1767) Jc,Kh[0m
+[34m  SneakyCharlie ($2185) 4d,2h (One pair)[0m
+[34m  blaBot ($678) 8s,3h[0m
+[31m Actions: [0m
+ 
+[34mRound #44 complete.[0m
+[34mWinner was SneakyCharlie with One pair Amount won: $30[0m
+[34mPositions: [0m
+[34mstatus3Bot ($1767) had Jc Kh  (High card)[0m
+[34mSneakyCharlie ($2215) had 4d 2h  (One pair)[0m
+[34mFlopASetBot ($835) had 3s 6h  [0m
+[34mblaBot ($678) had 8s 3h  (High card)[0m
+[34medi9999 ($1505) had 2c 8h  [0m
+[34m=================================[0m
+ 
+[34m==== Round #45 starting ====[0m
+[34m5 players:[0m
+[34m  SneakyCharlie ($2215) [0m
+[34m  FlopASetBot ($835) [0m
+[34m  blaBot ($678) [0m
+[34m  edi9999 ($1505) [0m
+[34m  status3Bot ($1767) [0m
+ 
+[34m-- pre-flop[0m
+[34m  SneakyCharlie ($2210) 4d 5h [0m
+[34m  FlopASetBot ($825) Ts As [0m
+[34m  blaBot ($678) Ks Kd [0m
+[34m  edi9999 ($1505) Qh 7h [0m
+[34m  status3Bot ($1767) Qd Js [0m
+[31m  SneakyCharlie  paid a blind of $5[0m
+[31m  FlopASetBot  paid a blind of $10[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 9s 9h 6d [0m
+[34m Pot is: 35[0m
+[34m  FlopASetBot ($825) Ts,As (One pair)[0m
+[34m  blaBot ($668) Ks,Kd (Two pair)[0m
+[34m  status3Bot ($1757) Qd,Js (One pair)[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 9s 9h 6d 5c [0m
+[34m Pot is: 35[0m
+[34m  FlopASetBot ($825) Ts,As (One pair)[0m
+[34m  blaBot ($668) Ks,Kd (Two pair)[0m
+[34m  status3Bot ($1757) Qd,Js (One pair)[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: 9s 9h 6d 5c Ac [0m
+[34m Pot is: 35[0m
+[34m  FlopASetBot ($825) Ts,As (Two pair)[0m
+[34m  blaBot ($668) Ks,Kd (Two pair)[0m
+[34m  status3Bot ($1757) Qd,Js (One pair)[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: 9s 9h 6d 5c Ac [0m
+[34m Pot is: 35[0m
+[34m  FlopASetBot ($825) Ts,As (Two pair)[0m
+[34m  blaBot ($668) Ks,Kd (Two pair)[0m
+[34m  status3Bot ($1757) Qd,Js (One pair)[0m
+[31m Actions: [0m
+ 
+[34mRound #45 complete.[0m
+[34mWinner was FlopASetBot with Two pair Amount won: $35[0m
+[34mPositions: [0m
+[34mSneakyCharlie ($2210) had 4d 5h  [0m
+[34mFlopASetBot ($860) had Ts As  (Two pair)[0m
+[34mblaBot ($668) had Ks Kd  (Two pair)[0m
+[34medi9999 ($1505) had Qh 7h  [0m
+[34mstatus3Bot ($1757) had Qd Js  (One pair)[0m
+[34m=================================[0m
+ 
+[34m==== Round #46 starting ====[0m
+[34m5 players:[0m
+[34m  FlopASetBot ($860) [0m
+[34m  blaBot ($668) [0m
+[34m  edi9999 ($1505) [0m
+[34m  status3Bot ($1757) [0m
+[34m  SneakyCharlie ($2210) [0m
+ 
+[34m-- pre-flop[0m
+[34m  FlopASetBot ($855) 9d 5s [0m
+[34m  blaBot ($658) 8d Qd [0m
+[34m  edi9999 ($1505) 8s Js [0m
+[34m  status3Bot ($1757) 4h Ts [0m
+[34m  SneakyCharlie ($2210) 9s 5c [0m
+[31m  FlopASetBot  paid a blind of $5[0m
+[31m  blaBot  paid a blind of $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 2s Ah Qh [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($658) 8d,Qd (One pair)[0m
+[34m  status3Bot ($1747) 4h,Ts[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 2s Ah Qh 8c [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($658) 8d,Qd (Two pair)[0m
+[34m  status3Bot ($1747) 4h,Ts[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: 2s Ah Qh 8c 4d [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($658) 8d,Qd (Two pair)[0m
+[34m  status3Bot ($1747) 4h,Ts (One pair)[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot raised by $30[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #46 complete.[0m
+[34mWinner was status3Bot  Amount won: $55[0m
+[34mPositions: [0m
+[34mFlopASetBot ($855) had 9d 5s  [0m
+[34mblaBot ($658) had 8d Qd  [0m
+[34medi9999 ($1505) had 8s Js  [0m
+[34mstatus3Bot ($1772) had 4h Ts  [0m
+[34mSneakyCharlie ($2210) had 9s 5c  [0m
+[34m=================================[0m
+ 
+[34m==== Round #47 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($658) [0m
+[34m  edi9999 ($1505) [0m
+[34m  status3Bot ($1772) [0m
+[34m  SneakyCharlie ($2210) [0m
+[34m  FlopASetBot ($855) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($653) 7h Qc [0m
+[34m  edi9999 ($1495) 2c 8c [0m
+[34m  status3Bot ($1772) 5c Js [0m
+[34m  SneakyCharlie ($2210) Qd Tc [0m
+[34m  FlopASetBot ($855) 9s 7c [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $5[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Jc 8s 3h [0m
+[34m Pot is: 30[0m
+[34m  blaBot ($648) 7h,Qc[0m
+[34m  edi9999 ($1495) 2c,8c (One pair)[0m
+[34m  status3Bot ($1762) 5c,Js (One pair)[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 raised by $10[0m
+[31m  status3Bot called $10[0m
+[31m  blaBot folded[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Jc 8s 3h 2d [0m
+[34m Pot is: 50[0m
+[34m  edi9999 ($1485) 2c,8c (Two pair)[0m
+[34m  status3Bot ($1752) 5c,Js (One pair)[0m
+[31m Actions: [0m
+[31m  edi9999 checked[0m
+[31m  status3Bot raised by $20[0m
+[31m  edi9999 folded[0m
+ 
+[34mRound #47 complete.[0m
+[34mWinner was status3Bot  Amount won: $70[0m
+[34mPositions: [0m
+[34mblaBot ($648) had 7h Qc  [0m
+[34medi9999 ($1485) had 2c 8c  [0m
+[34mstatus3Bot ($1802) had 5c Js  [0m
+[34mSneakyCharlie ($2210) had Qd Tc  [0m
+[34mFlopASetBot ($855) had 9s 7c  [0m
+[34m=================================[0m
+ 
+[34m==== Round #48 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($648) [0m
+[34m  edi9999 ($1485) [0m
+[34m  status3Bot ($1802) [0m
+[34m  SneakyCharlie ($2210) [0m
+[34m  FlopASetBot ($855) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($643) 3h Js [0m
+[34m  edi9999 ($1475) 6s 3c [0m
+[34m  status3Bot ($1802) Ts 9d [0m
+[34m  SneakyCharlie ($2210) 2d Qd [0m
+[34m  FlopASetBot ($855) Ac 9c [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $5[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 3s Ah 5c [0m
+[34m Pot is: 30[0m
+[34m  blaBot ($638) 3h,Js (One pair)[0m
+[34m  edi9999 ($1475) 6s,3c (One pair)[0m
+[34m  status3Bot ($1792) Ts,9d[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 went ALL IN with $1475[0m
+[31m  status3Bot folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #48 complete.[0m
+[34mWinner was edi9999  Amount won: $1505[0m
+[34mPositions: [0m
+[34mblaBot ($638) had 3h Js  [0m
+[34medi9999 ($1505) had 6s 3c  [0m
+[34mstatus3Bot ($1792) had Ts 9d  [0m
+[34mSneakyCharlie ($2210) had 2d Qd  [0m
+[34mFlopASetBot ($855) had Ac 9c  [0m
+[34m=================================[0m
+ 
+[34m==== Round #49 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1505) [0m
+[34m  status3Bot ($1792) [0m
+[34m  SneakyCharlie ($2210) [0m
+[34m  FlopASetBot ($855) [0m
+[34m  blaBot ($638) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1500) 5d 8d [0m
+[34m  status3Bot ($1782) 7s 9h [0m
+[34m  SneakyCharlie ($2210) Ad 7d [0m
+[34m  FlopASetBot ($855) Kh Jc [0m
+[34m  blaBot ($638) 9s 3d [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Tc Kd 7c [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1782) 7s,9h (One pair)[0m
+[34m  blaBot ($628) 9s,3d[0m
+[31m Actions: [0m
+[31m  status3Bot raised by $10[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #49 complete.[0m
+[34mWinner was status3Bot  Amount won: $35[0m
+[34mPositions: [0m
+[34medi9999 ($1500) had 5d 8d  [0m
+[34mstatus3Bot ($1807) had 7s 9h  [0m
+[34mSneakyCharlie ($2210) had Ad 7d  [0m
+[34mFlopASetBot ($855) had Kh Jc  [0m
+[34mblaBot ($628) had 9s 3d  [0m
+[34m=================================[0m
+ 
+[34m==== Round #50 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1500) [0m
+[34m  status3Bot ($1807) [0m
+[34m  SneakyCharlie ($2210) [0m
+[34m  FlopASetBot ($855) [0m
+[34m  blaBot ($628) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1495) Js Ac [0m
+[34m  status3Bot ($1797) 9s Kh [0m
+[34m  SneakyCharlie ($2210) 5c 2s [0m
+[34m  FlopASetBot ($855) Jd 2c [0m
+[34m  blaBot ($628) 8s Qc [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 raised by $20[0m
+[31m  status3Bot folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #50 complete.[0m
+[34mWinner was edi9999  Amount won: $45[0m
+[34mPositions: [0m
+[34medi9999 ($1520) had Js Ac  [0m
+[34mstatus3Bot ($1797) had 9s Kh  [0m
+[34mSneakyCharlie ($2210) had 5c 2s  [0m
+[34mFlopASetBot ($855) had Jd 2c  [0m
+[34mblaBot ($618) had 8s Qc  [0m
+[34m=================================[0m
+ 
+[34m==== Round #51 starting ====[0m
+[34m5 players:[0m
+[34m  status3Bot ($1797) [0m
+[34m  SneakyCharlie ($2210) [0m
+[34m  FlopASetBot ($855) [0m
+[34m  blaBot ($618) [0m
+[34m  edi9999 ($1520) [0m
+ 
+[34m-- pre-flop[0m
+[34m  status3Bot ($1792) 4c Ac [0m
+[34m  SneakyCharlie ($2200) 9s 7h [0m
+[34m  FlopASetBot ($855) Kc Qd [0m
+[34m  blaBot ($618) 5s 7s [0m
+[34m  edi9999 ($1520) Qs 9d [0m
+[31m  status3Bot  paid a blind of $5[0m
+[31m  SneakyCharlie  paid a blind of $10[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $5[0m
+[31m  SneakyCharlie checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Tc Th Jc [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1787) 4c,Ac (One pair)[0m
+[34m  SneakyCharlie ($2200) 9s,7h (One pair)[0m
+[34m  blaBot ($608) 5s,7s (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Tc Th Jc 3c [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1787) 4c,Ac (Flush)[0m
+[34m  SneakyCharlie ($2200) 9s,7h (One pair)[0m
+[34m  blaBot ($608) 5s,7s (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: Tc Th Jc 3c Qc [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1787) 4c,Ac (Flush)[0m
+[34m  SneakyCharlie ($2200) 9s,7h (One pair)[0m
+[34m  blaBot ($608) 5s,7s (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot raised by $120[0m
+[31m  SneakyCharlie folded[0m
+[31m  blaBot called $120[0m
+ 
+[34m-- final[0m
+[34m Cards are: Tc Th Jc 3c Qc [0m
+[34m Pot is: 270[0m
+[34m  status3Bot ($1667) 4c,Ac (Flush)[0m
+[34m  blaBot ($488) 5s,7s (One pair)[0m
+[31m Actions: [0m
+ 
+[34mRound #51 complete.[0m
+[34mWinner was status3Bot with Flush Amount won: $270[0m
+[34mPositions: [0m
+[34mstatus3Bot ($1937) had 4c Ac  (Flush)[0m
+[34mSneakyCharlie ($2200) had 9s 7h  [0m
+[34mFlopASetBot ($855) had Kc Qd  [0m
+[34mblaBot ($488) had 5s 7s  (One pair)[0m
+[34medi9999 ($1520) had Qs 9d  [0m
+[34m=================================[0m
+ 
+[34m==== Round #52 starting ====[0m
+[34m5 players:[0m
+[34m  SneakyCharlie ($2200) [0m
+[34m  FlopASetBot ($855) [0m
+[34m  blaBot ($488) [0m
+[34m  edi9999 ($1520) [0m
+[34m  status3Bot ($1937) [0m
+ 
+[34m-- pre-flop[0m
+[34m  SneakyCharlie ($2195) Ah 6c [0m
+[34m  FlopASetBot ($845) 3h 2s [0m
+[34m  blaBot ($488) 6s 2d [0m
+[34m  edi9999 ($1520) Jc 4c [0m
+[34m  status3Bot ($1937) 5c 9d [0m
+[31m  SneakyCharlie  paid a blind of $5[0m
+[31m  FlopASetBot  paid a blind of $10[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Js 3s Tc [0m
+[34m Pot is: 35[0m
+[34m  FlopASetBot ($845) 3h,2s (One pair)[0m
+[34m  blaBot ($478) 6s,2d[0m
+[34m  status3Bot ($1927) 5c,9d[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Js 3s Tc Kh [0m
+[34m Pot is: 35[0m
+[34m  FlopASetBot ($845) 3h,2s (One pair)[0m
+[34m  blaBot ($478) 6s,2d[0m
+[34m  status3Bot ($1927) 5c,9d[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: Js 3s Tc Kh 4d [0m
+[34m Pot is: 35[0m
+[34m  FlopASetBot ($845) 3h,2s (One pair)[0m
+[34m  blaBot ($478) 6s,2d[0m
+[34m  status3Bot ($1927) 5c,9d[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: Js 3s Tc Kh 4d [0m
+[34m Pot is: 35[0m
+[34m  FlopASetBot ($845) 3h,2s (One pair)[0m
+[34m  blaBot ($478) 6s,2d[0m
+[34m  status3Bot ($1927) 5c,9d[0m
+[31m Actions: [0m
+ 
+[34mRound #52 complete.[0m
+[34mWinner was FlopASetBot with One pair Amount won: $35[0m
+[34mPositions: [0m
+[34mSneakyCharlie ($2195) had Ah 6c  [0m
+[34mFlopASetBot ($880) had 3h 2s  (One pair)[0m
+[34mblaBot ($478) had 6s 2d  (High card)[0m
+[34medi9999 ($1520) had Jc 4c  [0m
+[34mstatus3Bot ($1927) had 5c 9d  (High card)[0m
+[34m=================================[0m
+ 
+[34m==== Round #53 starting ====[0m
+[34m5 players:[0m
+[34m  FlopASetBot ($880) [0m
+[34m  blaBot ($478) [0m
+[34m  edi9999 ($1520) [0m
+[34m  status3Bot ($1927) [0m
+[34m  SneakyCharlie ($2195) [0m
+ 
+[34m-- pre-flop[0m
+[34m  FlopASetBot ($875) 6h 4d [0m
+[34m  blaBot ($468) Tc Td [0m
+[34m  edi9999 ($1520) 9d 3d [0m
+[34m  status3Bot ($1927) 7c 3s [0m
+[34m  SneakyCharlie ($2195) 5d Ad [0m
+[31m  FlopASetBot  paid a blind of $5[0m
+[31m  blaBot  paid a blind of $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Ah 9h Ac [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($468) Tc,Td (Two pair)[0m
+[34m  status3Bot ($1917) 7c,3s (One pair)[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Ah 9h Ac 2c [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($468) Tc,Td (Two pair)[0m
+[34m  status3Bot ($1917) 7c,3s (One pair)[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: Ah 9h Ac 2c 4s [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($468) Tc,Td (Two pair)[0m
+[34m  status3Bot ($1917) 7c,3s (One pair)[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: Ah 9h Ac 2c 4s [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($468) Tc,Td (Two pair)[0m
+[34m  status3Bot ($1917) 7c,3s (One pair)[0m
+[31m Actions: [0m
+ 
+[34mRound #53 complete.[0m
+[34mWinner was blaBot with Two pair Amount won: $25[0m
+[34mPositions: [0m
+[34mFlopASetBot ($875) had 6h 4d  [0m
+[34mblaBot ($493) had Tc Td  (Two pair)[0m
+[34medi9999 ($1520) had 9d 3d  [0m
+[34mstatus3Bot ($1917) had 7c 3s  (One pair)[0m
+[34mSneakyCharlie ($2195) had 5d Ad  [0m
+[34m=================================[0m
+ 
+[34m==== Round #54 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($493) [0m
+[34m  edi9999 ($1520) [0m
+[34m  status3Bot ($1917) [0m
+[34m  SneakyCharlie ($2195) [0m
+[34m  FlopASetBot ($875) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($488) 4h 8d [0m
+[34m  edi9999 ($1510) 5d 8s [0m
+[34m  status3Bot ($1917) 9d Ah [0m
+[34m  SneakyCharlie ($2195) Qs 2d [0m
+[34m  FlopASetBot ($875) 9s 3h [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $5[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Qh 7s 4d [0m
+[34m Pot is: 30[0m
+[34m  blaBot ($483) 4h,8d (One pair)[0m
+[34m  edi9999 ($1510) 5d,8s[0m
+[34m  status3Bot ($1907) 9d,Ah[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 raised by $10[0m
+[31m  status3Bot called $10[0m
+[31m  blaBot folded[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Qh 7s 4d 5s [0m
+[34m Pot is: 50[0m
+[34m  edi9999 ($1500) 5d,8s (One pair)[0m
+[34m  status3Bot ($1897) 9d,Ah[0m
+[31m Actions: [0m
+[31m  edi9999 checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: Qh 7s 4d 5s 2h [0m
+[34m Pot is: 50[0m
+[34m  edi9999 ($1500) 5d,8s (One pair)[0m
+[34m  status3Bot ($1897) 9d,Ah[0m
+[31m Actions: [0m
+[31m  edi9999 checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: Qh 7s 4d 5s 2h [0m
+[34m Pot is: 50[0m
+[34m  edi9999 ($1500) 5d,8s (One pair)[0m
+[34m  status3Bot ($1897) 9d,Ah[0m
+[31m Actions: [0m
+ 
+[34mRound #54 complete.[0m
+[34mWinner was edi9999 with One pair Amount won: $50[0m
+[34mPositions: [0m
+[34mblaBot ($483) had 4h 8d  [0m
+[34medi9999 ($1550) had 5d 8s  (One pair)[0m
+[34mstatus3Bot ($1897) had 9d Ah  (High card)[0m
+[34mSneakyCharlie ($2195) had Qs 2d  [0m
+[34mFlopASetBot ($875) had 9s 3h  [0m
+[34m=================================[0m
+ 
+[34m==== Round #55 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($483) [0m
+[34m  edi9999 ($1550) [0m
+[34m  status3Bot ($1897) [0m
+[34m  SneakyCharlie ($2195) [0m
+[34m  FlopASetBot ($875) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($478) Tc 2d [0m
+[34m  edi9999 ($1540) 8h 2c [0m
+[34m  status3Bot ($1897) 7h 9c [0m
+[34m  SneakyCharlie ($2195) 8s 5s [0m
+[34m  FlopASetBot ($875) 3c Ah [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $5[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 6c 7s 2s [0m
+[34m Pot is: 30[0m
+[34m  blaBot ($473) Tc,2d (One pair)[0m
+[34m  edi9999 ($1540) 8h,2c (One pair)[0m
+[34m  status3Bot ($1887) 7h,9c (One pair)[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 raised by $10[0m
+[31m  status3Bot called $10[0m
+[31m  blaBot folded[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 6c 7s 2s 3s [0m
+[34m Pot is: 50[0m
+[34m  edi9999 ($1530) 8h,2c (One pair)[0m
+[34m  status3Bot ($1877) 7h,9c (One pair)[0m
+[31m Actions: [0m
+[31m  edi9999 checked[0m
+[31m  status3Bot raised by $20[0m
+[31m  edi9999 folded[0m
+ 
+[34mRound #55 complete.[0m
+[34mWinner was status3Bot  Amount won: $70[0m
+[34mPositions: [0m
+[34mblaBot ($473) had Tc 2d  [0m
+[34medi9999 ($1530) had 8h 2c  [0m
+[34mstatus3Bot ($1927) had 7h 9c  [0m
+[34mSneakyCharlie ($2195) had 8s 5s  [0m
+[34mFlopASetBot ($875) had 3c Ah  [0m
+[34m=================================[0m
+ 
+[34m==== Round #56 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1530) [0m
+[34m  status3Bot ($1927) [0m
+[34m  SneakyCharlie ($2195) [0m
+[34m  FlopASetBot ($875) [0m
+[34m  blaBot ($473) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1525) 4h 7d [0m
+[34m  status3Bot ($1917) 5d 8s [0m
+[34m  SneakyCharlie ($2195) Jd Jc [0m
+[34m  FlopASetBot ($875) 7c Qc [0m
+[34m  blaBot ($473) 9s 3h [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie raised by $160[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot folded[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot folded[0m
+ 
+[34mRound #56 complete.[0m
+[34mWinner was SneakyCharlie  Amount won: $175[0m
+[34mPositions: [0m
+[34medi9999 ($1525) had 4h 7d  [0m
+[34mstatus3Bot ($1917) had 5d 8s  [0m
+[34mSneakyCharlie ($2210) had Jd Jc  [0m
+[34mFlopASetBot ($875) had 7c Qc  [0m
+[34mblaBot ($473) had 9s 3h  [0m
+[34m=================================[0m
+ 
+[34m==== Round #57 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1525) [0m
+[34m  status3Bot ($1917) [0m
+[34m  SneakyCharlie ($2210) [0m
+[34m  FlopASetBot ($875) [0m
+[34m  blaBot ($473) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1520) 4h 5h [0m
+[34m  status3Bot ($1907) 4s Kd [0m
+[34m  SneakyCharlie ($2210) Ac 5s [0m
+[34m  FlopASetBot ($875) Tc 5d [0m
+[34m  blaBot ($473) 9h 2s [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Qs 3h 3d [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1907) 4s,Kd (One pair)[0m
+[34m  blaBot ($463) 9h,2s (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot raised by $10[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #57 complete.[0m
+[34mWinner was status3Bot  Amount won: $35[0m
+[34mPositions: [0m
+[34medi9999 ($1520) had 4h 5h  [0m
+[34mstatus3Bot ($1932) had 4s Kd  [0m
+[34mSneakyCharlie ($2210) had Ac 5s  [0m
+[34mFlopASetBot ($875) had Tc 5d  [0m
+[34mblaBot ($463) had 9h 2s  [0m
+[34m=================================[0m
+ 
+[34m==== Round #58 starting ====[0m
+[34m5 players:[0m
+[34m  status3Bot ($1932) [0m
+[34m  SneakyCharlie ($2210) [0m
+[34m  FlopASetBot ($875) [0m
+[34m  blaBot ($463) [0m
+[34m  edi9999 ($1520) [0m
+ 
+[34m-- pre-flop[0m
+[34m  status3Bot ($1927) Th 4h [0m
+[34m  SneakyCharlie ($2200) 4d Jh [0m
+[34m  FlopASetBot ($875) 2c As [0m
+[34m  blaBot ($463) 9d 2s [0m
+[34m  edi9999 ($1520) 5c Jc [0m
+[31m  status3Bot  paid a blind of $5[0m
+[31m  SneakyCharlie  paid a blind of $10[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $5[0m
+[31m  SneakyCharlie checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Qs 8s 9h [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1922) Th,4h[0m
+[34m  SneakyCharlie ($2200) 4d,Jh[0m
+[34m  blaBot ($453) 9d,2s (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Qs 8s 9h Td [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1922) Th,4h (One pair)[0m
+[34m  SneakyCharlie ($2200) 4d,Jh (Straight)[0m
+[34m  blaBot ($453) 9d,2s (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie raised by $160[0m
+[31m  blaBot folded[0m
+[31m  status3Bot folded[0m
+ 
+[34mRound #58 complete.[0m
+[34mWinner was SneakyCharlie  Amount won: $190[0m
+[34mPositions: [0m
+[34mstatus3Bot ($1922) had Th 4h  [0m
+[34mSneakyCharlie ($2230) had 4d Jh  [0m
+[34mFlopASetBot ($875) had 2c As  [0m
+[34mblaBot ($453) had 9d 2s  [0m
+[34medi9999 ($1520) had 5c Jc  [0m
+[34m=================================[0m
+ 
+[34m==== Round #59 starting ====[0m
+[34m5 players:[0m
+[34m  SneakyCharlie ($2230) [0m
+[34m  FlopASetBot ($875) [0m
+[34m  blaBot ($453) [0m
+[34m  edi9999 ($1520) [0m
+[34m  status3Bot ($1922) [0m
+ 
+[34m-- pre-flop[0m
+[34m  SneakyCharlie ($2225) 7h Jh [0m
+[34m  FlopASetBot ($865) 9d 2s [0m
+[34m  blaBot ($453) 3c 3d [0m
+[34m  edi9999 ($1520) Ad Qh [0m
+[34m  status3Bot ($1922) 7c 3s [0m
+[31m  SneakyCharlie  paid a blind of $5[0m
+[31m  FlopASetBot  paid a blind of $10[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 raised by $40[0m
+[31m  status3Bot folded[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #59 complete.[0m
+[34mWinner was edi9999  Amount won: $65[0m
+[34mPositions: [0m
+[34mSneakyCharlie ($2225) had 7h Jh  [0m
+[34mFlopASetBot ($865) had 9d 2s  [0m
+[34mblaBot ($443) had 3c 3d  [0m
+[34medi9999 ($1545) had Ad Qh  [0m
+[34mstatus3Bot ($1922) had 7c 3s  [0m
+[34m=================================[0m
+ 
+[34m==== Round #60 starting ====[0m
+[34m5 players:[0m
+[34m  FlopASetBot ($865) [0m
+[34m  blaBot ($443) [0m
+[34m  edi9999 ($1545) [0m
+[34m  status3Bot ($1922) [0m
+[34m  SneakyCharlie ($2225) [0m
+ 
+[34m-- pre-flop[0m
+[34m  FlopASetBot ($860) 3s Jc [0m
+[34m  blaBot ($433) 9h 3c [0m
+[34m  edi9999 ($1545) 8c Ad [0m
+[34m  status3Bot ($1922) Ac Th [0m
+[34m  SneakyCharlie ($2225) 5d Kd [0m
+[31m  FlopASetBot  paid a blind of $5[0m
+[31m  blaBot  paid a blind of $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Td 7h Jh [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($433) 9h,3c[0m
+[34m  status3Bot ($1912) Ac,Th (One pair)[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot raised by $30[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #60 complete.[0m
+[34mWinner was status3Bot  Amount won: $55[0m
+[34mPositions: [0m
+[34mFlopASetBot ($860) had 3s Jc  [0m
+[34mblaBot ($433) had 9h 3c  [0m
+[34medi9999 ($1545) had 8c Ad  [0m
+[34mstatus3Bot ($1937) had Ac Th  [0m
+[34mSneakyCharlie ($2225) had 5d Kd  [0m
+[34m=================================[0m
+ 
+[34m==== Round #61 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($433) [0m
+[34m  edi9999 ($1545) [0m
+[34m  status3Bot ($1937) [0m
+[34m  SneakyCharlie ($2225) [0m
+[34m  FlopASetBot ($860) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($428) 7h 5d [0m
+[34m  edi9999 ($1535) Jh Jc [0m
+[34m  status3Bot ($1937) Th 6c [0m
+[34m  SneakyCharlie ($2225) 2c 8d [0m
+[34m  FlopASetBot ($860) 6d 7c [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $5[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 3s 9h Ks [0m
+[34m Pot is: 30[0m
+[34m  blaBot ($423) 7h,5d[0m
+[34m  edi9999 ($1535) Jh,Jc (One pair)[0m
+[34m  status3Bot ($1927) Th,6c[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 raised by $10[0m
+[31m  status3Bot folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #61 complete.[0m
+[34mWinner was edi9999  Amount won: $40[0m
+[34mPositions: [0m
+[34mblaBot ($423) had 7h 5d  [0m
+[34medi9999 ($1565) had Jh Jc  [0m
+[34mstatus3Bot ($1927) had Th 6c  [0m
+[34mSneakyCharlie ($2225) had 2c 8d  [0m
+[34mFlopASetBot ($860) had 6d 7c  [0m
+[34m=================================[0m
+ 
+[34m==== Round #62 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($423) [0m
+[34m  edi9999 ($1565) [0m
+[34m  status3Bot ($1927) [0m
+[34m  SneakyCharlie ($2225) [0m
+[34m  FlopASetBot ($860) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($418) Jd Qs [0m
+[34m  edi9999 ($1555) Js 7d [0m
+[34m  status3Bot ($1927) 7c 3s [0m
+[34m  SneakyCharlie ($2225) 6d 3h [0m
+[34m  FlopASetBot ($860) 5c 3c [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $5[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Ac 7s 4s [0m
+[34m Pot is: 30[0m
+[34m  blaBot ($413) Jd,Qs[0m
+[34m  edi9999 ($1555) Js,7d (One pair)[0m
+[34m  status3Bot ($1917) 7c,3s (One pair)[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 raised by $10[0m
+[31m  status3Bot called $10[0m
+[31m  blaBot folded[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Ac 7s 4s 3d [0m
+[34m Pot is: 50[0m
+[34m  edi9999 ($1545) Js,7d (One pair)[0m
+[34m  status3Bot ($1907) 7c,3s (Two pair)[0m
+[31m Actions: [0m
+[31m  edi9999 checked[0m
+[31m  status3Bot raised by $20[0m
+[31m  edi9999 folded[0m
+ 
+[34mRound #62 complete.[0m
+[34mWinner was status3Bot  Amount won: $70[0m
+[34mPositions: [0m
+[34mblaBot ($413) had Jd Qs  [0m
+[34medi9999 ($1545) had Js 7d  [0m
+[34mstatus3Bot ($1957) had 7c 3s  [0m
+[34mSneakyCharlie ($2225) had 6d 3h  [0m
+[34mFlopASetBot ($860) had 5c 3c  [0m
+[34m=================================[0m
+ 
+[34m==== Round #63 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1545) [0m
+[34m  status3Bot ($1957) [0m
+[34m  SneakyCharlie ($2225) [0m
+[34m  FlopASetBot ($860) [0m
+[34m  blaBot ($413) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1540) 3s Th [0m
+[34m  status3Bot ($1947) Ks 2h [0m
+[34m  SneakyCharlie ($2225) Tc 2s [0m
+[34m  FlopASetBot ($860) 7s 8c [0m
+[34m  blaBot ($413) Kc 5c [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 7c Kd 3c [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1947) Ks,2h (One pair)[0m
+[34m  blaBot ($403) Kc,5c (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot raised by $10[0m
+[31m  blaBot called $10[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 7c Kd 3c 6d [0m
+[34m Pot is: 45[0m
+[34m  status3Bot ($1937) Ks,2h (One pair)[0m
+[34m  blaBot ($393) Kc,5c (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: 7c Kd 3c 6d Ts [0m
+[34m Pot is: 45[0m
+[34m  status3Bot ($1937) Ks,2h (One pair)[0m
+[34m  blaBot ($393) Kc,5c (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: 7c Kd 3c 6d Ts [0m
+[34m Pot is: 45[0m
+[34m  status3Bot ($1937) Ks,2h (One pair)[0m
+[34m  blaBot ($393) Kc,5c (One pair)[0m
+[31m Actions: [0m
+ 
+[34mRound #63 complete.[0m
+[34mWinners are:[0m
+[34mstatus3Bot with One pair. Amount won: $23[0m
+[34mblaBot with One pair. Amount won: $22[0m
+[34mPositions: [0m
+[34medi9999 ($1540) had 3s Th  [0m
+[34mstatus3Bot ($1960) had Ks 2h  (One pair)[0m
+[34mSneakyCharlie ($2225) had Tc 2s  [0m
+[34mFlopASetBot ($860) had 7s 8c  [0m
+[34mblaBot ($415) had Kc 5c  (One pair)[0m
+[34m=================================[0m
+ 
+[34m==== Round #64 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1540) [0m
+[34m  status3Bot ($1960) [0m
+[34m  SneakyCharlie ($2225) [0m
+[34m  FlopASetBot ($860) [0m
+[34m  blaBot ($415) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1535) Ac 6h [0m
+[34m  status3Bot ($1950) Jc Js [0m
+[34m  SneakyCharlie ($2225) Ah 7h [0m
+[34m  FlopASetBot ($860) 4d Qc [0m
+[34m  blaBot ($415) 5s Qd [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 4h Kc Qs [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1950) Jc,Js (One pair)[0m
+[34m  blaBot ($405) 5s,Qd (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot raised by $10[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #64 complete.[0m
+[34mWinner was status3Bot  Amount won: $35[0m
+[34mPositions: [0m
+[34medi9999 ($1535) had Ac 6h  [0m
+[34mstatus3Bot ($1975) had Jc Js  [0m
+[34mSneakyCharlie ($2225) had Ah 7h  [0m
+[34mFlopASetBot ($860) had 4d Qc  [0m
+[34mblaBot ($405) had 5s Qd  [0m
+[34m=================================[0m
+ 
+[34m==== Round #65 starting ====[0m
+[34m5 players:[0m
+[34m  status3Bot ($1975) [0m
+[34m  SneakyCharlie ($2225) [0m
+[34m  FlopASetBot ($860) [0m
+[34m  blaBot ($405) [0m
+[34m  edi9999 ($1535) [0m
+ 
+[34m-- pre-flop[0m
+[34m  status3Bot ($1970) Qh 6c [0m
+[34m  SneakyCharlie ($2215) Qd 2d [0m
+[34m  FlopASetBot ($860) 6d 3h [0m
+[34m  blaBot ($405) Js Tc [0m
+[34m  edi9999 ($1535) Kd 5h [0m
+[31m  status3Bot  paid a blind of $5[0m
+[31m  SneakyCharlie  paid a blind of $10[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $5[0m
+[31m  SneakyCharlie checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 8c Ts Td [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1965) Qh,6c (One pair)[0m
+[34m  SneakyCharlie ($2215) Qd,2d (One pair)[0m
+[34m  blaBot ($395) Js,Tc (Three of a kind)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 8c Ts Td Qc [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1965) Qh,6c (Two pair)[0m
+[34m  SneakyCharlie ($2215) Qd,2d (Two pair)[0m
+[34m  blaBot ($395) Js,Tc (Three of a kind)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: 8c Ts Td Qc 3c [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1965) Qh,6c (Two pair)[0m
+[34m  SneakyCharlie ($2215) Qd,2d (Two pair)[0m
+[34m  blaBot ($395) Js,Tc (Three of a kind)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: 8c Ts Td Qc 3c [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1965) Qh,6c (Two pair)[0m
+[34m  SneakyCharlie ($2215) Qd,2d (Two pair)[0m
+[34m  blaBot ($395) Js,Tc (Three of a kind)[0m
+[31m Actions: [0m
+ 
+[34mRound #65 complete.[0m
+[34mWinner was blaBot with Three of a kind Amount won: $30[0m
+[34mPositions: [0m
+[34mstatus3Bot ($1965) had Qh 6c  (Two pair)[0m
+[34mSneakyCharlie ($2215) had Qd 2d  (Two pair)[0m
+[34mFlopASetBot ($860) had 6d 3h  [0m
+[34mblaBot ($425) had Js Tc  (Three of a kind)[0m
+[34medi9999 ($1535) had Kd 5h  [0m
+[34m=================================[0m
+ 
+[34m==== Round #66 starting ====[0m
+[34m5 players:[0m
+[34m  SneakyCharlie ($2215) [0m
+[34m  FlopASetBot ($860) [0m
+[34m  blaBot ($425) [0m
+[34m  edi9999 ($1535) [0m
+[34m  status3Bot ($1965) [0m
+ 
+[34m-- pre-flop[0m
+[34m  SneakyCharlie ($2210) Qd 7s [0m
+[34m  FlopASetBot ($850) 3s Tc [0m
+[34m  blaBot ($425) 5c 2s [0m
+[34m  edi9999 ($1535) 2h 5h [0m
+[34m  status3Bot ($1965) 9s 2d [0m
+[31m  SneakyCharlie  paid a blind of $5[0m
+[31m  FlopASetBot  paid a blind of $10[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 8c 5d Ks [0m
+[34m Pot is: 35[0m
+[34m  FlopASetBot ($850) 3s,Tc[0m
+[34m  blaBot ($415) 5c,2s (One pair)[0m
+[34m  status3Bot ($1955) 9s,2d[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 8c 5d Ks Jc [0m
+[34m Pot is: 35[0m
+[34m  FlopASetBot ($850) 3s,Tc[0m
+[34m  blaBot ($415) 5c,2s (One pair)[0m
+[34m  status3Bot ($1955) 9s,2d[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: 8c 5d Ks Jc Td [0m
+[34m Pot is: 35[0m
+[34m  FlopASetBot ($850) 3s,Tc (One pair)[0m
+[34m  blaBot ($415) 5c,2s (One pair)[0m
+[34m  status3Bot ($1955) 9s,2d[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: 8c 5d Ks Jc Td [0m
+[34m Pot is: 35[0m
+[34m  FlopASetBot ($850) 3s,Tc (One pair)[0m
+[34m  blaBot ($415) 5c,2s (One pair)[0m
+[34m  status3Bot ($1955) 9s,2d[0m
+[31m Actions: [0m
+ 
+[34mRound #66 complete.[0m
+[34mWinner was FlopASetBot with One pair Amount won: $35[0m
+[34mPositions: [0m
+[34mSneakyCharlie ($2210) had Qd 7s  [0m
+[34mFlopASetBot ($885) had 3s Tc  (One pair)[0m
+[34mblaBot ($415) had 5c 2s  (One pair)[0m
+[34medi9999 ($1535) had 2h 5h  [0m
+[34mstatus3Bot ($1955) had 9s 2d  (High card)[0m
+[34m=================================[0m
+ 
+[34m==== Round #67 starting ====[0m
+[34m5 players:[0m
+[34m  FlopASetBot ($885) [0m
+[34m  blaBot ($415) [0m
+[34m  edi9999 ($1535) [0m
+[34m  status3Bot ($1955) [0m
+[34m  SneakyCharlie ($2210) [0m
+ 
+[34m-- pre-flop[0m
+[34m  FlopASetBot ($880) 3h 2s [0m
+[34m  blaBot ($405) As 8s [0m
+[34m  edi9999 ($1535) 7s 8c [0m
+[34m  status3Bot ($1955) Ad Th [0m
+[34m  SneakyCharlie ($2210) 6h 3s [0m
+[31m  FlopASetBot  paid a blind of $5[0m
+[31m  blaBot  paid a blind of $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 3d Kd Js [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($405) As,8s[0m
+[34m  status3Bot ($1945) Ad,Th[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 3d Kd Js 4s [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($405) As,8s[0m
+[34m  status3Bot ($1945) Ad,Th[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: 3d Kd Js 4s Qs [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($405) As,8s (Flush)[0m
+[34m  status3Bot ($1945) Ad,Th (Straight)[0m
+[31m Actions: [0m
+[31m  blaBot went ALL IN with $405[0m
+[31m  status3Bot called $405[0m
+ 
+[34m-- final[0m
+[34m Cards are: 3d Kd Js 4s Qs [0m
+[34m Pot is: 835[0m
+[34m  blaBot ($0) As,8s (Flush)[0m
+[34m  status3Bot ($1540) Ad,Th (Straight)[0m
+[31m Actions: [0m
+ 
+[34mRound #67 complete.[0m
+[34mWinner was blaBot with Flush Amount won: $835[0m
+[34mPositions: [0m
+[34mFlopASetBot ($880) had 3h 2s  [0m
+[34mblaBot ($835) had As 8s  (Flush)[0m
+[34medi9999 ($1535) had 7s 8c  [0m
+[34mstatus3Bot ($1540) had Ad Th  (Straight)[0m
+[34mSneakyCharlie ($2210) had 6h 3s  [0m
+[34m=================================[0m
+ 
+[34m==== Round #68 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($835) [0m
+[34m  edi9999 ($1535) [0m
+[34m  status3Bot ($1540) [0m
+[34m  SneakyCharlie ($2210) [0m
+[34m  FlopASetBot ($880) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($830) Qc Qs [0m
+[34m  edi9999 ($1525) Ah 5h [0m
+[34m  status3Bot ($1540) 3d 2d [0m
+[34m  SneakyCharlie ($2210) 9s Kc [0m
+[34m  FlopASetBot ($880) 2h 4d [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $5[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Jh Td 8s [0m
+[34m Pot is: 30[0m
+[34m  blaBot ($825) Qc,Qs (One pair)[0m
+[34m  edi9999 ($1525) Ah,5h[0m
+[34m  status3Bot ($1530) 3d,2d[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 raised by $10[0m
+[31m  status3Bot folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #68 complete.[0m
+[34mWinner was edi9999  Amount won: $40[0m
+[34mPositions: [0m
+[34mblaBot ($825) had Qc Qs  [0m
+[34medi9999 ($1555) had Ah 5h  [0m
+[34mstatus3Bot ($1530) had 3d 2d  [0m
+[34mSneakyCharlie ($2210) had 9s Kc  [0m
+[34mFlopASetBot ($880) had 2h 4d  [0m
+[34m=================================[0m
+ 
+[34m==== Round #69 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($825) [0m
+[34m  edi9999 ($1555) [0m
+[34m  status3Bot ($1530) [0m
+[34m  SneakyCharlie ($2210) [0m
+[34m  FlopASetBot ($880) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($820) Qd Qc [0m
+[34m  edi9999 ($1545) 4s 3c [0m
+[34m  status3Bot ($1530) Jd 5c [0m
+[34m  SneakyCharlie ($2210) As 6c [0m
+[34m  FlopASetBot ($880) Ac 2d [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $5[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 7h 6d 4c [0m
+[34m Pot is: 30[0m
+[34m  blaBot ($815) Qd,Qc (One pair)[0m
+[34m  edi9999 ($1545) 4s,3c (One pair)[0m
+[34m  status3Bot ($1520) Jd,5c[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 raised by $10[0m
+[31m  status3Bot folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #69 complete.[0m
+[34mWinner was edi9999  Amount won: $40[0m
+[34mPositions: [0m
+[34mblaBot ($815) had Qd Qc  [0m
+[34medi9999 ($1575) had 4s 3c  [0m
+[34mstatus3Bot ($1520) had Jd 5c  [0m
+[34mSneakyCharlie ($2210) had As 6c  [0m
+[34mFlopASetBot ($880) had Ac 2d  [0m
+[34m=================================[0m
+ 
+[34m==== Round #70 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1575) [0m
+[34m  status3Bot ($1520) [0m
+[34m  SneakyCharlie ($2210) [0m
+[34m  FlopASetBot ($880) [0m
+[34m  blaBot ($815) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1570) 6h 3c [0m
+[34m  status3Bot ($1510) Qd 3s [0m
+[34m  SneakyCharlie ($2210) 4c 9s [0m
+[34m  FlopASetBot ($880) 8d 6d [0m
+[34m  blaBot ($815) 2h 2s [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Td 9d Kd [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1510) Qd,3s[0m
+[34m  blaBot ($805) 2h,2s (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Td 9d Kd 7h [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1510) Qd,3s[0m
+[34m  blaBot ($805) 2h,2s (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: Td 9d Kd 7h 8s [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1510) Qd,3s[0m
+[34m  blaBot ($805) 2h,2s (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: Td 9d Kd 7h 8s [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1510) Qd,3s[0m
+[34m  blaBot ($805) 2h,2s (One pair)[0m
+[31m Actions: [0m
+ 
+[34mRound #70 complete.[0m
+[34mWinner was blaBot with One pair Amount won: $25[0m
+[34mPositions: [0m
+[34medi9999 ($1570) had 6h 3c  [0m
+[34mstatus3Bot ($1510) had Qd 3s  (High card)[0m
+[34mSneakyCharlie ($2210) had 4c 9s  [0m
+[34mFlopASetBot ($880) had 8d 6d  [0m
+[34mblaBot ($830) had 2h 2s  (One pair)[0m
+[34m=================================[0m
+ 
+[34m==== Round #71 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1570) [0m
+[34m  status3Bot ($1510) [0m
+[34m  SneakyCharlie ($2210) [0m
+[34m  FlopASetBot ($880) [0m
+[34m  blaBot ($830) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1565) 3h 8c [0m
+[34m  status3Bot ($1500) Tc 4c [0m
+[34m  SneakyCharlie ($2210) 3c Ad [0m
+[34m  FlopASetBot ($880) 8d 7d [0m
+[34m  blaBot ($830) Ah 9h [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 2h 2s Td [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1500) Tc,4c (Two pair)[0m
+[34m  blaBot ($820) Ah,9h (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot raised by $10[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #71 complete.[0m
+[34mWinner was status3Bot  Amount won: $35[0m
+[34mPositions: [0m
+[34medi9999 ($1565) had 3h 8c  [0m
+[34mstatus3Bot ($1525) had Tc 4c  [0m
+[34mSneakyCharlie ($2210) had 3c Ad  [0m
+[34mFlopASetBot ($880) had 8d 7d  [0m
+[34mblaBot ($820) had Ah 9h  [0m
+[34m=================================[0m
+ 
+[34m==== Round #72 starting ====[0m
+[34m5 players:[0m
+[34m  status3Bot ($1525) [0m
+[34m  SneakyCharlie ($2210) [0m
+[34m  FlopASetBot ($880) [0m
+[34m  blaBot ($820) [0m
+[34m  edi9999 ($1565) [0m
+ 
+[34m-- pre-flop[0m
+[34m  status3Bot ($1520) 6c 4d [0m
+[34m  SneakyCharlie ($2200) Th Kh [0m
+[34m  FlopASetBot ($880) 9d 5h [0m
+[34m  blaBot ($820) 3d Tc [0m
+[34m  edi9999 ($1565) 9c 3c [0m
+[31m  status3Bot  paid a blind of $5[0m
+[31m  SneakyCharlie  paid a blind of $10[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $5[0m
+[31m  SneakyCharlie checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 3s Js 6s [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1515) 6c,4d (One pair)[0m
+[34m  SneakyCharlie ($2200) Th,Kh[0m
+[34m  blaBot ($810) 3d,Tc (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 3s Js 6s 2c [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1515) 6c,4d (One pair)[0m
+[34m  SneakyCharlie ($2200) Th,Kh[0m
+[34m  blaBot ($810) 3d,Tc (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: 3s Js 6s 2c Ts [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1515) 6c,4d (One pair)[0m
+[34m  SneakyCharlie ($2200) Th,Kh (One pair)[0m
+[34m  blaBot ($810) 3d,Tc (Two pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: 3s Js 6s 2c Ts [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1515) 6c,4d (One pair)[0m
+[34m  SneakyCharlie ($2200) Th,Kh (One pair)[0m
+[34m  blaBot ($810) 3d,Tc (Two pair)[0m
+[31m Actions: [0m
+ 
+[34mRound #72 complete.[0m
+[34mWinner was blaBot with Two pair Amount won: $30[0m
+[34mPositions: [0m
+[34mstatus3Bot ($1515) had 6c 4d  (One pair)[0m
+[34mSneakyCharlie ($2200) had Th Kh  (One pair)[0m
+[34mFlopASetBot ($880) had 9d 5h  [0m
+[34mblaBot ($840) had 3d Tc  (Two pair)[0m
+[34medi9999 ($1565) had 9c 3c  [0m
+[34m=================================[0m
+ 
+[34m==== Round #73 starting ====[0m
+[34m5 players:[0m
+[34m  SneakyCharlie ($2200) [0m
+[34m  FlopASetBot ($880) [0m
+[34m  blaBot ($840) [0m
+[34m  edi9999 ($1565) [0m
+[34m  status3Bot ($1515) [0m
+ 
+[34m-- pre-flop[0m
+[34m  SneakyCharlie ($2195) 4s 7h [0m
+[34m  FlopASetBot ($870) 8c 6d [0m
+[34m  blaBot ($840) 2c 7c [0m
+[34m  edi9999 ($1565) Ac Th [0m
+[34m  status3Bot ($1515) 8s Td [0m
+[31m  SneakyCharlie  paid a blind of $5[0m
+[31m  FlopASetBot  paid a blind of $10[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 raised by $40[0m
+[31m  status3Bot folded[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $30[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 3c Jh Tc [0m
+[34m Pot is: 95[0m
+[34m  blaBot ($800) 2c,7c[0m
+[34m  edi9999 ($1525) Ac,Th (One pair)[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 raised by $10[0m
+[31m  blaBot called $10[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 3c Jh Tc 4c [0m
+[34m Pot is: 115[0m
+[34m  blaBot ($790) 2c,7c (Flush)[0m
+[34m  edi9999 ($1515) Ac,Th (One pair)[0m
+[31m Actions: [0m
+[31m  blaBot went ALL IN with $790[0m
+[31m  edi9999 folded[0m
+ 
+[34mRound #73 complete.[0m
+[34mWinner was blaBot  Amount won: $905[0m
+[34mPositions: [0m
+[34mSneakyCharlie ($2195) had 4s 7h  [0m
+[34mFlopASetBot ($870) had 8c 6d  [0m
+[34mblaBot ($905) had 2c 7c  [0m
+[34medi9999 ($1515) had Ac Th  [0m
+[34mstatus3Bot ($1515) had 8s Td  [0m
+[34m=================================[0m
+ 
+[34m==== Round #74 starting ====[0m
+[34m5 players:[0m
+[34m  FlopASetBot ($870) [0m
+[34m  blaBot ($905) [0m
+[34m  edi9999 ($1515) [0m
+[34m  status3Bot ($1515) [0m
+[34m  SneakyCharlie ($2195) [0m
+ 
+[34m-- pre-flop[0m
+[34m  FlopASetBot ($865) Ts 4d [0m
+[34m  blaBot ($895) 8s 9c [0m
+[34m  edi9999 ($1515) Jd 3c [0m
+[34m  status3Bot ($1515) 4h 9s [0m
+[34m  SneakyCharlie ($2195) 2d Kh [0m
+[31m  FlopASetBot  paid a blind of $5[0m
+[31m  blaBot  paid a blind of $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 6h 8c Kd [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($895) 8s,9c (One pair)[0m
+[34m  status3Bot ($1505) 4h,9s[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 6h 8c Kd Qc [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($895) 8s,9c (One pair)[0m
+[34m  status3Bot ($1505) 4h,9s[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: 6h 8c Kd Qc Ah [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($895) 8s,9c (One pair)[0m
+[34m  status3Bot ($1505) 4h,9s[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: 6h 8c Kd Qc Ah [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($895) 8s,9c (One pair)[0m
+[34m  status3Bot ($1505) 4h,9s[0m
+[31m Actions: [0m
+ 
+[34mRound #74 complete.[0m
+[34mWinner was blaBot with One pair Amount won: $25[0m
+[34mPositions: [0m
+[34mFlopASetBot ($865) had Ts 4d  [0m
+[34mblaBot ($920) had 8s 9c  (One pair)[0m
+[34medi9999 ($1515) had Jd 3c  [0m
+[34mstatus3Bot ($1505) had 4h 9s  (High card)[0m
+[34mSneakyCharlie ($2195) had 2d Kh  [0m
+[34m=================================[0m
+ 
+[34m==== Round #75 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($920) [0m
+[34m  edi9999 ($1515) [0m
+[34m  status3Bot ($1505) [0m
+[34m  SneakyCharlie ($2195) [0m
+[34m  FlopASetBot ($865) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($915) 5s Ts [0m
+[34m  edi9999 ($1505) 2d Ac [0m
+[34m  status3Bot ($1505) 2s 3h [0m
+[34m  SneakyCharlie ($2195) Th 6h [0m
+[34m  FlopASetBot ($865) 7h 6s [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $5[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Qc 6d 4s [0m
+[34m Pot is: 30[0m
+[34m  blaBot ($910) 5s,Ts[0m
+[34m  edi9999 ($1505) 2d,Ac[0m
+[34m  status3Bot ($1495) 2s,3h[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 raised by $10[0m
+[31m  status3Bot folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #75 complete.[0m
+[34mWinner was edi9999  Amount won: $40[0m
+[34mPositions: [0m
+[34mblaBot ($910) had 5s Ts  [0m
+[34medi9999 ($1535) had 2d Ac  [0m
+[34mstatus3Bot ($1495) had 2s 3h  [0m
+[34mSneakyCharlie ($2195) had Th 6h  [0m
+[34mFlopASetBot ($865) had 7h 6s  [0m
+[34m=================================[0m
+ 
+[34m==== Round #76 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($910) [0m
+[34m  edi9999 ($1535) [0m
+[34m  status3Bot ($1495) [0m
+[34m  SneakyCharlie ($2195) [0m
+[34m  FlopASetBot ($865) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($905) Qc As [0m
+[34m  edi9999 ($1525) 5s Js [0m
+[34m  status3Bot ($1495) 9c Jh [0m
+[34m  SneakyCharlie ($2195) 3s 3h [0m
+[34m  FlopASetBot ($865) 9s 6d [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie raised by $160[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot folded[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot folded[0m
+ 
+[34mRound #76 complete.[0m
+[34mWinner was SneakyCharlie  Amount won: $185[0m
+[34mPositions: [0m
+[34mblaBot ($905) had Qc As  [0m
+[34medi9999 ($1525) had 5s Js  [0m
+[34mstatus3Bot ($1485) had 9c Jh  [0m
+[34mSneakyCharlie ($2220) had 3s 3h  [0m
+[34mFlopASetBot ($865) had 9s 6d  [0m
+[34m=================================[0m
+ 
+[34m==== Round #77 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1525) [0m
+[34m  status3Bot ($1485) [0m
+[34m  SneakyCharlie ($2220) [0m
+[34m  FlopASetBot ($865) [0m
+[34m  blaBot ($905) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1520) Jd 5c [0m
+[34m  status3Bot ($1475) 8s Qd [0m
+[34m  SneakyCharlie ($2220) 5s Jc [0m
+[34m  FlopASetBot ($865) Qc 6c [0m
+[34m  blaBot ($905) 8h 8c [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 7d 2h 2c [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1475) 8s,Qd (One pair)[0m
+[34m  blaBot ($895) 8h,8c (Two pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 7d 2h 2c 6d [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1475) 8s,Qd (One pair)[0m
+[34m  blaBot ($895) 8h,8c (Two pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: 7d 2h 2c 6d Ad [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1475) 8s,Qd (One pair)[0m
+[34m  blaBot ($895) 8h,8c (Two pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: 7d 2h 2c 6d Ad [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1475) 8s,Qd (One pair)[0m
+[34m  blaBot ($895) 8h,8c (Two pair)[0m
+[31m Actions: [0m
+ 
+[34mRound #77 complete.[0m
+[34mWinner was blaBot with Two pair Amount won: $25[0m
+[34mPositions: [0m
+[34medi9999 ($1520) had Jd 5c  [0m
+[34mstatus3Bot ($1475) had 8s Qd  (One pair)[0m
+[34mSneakyCharlie ($2220) had 5s Jc  [0m
+[34mFlopASetBot ($865) had Qc 6c  [0m
+[34mblaBot ($920) had 8h 8c  (Two pair)[0m
+[34m=================================[0m
+ 
+[34m==== Round #78 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1520) [0m
+[34m  status3Bot ($1475) [0m
+[34m  SneakyCharlie ($2220) [0m
+[34m  FlopASetBot ($865) [0m
+[34m  blaBot ($920) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1515) 2s Qs [0m
+[34m  status3Bot ($1465) Jd 7h [0m
+[34m  SneakyCharlie ($2220) 9c Ts [0m
+[34m  FlopASetBot ($865) 2d 3s [0m
+[34m  blaBot ($920) 7d Qh [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 6c 7c Tc [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1465) Jd,7h (One pair)[0m
+[34m  blaBot ($910) 7d,Qh (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot raised by $10[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #78 complete.[0m
+[34mWinner was status3Bot  Amount won: $35[0m
+[34mPositions: [0m
+[34medi9999 ($1515) had 2s Qs  [0m
+[34mstatus3Bot ($1490) had Jd 7h  [0m
+[34mSneakyCharlie ($2220) had 9c Ts  [0m
+[34mFlopASetBot ($865) had 2d 3s  [0m
+[34mblaBot ($910) had 7d Qh  [0m
+[34m=================================[0m
+ 
+[34m==== Round #79 starting ====[0m
+[34m5 players:[0m
+[34m  status3Bot ($1490) [0m
+[34m  SneakyCharlie ($2220) [0m
+[34m  FlopASetBot ($865) [0m
+[34m  blaBot ($910) [0m
+[34m  edi9999 ($1515) [0m
+ 
+[34m-- pre-flop[0m
+[34m  status3Bot ($1485) Tc 8h [0m
+[34m  SneakyCharlie ($2210) 2c 9c [0m
+[34m  FlopASetBot ($865) 9d 5h [0m
+[34m  blaBot ($910) 6h Qs [0m
+[34m  edi9999 ($1515) 7d As [0m
+[31m  status3Bot  paid a blind of $5[0m
+[31m  SneakyCharlie  paid a blind of $10[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $5[0m
+[31m  SneakyCharlie checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 8c 7h 6c [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1480) Tc,8h (One pair)[0m
+[34m  SneakyCharlie ($2210) 2c,9c[0m
+[34m  blaBot ($900) 6h,Qs (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 8c 7h 6c Td [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1480) Tc,8h (Two pair)[0m
+[34m  SneakyCharlie ($2210) 2c,9c (Straight)[0m
+[34m  blaBot ($900) 6h,Qs (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie raised by $160[0m
+[31m  blaBot folded[0m
+[31m  status3Bot folded[0m
+ 
+[34mRound #79 complete.[0m
+[34mWinner was SneakyCharlie  Amount won: $190[0m
+[34mPositions: [0m
+[34mstatus3Bot ($1480) had Tc 8h  [0m
+[34mSneakyCharlie ($2240) had 2c 9c  [0m
+[34mFlopASetBot ($865) had 9d 5h  [0m
+[34mblaBot ($900) had 6h Qs  [0m
+[34medi9999 ($1515) had 7d As  [0m
+[34m=================================[0m
+ 
+[34m==== Round #80 starting ====[0m
+[34m5 players:[0m
+[34m  SneakyCharlie ($2240) [0m
+[34m  FlopASetBot ($865) [0m
+[34m  blaBot ($900) [0m
+[34m  edi9999 ($1515) [0m
+[34m  status3Bot ($1480) [0m
+ 
+[34m-- pre-flop[0m
+[34m  SneakyCharlie ($2235) 9h 6c [0m
+[34m  FlopASetBot ($855) Jd 4d [0m
+[34m  blaBot ($900) 2s Td [0m
+[34m  edi9999 ($1515) 5c Qd [0m
+[34m  status3Bot ($1480) Kc Ks [0m
+[31m  SneakyCharlie  paid a blind of $5[0m
+[31m  FlopASetBot  paid a blind of $10[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Jh 7s 8s [0m
+[34m Pot is: 35[0m
+[34m  FlopASetBot ($855) Jd,4d (One pair)[0m
+[34m  blaBot ($890) 2s,Td[0m
+[34m  status3Bot ($1470) Kc,Ks (One pair)[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  blaBot checked[0m
+[31m  status3Bot raised by $40[0m
+[31m  FlopASetBot called $40[0m
+[31m  blaBot folded[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Jh 7s 8s Ts [0m
+[34m Pot is: 115[0m
+[34m  FlopASetBot ($815) Jd,4d (One pair)[0m
+[34m  status3Bot ($1430) Kc,Ks (One pair)[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  status3Bot raised by $40[0m
+[31m  FlopASetBot called $40[0m
+ 
+[34m-- river[0m
+[34m Cards are: Jh 7s 8s Ts Ad [0m
+[34m Pot is: 195[0m
+[34m  FlopASetBot ($775) Jd,4d (One pair)[0m
+[34m  status3Bot ($1390) Kc,Ks (One pair)[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  status3Bot raised by $40[0m
+[31m  FlopASetBot called $40[0m
+ 
+[34m-- final[0m
+[34m Cards are: Jh 7s 8s Ts Ad [0m
+[34m Pot is: 275[0m
+[34m  FlopASetBot ($735) Jd,4d (One pair)[0m
+[34m  status3Bot ($1350) Kc,Ks (One pair)[0m
+[31m Actions: [0m
+ 
+[34mRound #80 complete.[0m
+[34mWinner was status3Bot with One pair Amount won: $275[0m
+[34mPositions: [0m
+[34mSneakyCharlie ($2235) had 9h 6c  [0m
+[34mFlopASetBot ($735) had Jd 4d  (One pair)[0m
+[34mblaBot ($890) had 2s Td  [0m
+[34medi9999 ($1515) had 5c Qd  [0m
+[34mstatus3Bot ($1625) had Kc Ks  (One pair)[0m
+[34m=================================[0m
+ 
+[34m==== Round #81 starting ====[0m
+[34m5 players:[0m
+[34m  FlopASetBot ($735) [0m
+[34m  blaBot ($890) [0m
+[34m  edi9999 ($1515) [0m
+[34m  status3Bot ($1625) [0m
+[34m  SneakyCharlie ($2235) [0m
+ 
+[34m-- pre-flop[0m
+[34m  FlopASetBot ($730) Js 3c [0m
+[34m  blaBot ($880) 7d 8h [0m
+[34m  edi9999 ($1515) 4s 6h [0m
+[34m  status3Bot ($1625) 3s Kh [0m
+[34m  SneakyCharlie ($2235) 5c Kd [0m
+[31m  FlopASetBot  paid a blind of $5[0m
+[31m  blaBot  paid a blind of $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 4d Qh 9d [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($880) 7d,8h[0m
+[34m  status3Bot ($1615) 3s,Kh[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot raised by $30[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #81 complete.[0m
+[34mWinner was status3Bot  Amount won: $55[0m
+[34mPositions: [0m
+[34mFlopASetBot ($730) had Js 3c  [0m
+[34mblaBot ($880) had 7d 8h  [0m
+[34medi9999 ($1515) had 4s 6h  [0m
+[34mstatus3Bot ($1640) had 3s Kh  [0m
+[34mSneakyCharlie ($2235) had 5c Kd  [0m
+[34m=================================[0m
+ 
+[34m==== Round #82 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($880) [0m
+[34m  edi9999 ($1515) [0m
+[34m  status3Bot ($1640) [0m
+[34m  SneakyCharlie ($2235) [0m
+[34m  FlopASetBot ($730) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($875) Kh Qc [0m
+[34m  edi9999 ($1505) Tc 8c [0m
+[34m  status3Bot ($1640) 2c 2d [0m
+[34m  SneakyCharlie ($2235) Jh 7h [0m
+[34m  FlopASetBot ($730) Th 4s [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $5[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Ts 4h Ac [0m
+[34m Pot is: 30[0m
+[34m  blaBot ($870) Kh,Qc[0m
+[34m  edi9999 ($1505) Tc,8c (One pair)[0m
+[34m  status3Bot ($1630) 2c,2d (One pair)[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 went ALL IN with $1505[0m
+[31m  status3Bot folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #82 complete.[0m
+[34mWinner was edi9999  Amount won: $1535[0m
+[34mPositions: [0m
+[34mblaBot ($870) had Kh Qc  [0m
+[34medi9999 ($1535) had Tc 8c  [0m
+[34mstatus3Bot ($1630) had 2c 2d  [0m
+[34mSneakyCharlie ($2235) had Jh 7h  [0m
+[34mFlopASetBot ($730) had Th 4s  [0m
+[34m=================================[0m
+ 
+[34m==== Round #83 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($870) [0m
+[34m  edi9999 ($1535) [0m
+[34m  status3Bot ($1630) [0m
+[34m  SneakyCharlie ($2235) [0m
+[34m  FlopASetBot ($730) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($865) Th 8c [0m
+[34m  edi9999 ($1525) Jh 5s [0m
+[34m  status3Bot ($1630) Jd 7h [0m
+[34m  SneakyCharlie ($2235) Ad 8s [0m
+[34m  FlopASetBot ($730) 7c 3s [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $5[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Qs Ac 9d [0m
+[34m Pot is: 30[0m
+[34m  blaBot ($860) Th,8c[0m
+[34m  edi9999 ($1525) Jh,5s[0m
+[34m  status3Bot ($1620) Jd,7h[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 raised by $10[0m
+[31m  status3Bot folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #83 complete.[0m
+[34mWinner was edi9999  Amount won: $40[0m
+[34mPositions: [0m
+[34mblaBot ($860) had Th 8c  [0m
+[34medi9999 ($1555) had Jh 5s  [0m
+[34mstatus3Bot ($1620) had Jd 7h  [0m
+[34mSneakyCharlie ($2235) had Ad 8s  [0m
+[34mFlopASetBot ($730) had 7c 3s  [0m
+[34m=================================[0m
+ 
+[34m==== Round #84 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1555) [0m
+[34m  status3Bot ($1620) [0m
+[34m  SneakyCharlie ($2235) [0m
+[34m  FlopASetBot ($730) [0m
+[34m  blaBot ($860) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1550) Kd 3h [0m
+[34m  status3Bot ($1610) 6c 3d [0m
+[34m  SneakyCharlie ($2235) 6s 5h [0m
+[34m  FlopASetBot ($730) Jh 5c [0m
+[34m  blaBot ($860) 6h Th [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Jc 6d 7c [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1610) 6c,3d (One pair)[0m
+[34m  blaBot ($850) 6h,Th (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot raised by $10[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #84 complete.[0m
+[34mWinner was status3Bot  Amount won: $35[0m
+[34mPositions: [0m
+[34medi9999 ($1550) had Kd 3h  [0m
+[34mstatus3Bot ($1635) had 6c 3d  [0m
+[34mSneakyCharlie ($2235) had 6s 5h  [0m
+[34mFlopASetBot ($730) had Jh 5c  [0m
+[34mblaBot ($850) had 6h Th  [0m
+[34m=================================[0m
+ 
+[34m==== Round #85 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1550) [0m
+[34m  status3Bot ($1635) [0m
+[34m  SneakyCharlie ($2235) [0m
+[34m  FlopASetBot ($730) [0m
+[34m  blaBot ($850) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1545) Td 6s [0m
+[34m  status3Bot ($1625) 9c As [0m
+[34m  SneakyCharlie ($2235) Ks 5d [0m
+[34m  FlopASetBot ($730) 4d 5s [0m
+[34m  blaBot ($850) Kc Jd [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 3h 7d Qh [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1625) 9c,As[0m
+[34m  blaBot ($840) Kc,Jd[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 3h 7d Qh Ts [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1625) 9c,As[0m
+[34m  blaBot ($840) Kc,Jd[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: 3h 7d Qh Ts 9s [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1625) 9c,As (One pair)[0m
+[34m  blaBot ($840) Kc,Jd (Straight)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: 3h 7d Qh Ts 9s [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1625) 9c,As (One pair)[0m
+[34m  blaBot ($840) Kc,Jd (Straight)[0m
+[31m Actions: [0m
+ 
+[34mRound #85 complete.[0m
+[34mWinner was blaBot with Straight Amount won: $25[0m
+[34mPositions: [0m
+[34medi9999 ($1545) had Td 6s  [0m
+[34mstatus3Bot ($1625) had 9c As  (One pair)[0m
+[34mSneakyCharlie ($2235) had Ks 5d  [0m
+[34mFlopASetBot ($730) had 4d 5s  [0m
+[34mblaBot ($865) had Kc Jd  (Straight)[0m
+[34m=================================[0m
+ 
+[34m==== Round #86 starting ====[0m
+[34m5 players:[0m
+[34m  status3Bot ($1625) [0m
+[34m  SneakyCharlie ($2235) [0m
+[34m  FlopASetBot ($730) [0m
+[34m  blaBot ($865) [0m
+[34m  edi9999 ($1545) [0m
+ 
+[34m-- pre-flop[0m
+[34m  status3Bot ($1620) 9h 2d [0m
+[34m  SneakyCharlie ($2225) 5s 7d [0m
+[34m  FlopASetBot ($730) Tc 8d [0m
+[34m  blaBot ($865) 3s 8s [0m
+[34m  edi9999 ($1545) 5d 3d [0m
+[31m  status3Bot  paid a blind of $5[0m
+[31m  SneakyCharlie  paid a blind of $10[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $5[0m
+[31m  SneakyCharlie checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Qc Jd Kd [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1615) 9h,2d[0m
+[34m  SneakyCharlie ($2225) 5s,7d[0m
+[34m  blaBot ($855) 3s,8s[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Qc Jd Kd 9s [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1615) 9h,2d (One pair)[0m
+[34m  SneakyCharlie ($2225) 5s,7d[0m
+[34m  blaBot ($855) 3s,8s[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: Qc Jd Kd 9s Kc [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1615) 9h,2d (Two pair)[0m
+[34m  SneakyCharlie ($2225) 5s,7d (One pair)[0m
+[34m  blaBot ($855) 3s,8s (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: Qc Jd Kd 9s Kc [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1615) 9h,2d (Two pair)[0m
+[34m  SneakyCharlie ($2225) 5s,7d (One pair)[0m
+[34m  blaBot ($855) 3s,8s (One pair)[0m
+[31m Actions: [0m
+ 
+[34mRound #86 complete.[0m
+[34mWinner was status3Bot with Two pair Amount won: $30[0m
+[34mPositions: [0m
+[34mstatus3Bot ($1645) had 9h 2d  (Two pair)[0m
+[34mSneakyCharlie ($2225) had 5s 7d  (One pair)[0m
+[34mFlopASetBot ($730) had Tc 8d  [0m
+[34mblaBot ($855) had 3s 8s  (One pair)[0m
+[34medi9999 ($1545) had 5d 3d  [0m
+[34m=================================[0m
+ 
+[34m==== Round #87 starting ====[0m
+[34m5 players:[0m
+[34m  SneakyCharlie ($2225) [0m
+[34m  FlopASetBot ($730) [0m
+[34m  blaBot ($855) [0m
+[34m  edi9999 ($1545) [0m
+[34m  status3Bot ($1645) [0m
+ 
+[34m-- pre-flop[0m
+[34m  SneakyCharlie ($2220) Qd 4s [0m
+[34m  FlopASetBot ($720) 8h Js [0m
+[34m  blaBot ($855) 5c 4d [0m
+[34m  edi9999 ($1545) 6h Qs [0m
+[34m  status3Bot ($1645) Kh Ts [0m
+[31m  SneakyCharlie  paid a blind of $5[0m
+[31m  FlopASetBot  paid a blind of $10[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: As 7c 3d [0m
+[34m Pot is: 35[0m
+[34m  FlopASetBot ($720) 8h,Js[0m
+[34m  blaBot ($845) 5c,4d[0m
+[34m  status3Bot ($1635) Kh,Ts[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  blaBot checked[0m
+[31m  status3Bot raised by $40[0m
+[31m  FlopASetBot called $40[0m
+[31m  blaBot folded[0m
+ 
+[34m-- turn[0m
+[34m Cards are: As 7c 3d 8s [0m
+[34m Pot is: 115[0m
+[34m  FlopASetBot ($680) 8h,Js (One pair)[0m
+[34m  status3Bot ($1595) Kh,Ts[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  status3Bot raised by $40[0m
+[31m  FlopASetBot called $40[0m
+ 
+[34m-- river[0m
+[34m Cards are: As 7c 3d 8s Qh [0m
+[34m Pot is: 195[0m
+[34m  FlopASetBot ($640) 8h,Js (One pair)[0m
+[34m  status3Bot ($1555) Kh,Ts[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  status3Bot raised by $40[0m
+[31m  FlopASetBot called $40[0m
+ 
+[34m-- final[0m
+[34m Cards are: As 7c 3d 8s Qh [0m
+[34m Pot is: 275[0m
+[34m  FlopASetBot ($600) 8h,Js (One pair)[0m
+[34m  status3Bot ($1515) Kh,Ts[0m
+[31m Actions: [0m
+ 
+[34mRound #87 complete.[0m
+[34mWinner was FlopASetBot with One pair Amount won: $275[0m
+[34mPositions: [0m
+[34mSneakyCharlie ($2220) had Qd 4s  [0m
+[34mFlopASetBot ($875) had 8h Js  (One pair)[0m
+[34mblaBot ($845) had 5c 4d  [0m
+[34medi9999 ($1545) had 6h Qs  [0m
+[34mstatus3Bot ($1515) had Kh Ts  (High card)[0m
+[34m=================================[0m
+ 
+[34m==== Round #88 starting ====[0m
+[34m5 players:[0m
+[34m  FlopASetBot ($875) [0m
+[34m  blaBot ($845) [0m
+[34m  edi9999 ($1545) [0m
+[34m  status3Bot ($1515) [0m
+[34m  SneakyCharlie ($2220) [0m
+ 
+[34m-- pre-flop[0m
+[34m  FlopASetBot ($870) 3h Jc [0m
+[34m  blaBot ($835) 2d 9d [0m
+[34m  edi9999 ($1545) 2c 8d [0m
+[34m  status3Bot ($1515) 6c Jh [0m
+[34m  SneakyCharlie ($2220) 3d 4c [0m
+[31m  FlopASetBot  paid a blind of $5[0m
+[31m  blaBot  paid a blind of $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Jd 7d 4s [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($835) 2d,9d[0m
+[34m  status3Bot ($1505) 6c,Jh (One pair)[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot raised by $30[0m
+[31m  blaBot called $30[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Jd 7d 4s 2s [0m
+[34m Pot is: 85[0m
+[34m  blaBot ($805) 2d,9d (One pair)[0m
+[34m  status3Bot ($1475) 6c,Jh (One pair)[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot raised by $30[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #88 complete.[0m
+[34mWinner was status3Bot  Amount won: $115[0m
+[34mPositions: [0m
+[34mFlopASetBot ($870) had 3h Jc  [0m
+[34mblaBot ($805) had 2d 9d  [0m
+[34medi9999 ($1545) had 2c 8d  [0m
+[34mstatus3Bot ($1560) had 6c Jh  [0m
+[34mSneakyCharlie ($2220) had 3d 4c  [0m
+[34m=================================[0m
+ 
+[34m==== Round #89 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($805) [0m
+[34m  edi9999 ($1545) [0m
+[34m  status3Bot ($1560) [0m
+[34m  SneakyCharlie ($2220) [0m
+[34m  FlopASetBot ($870) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($800) Kd 9d [0m
+[34m  edi9999 ($1535) 5s 5h [0m
+[34m  status3Bot ($1560) Qh 7s [0m
+[34m  SneakyCharlie ($2220) 2h Th [0m
+[34m  FlopASetBot ($870) Ad Tc [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $5[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Js 6h 4c [0m
+[34m Pot is: 30[0m
+[34m  blaBot ($795) Kd,9d[0m
+[34m  edi9999 ($1535) 5s,5h (One pair)[0m
+[34m  status3Bot ($1550) Qh,7s[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 raised by $10[0m
+[31m  status3Bot folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #89 complete.[0m
+[34mWinner was edi9999  Amount won: $40[0m
+[34mPositions: [0m
+[34mblaBot ($795) had Kd 9d  [0m
+[34medi9999 ($1565) had 5s 5h  [0m
+[34mstatus3Bot ($1550) had Qh 7s  [0m
+[34mSneakyCharlie ($2220) had 2h Th  [0m
+[34mFlopASetBot ($870) had Ad Tc  [0m
+[34m=================================[0m
+ 
+[34m==== Round #90 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($795) [0m
+[34m  edi9999 ($1565) [0m
+[34m  status3Bot ($1550) [0m
+[34m  SneakyCharlie ($2220) [0m
+[34m  FlopASetBot ($870) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($790) 5h 5s [0m
+[34m  edi9999 ($1555) 5d Qs [0m
+[34m  status3Bot ($1550) Ac Kd [0m
+[34m  SneakyCharlie ($2220) 8c Jc [0m
+[34m  FlopASetBot ($870) 5c Th [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $5[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Qh 9c 7d [0m
+[34m Pot is: 30[0m
+[34m  blaBot ($785) 5h,5s (One pair)[0m
+[34m  edi9999 ($1555) 5d,Qs (One pair)[0m
+[34m  status3Bot ($1540) Ac,Kd[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 went ALL IN with $1555[0m
+[31m  status3Bot folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #90 complete.[0m
+[34mWinner was edi9999  Amount won: $1585[0m
+[34mPositions: [0m
+[34mblaBot ($785) had 5h 5s  [0m
+[34medi9999 ($1585) had 5d Qs  [0m
+[34mstatus3Bot ($1540) had Ac Kd  [0m
+[34mSneakyCharlie ($2220) had 8c Jc  [0m
+[34mFlopASetBot ($870) had 5c Th  [0m
+[34m=================================[0m
+ 
+[34m==== Round #91 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1585) [0m
+[34m  status3Bot ($1540) [0m
+[34m  SneakyCharlie ($2220) [0m
+[34m  FlopASetBot ($870) [0m
+[34m  blaBot ($785) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1580) 2s 7s [0m
+[34m  status3Bot ($1530) 5d Kd [0m
+[34m  SneakyCharlie ($2220) 3h Kc [0m
+[34m  FlopASetBot ($870) Tc 3s [0m
+[34m  blaBot ($785) 3d 4c [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 5h 6h 9h [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1530) 5d,Kd (One pair)[0m
+[34m  blaBot ($775) 3d,4c[0m
+[31m Actions: [0m
+[31m  status3Bot raised by $10[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #91 complete.[0m
+[34mWinner was status3Bot  Amount won: $35[0m
+[34mPositions: [0m
+[34medi9999 ($1580) had 2s 7s  [0m
+[34mstatus3Bot ($1555) had 5d Kd  [0m
+[34mSneakyCharlie ($2220) had 3h Kc  [0m
+[34mFlopASetBot ($870) had Tc 3s  [0m
+[34mblaBot ($775) had 3d 4c  [0m
+[34m=================================[0m
+ 
+[34m==== Round #92 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1580) [0m
+[34m  status3Bot ($1555) [0m
+[34m  SneakyCharlie ($2220) [0m
+[34m  FlopASetBot ($870) [0m
+[34m  blaBot ($775) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1575) 3c 6h [0m
+[34m  status3Bot ($1545) 9c 9d [0m
+[34m  SneakyCharlie ($2220) 6c Jh [0m
+[34m  FlopASetBot ($870) 5d Ah [0m
+[34m  blaBot ($775) 4s 4d [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 2h 4c 5s [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1545) 9c,9d (One pair)[0m
+[34m  blaBot ($765) 4s,4d (Three of a kind)[0m
+[31m Actions: [0m
+[31m  status3Bot raised by $10[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #92 complete.[0m
+[34mWinner was status3Bot  Amount won: $35[0m
+[34mPositions: [0m
+[34medi9999 ($1575) had 3c 6h  [0m
+[34mstatus3Bot ($1570) had 9c 9d  [0m
+[34mSneakyCharlie ($2220) had 6c Jh  [0m
+[34mFlopASetBot ($870) had 5d Ah  [0m
+[34mblaBot ($765) had 4s 4d  [0m
+[34m=================================[0m
+ 
+[34m==== Round #93 starting ====[0m
+[34m5 players:[0m
+[34m  status3Bot ($1570) [0m
+[34m  SneakyCharlie ($2220) [0m
+[34m  FlopASetBot ($870) [0m
+[34m  blaBot ($765) [0m
+[34m  edi9999 ($1575) [0m
+ 
+[34m-- pre-flop[0m
+[34m  status3Bot ($1565) 6c 3d [0m
+[34m  SneakyCharlie ($2210) Ad 5d [0m
+[34m  FlopASetBot ($870) 8h 7c [0m
+[34m  blaBot ($765) 2c 2d [0m
+[34m  edi9999 ($1575) Jh 6d [0m
+[31m  status3Bot  paid a blind of $5[0m
+[31m  SneakyCharlie  paid a blind of $10[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $5[0m
+[31m  SneakyCharlie checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Js 9d 5c [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1560) 6c,3d[0m
+[34m  SneakyCharlie ($2210) Ad,5d (One pair)[0m
+[34m  blaBot ($755) 2c,2d (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Js 9d 5c 8s [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1560) 6c,3d[0m
+[34m  SneakyCharlie ($2210) Ad,5d (One pair)[0m
+[34m  blaBot ($755) 2c,2d (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: Js 9d 5c 8s 8c [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1560) 6c,3d (One pair)[0m
+[34m  SneakyCharlie ($2210) Ad,5d (Two pair)[0m
+[34m  blaBot ($755) 2c,2d (Two pair)[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: Js 9d 5c 8s 8c [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1560) 6c,3d (One pair)[0m
+[34m  SneakyCharlie ($2210) Ad,5d (Two pair)[0m
+[34m  blaBot ($755) 2c,2d (Two pair)[0m
+[31m Actions: [0m
+ 
+[34mRound #93 complete.[0m
+[34mWinner was SneakyCharlie with Two pair Amount won: $30[0m
+[34mPositions: [0m
+[34mstatus3Bot ($1560) had 6c 3d  (One pair)[0m
+[34mSneakyCharlie ($2240) had Ad 5d  (Two pair)[0m
+[34mFlopASetBot ($870) had 8h 7c  [0m
+[34mblaBot ($755) had 2c 2d  (Two pair)[0m
+[34medi9999 ($1575) had Jh 6d  [0m
+[34m=================================[0m
+ 
+[34m==== Round #94 starting ====[0m
+[34m5 players:[0m
+[34m  SneakyCharlie ($2240) [0m
+[34m  FlopASetBot ($870) [0m
+[34m  blaBot ($755) [0m
+[34m  edi9999 ($1575) [0m
+[34m  status3Bot ($1560) [0m
+ 
+[34m-- pre-flop[0m
+[34m  SneakyCharlie ($2235) Td 3s [0m
+[34m  FlopASetBot ($860) 4d 5c [0m
+[34m  blaBot ($755) Ks Kh [0m
+[34m  edi9999 ($1575) 4c 7d [0m
+[34m  status3Bot ($1560) 6s Qh [0m
+[31m  SneakyCharlie  paid a blind of $5[0m
+[31m  FlopASetBot  paid a blind of $10[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 6d 8d As [0m
+[34m Pot is: 35[0m
+[34m  FlopASetBot ($860) 4d,5c[0m
+[34m  blaBot ($745) Ks,Kh (One pair)[0m
+[34m  status3Bot ($1550) 6s,Qh (One pair)[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  blaBot checked[0m
+[31m  status3Bot raised by $40[0m
+[31m  FlopASetBot called $40[0m
+[31m  blaBot folded[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 6d 8d As 3h [0m
+[34m Pot is: 115[0m
+[34m  FlopASetBot ($820) 4d,5c[0m
+[34m  status3Bot ($1510) 6s,Qh (One pair)[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  status3Bot raised by $40[0m
+[31m  FlopASetBot called $40[0m
+ 
+[34m-- river[0m
+[34m Cards are: 6d 8d As 3h 2c [0m
+[34m Pot is: 195[0m
+[34m  FlopASetBot ($780) 4d,5c (Straight)[0m
+[34m  status3Bot ($1470) 6s,Qh (One pair)[0m
+[31m Actions: [0m
+[31m  FlopASetBot checked[0m
+[31m  status3Bot raised by $40[0m
+[31m  FlopASetBot called $40[0m
+ 
+[34m-- final[0m
+[34m Cards are: 6d 8d As 3h 2c [0m
+[34m Pot is: 275[0m
+[34m  FlopASetBot ($740) 4d,5c (Straight)[0m
+[34m  status3Bot ($1430) 6s,Qh (One pair)[0m
+[31m Actions: [0m
+ 
+[34mRound #94 complete.[0m
+[34mWinner was FlopASetBot with Straight Amount won: $275[0m
+[34mPositions: [0m
+[34mSneakyCharlie ($2235) had Td 3s  [0m
+[34mFlopASetBot ($1015) had 4d 5c  (Straight)[0m
+[34mblaBot ($745) had Ks Kh  [0m
+[34medi9999 ($1575) had 4c 7d  [0m
+[34mstatus3Bot ($1430) had 6s Qh  (One pair)[0m
+[34m=================================[0m
+ 
+[34m==== Round #95 starting ====[0m
+[34m5 players:[0m
+[34m  FlopASetBot ($1015) [0m
+[34m  blaBot ($745) [0m
+[34m  edi9999 ($1575) [0m
+[34m  status3Bot ($1430) [0m
+[34m  SneakyCharlie ($2235) [0m
+ 
+[34m-- pre-flop[0m
+[34m  FlopASetBot ($1010) Qd 2d [0m
+[34m  blaBot ($735) 9d Qh [0m
+[34m  edi9999 ($1575) 3c 5d [0m
+[34m  status3Bot ($1430) 4h 7h [0m
+[34m  SneakyCharlie ($2235) Th 7d [0m
+[31m  FlopASetBot  paid a blind of $5[0m
+[31m  blaBot  paid a blind of $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Kh 6c 4s [0m
+[34m Pot is: 25[0m
+[34m  blaBot ($735) 9d,Qh[0m
+[34m  status3Bot ($1420) 4h,7h (One pair)[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  status3Bot raised by $30[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #95 complete.[0m
+[34mWinner was status3Bot  Amount won: $55[0m
+[34mPositions: [0m
+[34mFlopASetBot ($1010) had Qd 2d  [0m
+[34mblaBot ($735) had 9d Qh  [0m
+[34medi9999 ($1575) had 3c 5d  [0m
+[34mstatus3Bot ($1445) had 4h 7h  [0m
+[34mSneakyCharlie ($2235) had Th 7d  [0m
+[34m=================================[0m
+ 
+[34m==== Round #96 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($735) [0m
+[34m  edi9999 ($1575) [0m
+[34m  status3Bot ($1445) [0m
+[34m  SneakyCharlie ($2235) [0m
+[34m  FlopASetBot ($1010) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($730) 2c 7s [0m
+[34m  edi9999 ($1565) 6h Jd [0m
+[34m  status3Bot ($1445) Qc Th [0m
+[34m  SneakyCharlie ($2235) 5h Ts [0m
+[34m  FlopASetBot ($1010) Ad Js [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $5[0m
+[31m  edi9999 checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 3d 6c 5s [0m
+[34m Pot is: 30[0m
+[34m  blaBot ($725) 2c,7s[0m
+[34m  edi9999 ($1565) 6h,Jd (One pair)[0m
+[34m  status3Bot ($1435) Qc,Th[0m
+[31m Actions: [0m
+[31m  blaBot checked[0m
+[31m  edi9999 raised by $10[0m
+[31m  status3Bot folded[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #96 complete.[0m
+[34mWinner was edi9999  Amount won: $40[0m
+[34mPositions: [0m
+[34mblaBot ($725) had 2c 7s  [0m
+[34medi9999 ($1595) had 6h Jd  [0m
+[34mstatus3Bot ($1435) had Qc Th  [0m
+[34mSneakyCharlie ($2235) had 5h Ts  [0m
+[34mFlopASetBot ($1010) had Ad Js  [0m
+[34m=================================[0m
+ 
+[34m==== Round #97 starting ====[0m
+[34m5 players:[0m
+[34m  blaBot ($725) [0m
+[34m  edi9999 ($1595) [0m
+[34m  status3Bot ($1435) [0m
+[34m  SneakyCharlie ($2235) [0m
+[34m  FlopASetBot ($1010) [0m
+ 
+[34m-- pre-flop[0m
+[34m  blaBot ($720) Ac 9h [0m
+[34m  edi9999 ($1585) 8c 9s [0m
+[34m  status3Bot ($1435) 2d Ad [0m
+[34m  SneakyCharlie ($2235) Qs Kc [0m
+[34m  FlopASetBot ($1010) Tc 9d [0m
+[31m  blaBot  paid a blind of $5[0m
+[31m  edi9999  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  SneakyCharlie raised by $160[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot folded[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot folded[0m
+ 
+[34mRound #97 complete.[0m
+[34mWinner was SneakyCharlie  Amount won: $185[0m
+[34mPositions: [0m
+[34mblaBot ($720) had Ac 9h  [0m
+[34medi9999 ($1585) had 8c 9s  [0m
+[34mstatus3Bot ($1425) had 2d Ad  [0m
+[34mSneakyCharlie ($2260) had Qs Kc  [0m
+[34mFlopASetBot ($1010) had Tc 9d  [0m
+[34m=================================[0m
+ 
+[34m==== Round #98 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1585) [0m
+[34m  status3Bot ($1425) [0m
+[34m  SneakyCharlie ($2260) [0m
+[34m  FlopASetBot ($1010) [0m
+[34m  blaBot ($720) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1580) 9h Th [0m
+[34m  status3Bot ($1415) Jc Qs [0m
+[34m  SneakyCharlie ($2260) 6c Js [0m
+[34m  FlopASetBot ($1010) 5d Jh [0m
+[34m  blaBot ($720) 3d Ac [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Ad Tc Qh [0m
+[34m Pot is: 25[0m
+[34m  status3Bot ($1415) Jc,Qs (One pair)[0m
+[34m  blaBot ($710) 3d,Ac (One pair)[0m
+[31m Actions: [0m
+[31m  status3Bot raised by $10[0m
+[31m  blaBot folded[0m
+ 
+[34mRound #98 complete.[0m
+[34mWinner was status3Bot  Amount won: $35[0m
+[34mPositions: [0m
+[34medi9999 ($1580) had 9h Th  [0m
+[34mstatus3Bot ($1440) had Jc Qs  [0m
+[34mSneakyCharlie ($2260) had 6c Js  [0m
+[34mFlopASetBot ($1010) had 5d Jh  [0m
+[34mblaBot ($710) had 3d Ac  [0m
+[34m=================================[0m
+ 
+[34m==== Round #99 starting ====[0m
+[34m5 players:[0m
+[34m  edi9999 ($1580) [0m
+[34m  status3Bot ($1440) [0m
+[34m  SneakyCharlie ($2260) [0m
+[34m  FlopASetBot ($1010) [0m
+[34m  blaBot ($710) [0m
+ 
+[34m-- pre-flop[0m
+[34m  edi9999 ($1575) 9h Qc [0m
+[34m  status3Bot ($1430) 5d 2d [0m
+[34m  SneakyCharlie ($2260) 4h 7c [0m
+[34m  FlopASetBot ($1010) Ah Ad [0m
+[34m  blaBot ($710) Kh Ks [0m
+[31m  edi9999  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  SneakyCharlie folded[0m
+[31m  FlopASetBot went ALL IN with $1010[0m
+[31m  blaBot folded[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot folded[0m
+ 
+[34mRound #99 complete.[0m
+[34mWinner was FlopASetBot  Amount won: $1025[0m
+[34mPositions: [0m
+[34medi9999 ($1575) had 9h Qc  [0m
+[34mstatus3Bot ($1430) had 5d 2d  [0m
+[34mSneakyCharlie ($2260) had 4h 7c  [0m
+[34mFlopASetBot ($1025) had Ah Ad  [0m
+[34mblaBot ($710) had Kh Ks  [0m
+[34m=================================[0m
+ 
+[34m==== Round #100 starting ====[0m
+[34m5 players:[0m
+[34m  status3Bot ($1430) [0m
+[34m  SneakyCharlie ($2260) [0m
+[34m  FlopASetBot ($1025) [0m
+[34m  blaBot ($710) [0m
+[34m  edi9999 ($1575) [0m
+ 
+[34m-- pre-flop[0m
+[34m  status3Bot ($1425) 7d 5c [0m
+[34m  SneakyCharlie ($2250) Jh 8c [0m
+[34m  FlopASetBot ($1025) 3h 9d [0m
+[34m  blaBot ($710) 6s Tc [0m
+[34m  edi9999 ($1575) Ts 8s [0m
+[31m  status3Bot  paid a blind of $5[0m
+[31m  SneakyCharlie  paid a blind of $10[0m
+[31m  FlopASetBot folded[0m
+[31m  blaBot called $10[0m
+[31m  edi9999 folded[0m
+[31m  status3Bot called $5[0m
+[31m  SneakyCharlie checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Jc 5d Ac [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1420) 7d,5c (One pair)[0m
+[34m  SneakyCharlie ($2250) Jh,8c (One pair)[0m
+[34m  blaBot ($700) 6s,Tc[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Jc 5d Ac 8d [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1420) 7d,5c (One pair)[0m
+[34m  SneakyCharlie ($2250) Jh,8c (Two pair)[0m
+[34m  blaBot ($700) 6s,Tc[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: Jc 5d Ac 8d 2s [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1420) 7d,5c (One pair)[0m
+[34m  SneakyCharlie ($2250) Jh,8c (Two pair)[0m
+[34m  blaBot ($700) 6s,Tc[0m
+[31m Actions: [0m
+[31m  status3Bot checked[0m
+[31m  SneakyCharlie checked[0m
+[31m  blaBot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: Jc 5d Ac 8d 2s [0m
+[34m Pot is: 30[0m
+[34m  status3Bot ($1420) 7d,5c (One pair)[0m
+[34m  SneakyCharlie ($2250) Jh,8c (Two pair)[0m
+[34m  blaBot ($700) 6s,Tc[0m
+[31m Actions: [0m
+ 
+[34mRound #100 complete.[0m
+[34mWinner was SneakyCharlie with Two pair Amount won: $30[0m
+[34mPositions: [0m
+[34mstatus3Bot ($1420) had 7d 5c  (One pair)[0m
+[34mSneakyCharlie ($2280) had Jh 8c  (Two pair)[0m
+[34mFlopASetBot ($1025) had 3h 9d  [0m
+[34mblaBot ($700) had 6s Tc  (High card)[0m
+[34medi9999 ($1575) had Ts 8s  [0m
+[34m=================================[0m
