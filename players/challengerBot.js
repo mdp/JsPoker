@@ -320,14 +320,12 @@ module.exports = function () {
                     toRaise = 0.05;
                     extraCall = true;
                     extraCallMax = 1;
-                    toRaise = toRaise * 3;
                 }
                 else {
                     if(strength == 'ok') {
                         toRaise = 0.01;
                         extraCall = true;
                         extraCallMax = 0.5;
-                        toRaise = toRaise * 3;
                     }
                     else { 
                         if(strength == 'avg') {
@@ -346,7 +344,6 @@ module.exports = function () {
                         extraCallMax = 1;
                         if(toRaise < 0.05) {
                             toRaise = 0.05;
-                            toRaise = toRaise * 3;
                         }
                     }
                 }
@@ -361,10 +358,9 @@ module.exports = function () {
                  }
                  else {
                      if(strength == 'ok') {
-                        toRaise = 0.05;
+                        toRaise = 0.20;
                         extraCall = true;
-                        extraCallMax = 0.2;
-                        toRaise = toRaise * 3;
+                        extraCallMax = 0.5;
                      }
                      else { 
                         if(strength == 'avg') {
@@ -381,7 +377,6 @@ module.exports = function () {
                  }
                 break;
         }
-        
         
         
         if(porcent >= toRaise && porcent < extraCallMax) {
