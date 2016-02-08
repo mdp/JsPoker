@@ -4,7 +4,8 @@
   "description": "A javascript based poker tournament",
   "main": "index.js",
   "scripts": {
-    "test": "node ./node_modules/mocha/bin/mocha"
+    "test": "node ./node_modules/mocha/bin/mocha",
+    "start": "node play.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,7 @@
     "async": "~0.2.9"
   },
   "devDependencies": {
+    "babel-cli": "^6.4.5",
     "mocha": "~1.14.0"
   }
 }

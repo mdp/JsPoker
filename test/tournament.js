@@ -1,34 +1,47 @@
 var MachinePoker = require('machine-poker')
-    , SneakyCharlie = require('../players/sneakyCharlieBot')
-    , SmartBot = require('../players/smartBot')
-    , MercBot = require('../players/mercBot')
-    , TollusBot = require('../players/tollusBot')
-    , FlopsASetBot = require('../players/flopsASetBot')
-    , BlaBot = require('../players/blaBot')
-    , WhistleTipsBot = require('../players/whistleTipsBot')
-    , CallBot = require('../players/callBot')
-    , UnpredictableBot = require('../players/unpredictableBot')
-    , RandBot = require('../players/randBot')
-    , ThoseAreMyFish = require('../players/thoseAreMyFish')
-    , Edi9999 = require('../players/edi9999')
-    , Status3 = require('../players/status3Bot')
     , JsSeat = MachinePoker.seats.JsLocal;
 
-exports.createTable = function (challenger, opts) {
-  var table = MachinePoker.create({
-    maxRounds: opts.hands || 100,
-    chips: opts.chips || 1000
-  });
-
-  table.addPlayers(
-    [ JsSeat.create(Status3)
-    , JsSeat.create(Edi9999)
-    , JsSeat.create(SneakyCharlie)
-    , JsSeat.create(FlopsASetBot)
-    , JsSeat.create(WhistleTipsBot)
-    , JsSeat.create(BlaBot)
-    , challenger
-    ]
-  );
-  return table;
+function distribute(a, n) {
+  var tables = []
+  var i = Math.ceil(a.length / n)
+  for(var j=0; j < i; j++) {
+    tables.push([])
+  }
+  for(var k=0; k < a.length; k++) {
+    tables[k%i].push(a[k])
+  }
+  return tables
 }
+
+// Add all the players and return x number of tables
+exports.setupTournament = function(players,opts) {
+  opts = opts || {}
+  var playerGroups = distribute(players, 7)
+  var tables = []
+  for (var i = 0; i < playerGroups.length; i++) {
+    var table = MachinePoker.create({
+      maxRounds: opts.hands || 100,
+      chips: opts.chips || 1000
+    });
+    table.addPlayers(playerGroups[i])
+    tables.push(table)
+  }
+  return tables
+}
+
+exports.getWinningPlayerFromTable = function(table) {
+  return new Promise(function(resolve, reject) {
+    table.on('tournamentComplete', function (players) {
+      var winner = players[0]
+      for (var i=0; i < players.length; i++) {
+        var p = players[i];
+        if (p.chips > winner.chips) {
+          winner = p
+        }
+      }
+      resolve(winner)
+    })
+    table.start();
+  })
+}
+
