@@ -6,10 +6,13 @@ module.exports = function () {
     btcWallet: "nil"
   };
   
-  // I hope these don't count as "external modules"?
-  // they seem to come with the game engine
-  var Hand = require('hoyle').Hand;
-  var deck = new (require('hoyle').Deck)().cards;
+  // Haxx - get submodule on old node
+  // I hope these don't count as "external modules"
+  // as they come with the game engine
+  var mp = require.cache[require.resolve('machine-poker')]
+  var hoyle = mp.require('hoyle')
+  var Hand = hoyle.Hand;
+  var deck = new (hoyle.Deck)().cards;
   
   // increadably bad card dealer
   function randCard(used) {
@@ -67,11 +70,11 @@ module.exports = function () {
       
       // calculate pot size
       var pot = 0;
-      game.players.map(p => pot += parseFloat(p.wagered));
+      game.players.map(function(p) { return pot += parseFloat(p.wagered); });
       
       // compensate for horrible pre-flop and flop
       // reducing opponent count increases simulation winning odds
-      var num_opponents = game.players.filter(p => p.state == 'active').length;
+      var num_opponents = game.players.filter(function(p) { return p.state == 'active'; }).length;
       var sim_opponents = Math.min(num_opponents, opponent_cap);
       
       // calculate winning odds
