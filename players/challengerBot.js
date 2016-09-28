@@ -61,7 +61,7 @@ module.exports = function () {
       // simulation results are just above random
       var aggression = 1;
       var opponent_cap = 1;
-      var sim_iterations = 20;
+      var sim_iterations = 15;
       
       // if you have a proper simulator... these will do much better
       //var aggression = 1.25;
