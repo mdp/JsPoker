@@ -1,14 +1,37 @@
+function checkShove(cards) {
+  //variables
+  var returnMe = false;
+  var goodCards = ['A', 'K', 'Q', 'J', '10', '9', '8'];
+  //check if we have  a high pair
+  if(cards[0][0] == cards[1][0]){
+
+    for(var i = 0; i < goodCards.length; i++) 
+    {
+      if(cards[0][0] == goodCards[i])
+      {
+      returnMe = true;
+      }
+    }
+  }
+  return returnMe;
+}
+
 module.exports = function () {
 
   var info = {
-    name: "Nameless Challenger",
-    email: "",
-    btcWallet: ""
+    name: "kingOfTheNits",
+    email: "robertbcorey@gmail.com",
+    btcWallet: "1CS1kxZmNG4LqosnT4Jn7zocQxfV9iHCNQ"
   };
 
   function update(game) {
     if (game.state !== "complete") {
-      return game.betting.call
+      if(checkShove(game.self.cards) == true) {
+        wager = game.self.chips;
+      }else {
+        wager = 0;
+      }
+    return wager;  
     }
   }
 
