@@ -1,11 +1,10 @@
 const fs = require("fs");
-const path = require("path");
 
-function evaluate(round) {
+function evaluate(round, speed) {
   let file = "logs/round" + round + ".json";
   let playerChips = {};
 
-  let filePlayerChips = evaluateFile(file);
+  let filePlayerChips = evaluateFile(file, speed);
   for (const [key, value] of Object.entries(filePlayerChips)) {
     if (playerChips[key] === undefined) {
       playerChips[key] = value;
@@ -243,13 +242,13 @@ function getStages(round, stage) {
   };
 }
 
-function evaluateFile(file) {
+function evaluateFile(file, speed) {
   let rawData = fs.readFileSync(file);
   let data = JSON.parse(rawData);
 
   let rounds = mapTable(data);
   let states = data.map((round) => getState(round));
-  displayGame(rounds);
+  displayGame(rounds, speed);
 
   var finalState = states[states.length - 1];
 
@@ -273,7 +272,7 @@ function getState(element) {
   return sortedPlayerChips;
 }
 
-async function displayGame(table) {
+async function displayGame(table, speed) {
   function sleep(ms) {
     return new Promise((resolve) => setTimeout(resolve, ms));
   }
@@ -281,7 +280,7 @@ async function displayGame(table) {
   let progress = { stage: 1, action: 1 };
   let i = 0;
   while (true) {
-    await sleep(1000);
+    await sleep(1000/speed);
     let hand = table[i];
     if (!hand) {
       break;
@@ -361,11 +360,12 @@ function displayStage(stage, progress, isFinal) {
 
 const args = process.argv;
 
-const round = args[2]; // Replace with desired round number
+const round = args[2]; 
+const speed = args[3] || 1;
 const resultFilePath = "results/" + `round${round}.json`;
 
 // Call the evaluate function
-const result = evaluate(round);
+const result = evaluate(round, speed);
 
 // Write the result to file
 fs.writeFileSync(resultFilePath, JSON.stringify(result));
