@@ -1,23 +1,19 @@
 const fs = require("fs");
 const path = require("path");
-const handEval = require("./handvalue");
 
 function evaluate(round) {
-  let files = getJsonFilePaths("logs/round" + round + "/");
+  let file = "logs/round" + round + ".json";
   let playerChips = {};
-  for (let i = 0; i < files.length; i++) {
-    let file = files[i];
 
-    let filePlayerChips = evaluateFile(file);
-    for (const [key, value] of Object.entries(filePlayerChips)) {
-      if (playerChips[key] === undefined) {
-        playerChips[key] = value;
-      } else {
-        playerChips[key] += value;
-      }
+  let filePlayerChips = evaluateFile(file);
+  for (const [key, value] of Object.entries(filePlayerChips)) {
+    if (playerChips[key] === undefined) {
+      playerChips[key] = value;
+    } else {
+      playerChips[key] += value;
     }
-    break;
   }
+
   let sortedPlayerChips = Object.fromEntries(
     Object.entries(playerChips).sort((a, b) => b[1] - a[1])
   );
@@ -38,14 +34,20 @@ function mapTable(tableData) {
         return {
           name: player.name,
           amount: winner.amount,
-          hand: calculateHandName([...player.cards, ...hand.community], player.handName),
+          hand: calculateHandName(
+            [...player.cards, ...hand.community],
+            player.handName
+          ),
         };
       }),
       finalHands: hand.players.map((player) => {
         return {
           name: player.name,
           hand: prettyPrintCards(player.cards.join(", ")),
-          handName: calculateHandName([...player.cards, ...hand.community], player.handName),
+          handName: calculateHandName(
+            [...player.cards, ...hand.community],
+            player.handName
+          ),
           chips: player.chips,
           folded: player.handName === undefined,
         };
@@ -55,7 +57,9 @@ function mapTable(tableData) {
 }
 
 function calculateHandName(cards, handName) {
-  if (['Royal Flush', 'Straight Flush', 'Flush', 'Straight'].includes(handName)) {
+  if (
+    ["Royal Flush", "Straight Flush", "Flush", "Straight"].includes(handName)
+  ) {
     return handName;
   }
   // map face cards and T to their numerical values
@@ -126,31 +130,55 @@ function calculateHandName(cards, handName) {
   var xOfAKind = (n) => {
     return Object.values(values).some((key) => key.length === n);
   };
-  
+
   if (xOfAKind(4)) {
     return (
       "Four of a kind " +
-      prettyPrintCards(Object.values(values).filter((key) => key.length === 4).join(", "))
+      prettyPrintCards(
+        Object.values(values)
+          .filter((key) => key.length === 4)
+          .join(", ")
+      )
     );
   } else if (xOfAKind(3) && xOfAKind(2)) {
     return "Full house";
   } else if (xOfAKind(3)) {
     return (
       "Three of a kind " +
-      prettyPrintCards(Object.values(values).filter((key) => key.length === 3).join(", "))
+      prettyPrintCards(
+        Object.values(values)
+          .filter((key) => key.length === 3)
+          .join(", ")
+      )
     );
   } else if (
     Object.values(values).filter((key) => key.length === 2).length >= 2
   ) {
     return (
-      "Two pair " + prettyPrintCards(Object.values(values).filter((key) => key.length === 2).join(", "))
+      "Two pair " +
+      prettyPrintCards(
+        Object.values(values)
+          .filter((key) => key.length === 2)
+          .join(", ")
+      )
     );
   } else if (xOfAKind(2)) {
-    return "Pair " + prettyPrintCards(Object.values(values).filter((key) => key.length === 2).join(", "));
+    return (
+      "Pair " +
+      prettyPrintCards(
+        Object.values(values)
+          .filter((key) => key.length === 2)
+          .join(", ")
+      )
+    );
   } else {
     return (
       "High card " +
-      prettyPrintCards(Object.values(values)[Object.keys(values).reduce((a, _, b) => (a > b ? a : b))].join(", "))
+      prettyPrintCards(
+        Object.values(values)[
+          Object.keys(values).reduce((a, _, b) => (a > b ? a : b))
+        ].join(", ")
+      )
     );
   }
 }
@@ -183,10 +211,21 @@ function getStages(round, stage) {
       const player = round.players[index];
       if (player.actions[stage]) {
         let action = player.actions[stage][actionIdx];
+        comulativeChipsSpend = ()=>{
+          let spent = player.blind || 0;
+          for (let i = 0; i < stages.indexOf(stage); i++) {
+            const stage = stages[i];
+            if (!player.actions[stage]) continue;
+            spent += player.actions[stage].reduce((a,b)=>a+b.bet || 0,0)
+          }
+          spent += player.actions[stage].slice(0,actionIdx+1).reduce((a,b)=>a+b.bet || 0,0);
+          return spent;
+        };
         if (action) {
           found = true;
           actions.push({
             player: player.name,
+            chips: player.chips - (player.payout || 0) - comulativeChipsSpend(),
             action: action.type,
             bet: action.bet || 0,
             hand: player.cards,
@@ -232,23 +271,6 @@ function getState(element) {
     Object.entries(playerChips).sort((a, b) => b[1] - a[1])
   );
   return sortedPlayerChips;
-}
-
-function getJsonFilePaths(dir, fileList = []) {
-  const files = fs.readdirSync(dir);
-
-  files.forEach((file) => {
-    const filePath = path.join(dir, file);
-    const stat = fs.statSync(filePath);
-
-    if (stat.isDirectory()) {
-      getJsonFilePaths(filePath, fileList);
-    } else if (path.extname(filePath) === ".json") {
-      fileList.push(filePath);
-    }
-  });
-
-  return fileList;
 }
 
 async function displayGame(table) {
@@ -322,14 +344,17 @@ function displayStage(stage, progress, isFinal) {
     actions = actions.slice(0, progress.action);
   }
   if (stage.actions.length != 0) {
-    console.table([...actions.map((action) => {
-      return {
-        player: padRight(action.player, 30),
-        action: padRight(action.action, 10),
-        bet: padLeft(action.bet, 5),
-        hand: padRight(prettyPrintCards(action.hand.join(", ")), 6),
+    console.table([
+      ...actions.map((action) => {
+        return {
+          player: padRight(action.player, 30),
+          action: padRight(action.action, 10),
+          chips: padLeft(action.chips, 5),
+          bet: padLeft(action.bet, 5),
+          hand: padRight(prettyPrintCards(action.hand.join(", ")), 6),
         };
-    })]);
+      }),
+    ]);
   }
   return stage.actions.length <= progress.action;
 }
@@ -356,5 +381,9 @@ function padLeft(str, length) {
 }
 
 function prettyPrintCards(cards) {
-  return cards.replace(/h/g, "♥").replace(/d/g, "♦").replace(/c/g, "♣").replace(/s/g, "♠");
+  return cards
+    .replace(/h/g, "♥")
+    .replace(/d/g, "♦")
+    .replace(/c/g, "♣")
+    .replace(/s/g, "♠");
 }

@@ -2,11 +2,11 @@ const MachinePoker = require('machine-poker');
 const path = require('path');
 const fs = require('fs');
 
-exports.createTable = function(players) {
+exports.createTable = function(players, maxRounds) {
   const JsSeat = MachinePoker.seats.JsLocal;
 
   const table = MachinePoker.create({
-    maxRounds: 3 ,
+    maxRounds: maxRounds,
     chips: 1000
   });
 
@@ -17,21 +17,10 @@ exports.createTable = function(players) {
   return table;
 }
 
-exports.getTableBuckets = function(path) {
+exports.getTable = function(path) {
   const list = requireAllFilesInFolder(path);
   // Shuffle the list randomly
-  const shuffledList = list.sort(() => Math.random() - 0.5);
-  
-  // Create an array to hold the buckets
-  const buckets = [];
-  
-  // Iterate over the shuffled list, adding each element to a bucket
-  for (let i = 0; i < shuffledList.length; i += 8) {
-    const bucket = shuffledList.slice(i, i + 8);
-    buckets.push(bucket);
-  }
-  
-  return buckets;
+  return list.sort(() => Math.random() - 0.5);
 }
 
 function requireAllFilesInFolder(folderPath) {
