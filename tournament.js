@@ -7,7 +7,7 @@ exports.createTable = function(players, maxRounds) {
 
   const table = MachinePoker.create({
     maxRounds: maxRounds,
-    chips: 1000
+    chips: 10000
   });
 
   const playerSeats = players.map(player => JsSeat.create(player));

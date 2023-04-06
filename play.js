@@ -15,9 +15,3 @@ let logFile = "logs/round"+ round+".json";
 let filename = logFile;
 table.addObserver(MachinePoker.observers.fileLogger(filename));
 table.start();
-
-function createFolderIfNotExists(folderPath) {
-    if (!fs.existsSync(folderPath)) {
-      fs.mkdirSync(folderPath);
-    }
-  }
