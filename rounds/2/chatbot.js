@@ -6,40 +6,45 @@ module.exports = function () {
   };
 
   function update(game) {
-    let cards = game.self.cards;
-    let values = cards
-      .map((card) => card[0])
-      .sort((a, b) => valueMap[a] - valueMap[b]);
     let pot = game.players.reduce((acc, player) => acc + player.wagered, 0);
-    let suits = cards.map((card) => card[1]).sort();
     let playersLeft =
       game.players.filter((player) => player.state === "active").length - 1;
 
-    let winRatio = getWinRatio(cards, game.community, playersLeft);
+    let winRatio = getWinRatio(game.self.cards, game.community, playersLeft, 5);
+    let bigBlind = game.players.reduce((acc, player) => {
+      return acc > player.blind ? acc : player.blind || 0;
+    }, 0);
+
     if (game.state !== "complete") {
+      let optimalBet = winRatio * pot;
+      if (game.state === "preflop") {
+        optimalBet = Math.max(
+          optimalBet * 2,
+          (bigBlind - game.self.wagered) * 10
+        );
+      }
+
       if (winRatio > 0.95) {
         return game.self.chips;
-      } else if (winRatio > 0.4) {
-        return Math.max(game.betting.call, pot * 2 * winRatio);
-      } else if (winRatio > 0.2) {
-        return Math.max(game.betting.call, pot);
+      } else if (winRatio < 0.05) {
+        if (
+          game.state != "preflop" &&
+          canBluff(game.self.cards, game.community, 30, 25)
+        ) {
+          return pot;
+        }
+        return 0;
       }
 
-      if (game.state === "pre-flop") {
-        if (winRatio > 0.05 && game.betting.call <= pot) {
-          return game.betting.call;
-        }
-      } else if (game.state === "flop") {
-        if (winRatio > 0.1 && game.betting.call <= pot) {
-          return game.betting.call;
-        }
-      } else if (game.state === "river") {
-        if (winRatio > 0.15 && game.betting.call <= pot) {
-          return game.betting.call;
-        }
+      if (optimalBet < game.betting.call) {
+        return 0;
+      } else if (optimalBet < game.betting.raise) {
+        return game.betting.call;
+      } else if (optimalBet < game.betting.raise * 2) {
+        return game.betting.raise;
+      } else {
+        return optimalBet;
       }
-
-      return 0;
     }
   }
 
@@ -73,9 +78,8 @@ const FULL_HOUSE = 6 * step;
 const FOUR_OF_A_KIND = 7 * step;
 const STRAIGHT_FLUSH = 8 * step;
 
-function getWinRatio(cards, community, playersLeft) {
+function getWinRatio(cards, community, playersLeft, testRounds) {
   let won = 0;
-  let testRounds = 1000;
   for (let i = 0; i < testRounds; i++) {
     if (checkWinningHand(cards, community, playersLeft)) {
       won++;
@@ -85,12 +89,21 @@ function getWinRatio(cards, community, playersLeft) {
   return winRatio;
 }
 
+function canBluff(cards, community, testRounds, goodHandIdx) {
+  let playerHands = [];
+  for (let i = 0; i < testRounds; i++) {
+    playerHands.push(randomPlayerHand(cards, community));
+  }
+  //sort playerhands
+  playerHands.sort((a, b) => b - a);
+  let goodHand = playerHands[goodHandIdx];
+  let phAverage = playerHands.reduce((acc, val) => acc + val, 0) / testRounds;
+  return goodHand / 2.2 > phAverage && goodHand > STRAIGHT;
+}
+
 function valueOfCardValues(values) {
   let top5 = values.slice(0, 5).reverse();
-  return top5.reduce(
-    (acc, val, idx) => acc + valueMap[val] * Math.pow(100, idx),
-    0
-  );
+  return top5.reduce((acc, val, idx) => acc + val * Math.pow(100, idx), 0);
 }
 
 function evaluatePokerHand(hand) {
@@ -106,32 +119,21 @@ function evaluatePokerHand(hand) {
   let numericalGroups = numericalValues.reduce(groupFn, {});
   let numericalSuits = suits.reduce(groupFn, {});
 
-  // Check for the different types of hands in poker
+  let sf = straightFlush(hand, suits);
+  let foak = fourOfAKind(numericalGroups, numericalValues);
+  let fh = fullHouse(numericalGroups);
+  let f = flush(numericalSuits, hand);
+  let s = straight(numericalValues);
+  let tk = threeOfAKind(numericalGroups, numericalValues);
+  let tp = twoPairs(numericalGroups, numericalValues);
+  let op = onePair(numericalGroups, numericalValues);
+  let hc = valueOfCardValues(numericalValues.reverse());
 
-  return (
-    straightFlush(hand, suits) ||
-    fourOfAKind(numericalGroups, numericalValues) ||
-    fullHouse(numericalGroups) ||
-    flush(numericalSuits, hand) ||
-    straight(numericalValues) ||
-    threeOfAKind(numericalGroups, numericalValues) ||
-    twoPairs(numericalGroups, numericalValues) ||
-    onePair(numericalGroups, numericalValues) ||
-    valueOfCardValues(numericalValues.reverse())
-  );
+  return sf || foak || fh || f || s || tk || tp || op || hc;
 }
 
 function straightFlush(hand, suits) {
-  let frequentSuit = Object.entries(suits).reduce(
-    (acc, [key, value]) => {
-      if (value > acc[1]) {
-        return [key, value];
-      } else {
-        return acc;
-      }
-    },
-    ["", 0]
-  );
+  let frequentSuit = Object.entries(suits).sort((a, b) => b[1] - a[1])[0][1];
 
   if (frequentSuit[1] < 5) {
     return undefined;
@@ -146,7 +148,7 @@ function straightFlush(hand, suits) {
     return undefined;
   }
 
-  return straightVal - STRAIGHT + STRAIGHT_FLUSH ;
+  return straightVal - STRAIGHT + STRAIGHT_FLUSH;
 }
 
 function fourOfAKind(numericalGroups, numericalValues) {
@@ -264,7 +266,7 @@ function threeOfAKind(numericalGroups, numericalValues) {
 
   //select the highest three of a kind value
   let highestThreeOfAKind = threeOfAKind
-    .map((threeOfAKind) => threeOfAKind[0])
+    .map((threeOfAKind) => parseInt(threeOfAKind[0]))
     .sort((a, b) => b - a)[0];
 
   //filter out the three of a kind values
@@ -297,7 +299,6 @@ function twoPairs(numericalGroups, numericalValues) {
     .map((pair) => parseInt(pair[0]))
     .sort((a, b) => b - a)
     .slice(0, 2);
-
   let filteredValues = numericalValues.filter(
     (value) => !highestPairs.includes(value)
   );
@@ -325,14 +326,18 @@ function onePair(numericalGroups, numericalValues) {
   }
 
   // select values from pairs and sort them in descending order
-  let highestPair = parseInt(pairs.map((pair) => pair[0]).sort((a, b) => b - a)[0]);
+  let highestPair = parseInt(
+    pairs.map((pair) => pair[0]).sort((a, b) => b - a)[0]
+  );
 
   // filter the numerical values to not include the pair
   let filteredValues = numericalValues.filter((value) => value !== highestPair);
   // sort the values in descending order
   filteredValues.sort((a, b) => b - a);
   // return the sum of the highest pair and the highest 3 cards
-  return valueOfCardValues([highestPair, highestPair, ...filteredValues]) + PAIR;
+  return (
+    valueOfCardValues([highestPair, highestPair, ...filteredValues]) + PAIR
+  );
 }
 
 function generateRandomCards(numCards, deck) {
@@ -367,15 +372,28 @@ function checkWinningHand(myCards, communityCards, numPlayers) {
   const randomCards = generateRandomCards(missingCards, deck);
   const allCommunityCards = [...communityCards, ...randomCards];
 
-
   // Evaluate each player's hand and compare with known cards
   let highestHand = evaluatePokerHand([...myCards, ...allCommunityCards]);
-  
+
   return !otherPlayersCards.some((playerCards) => {
     const playerHand = [...playerCards, ...allCommunityCards];
     otherHand = evaluatePokerHand(playerHand);
-    return otherHand > highestHand
-  })
+    return otherHand > highestHand;
+  });
+}
+
+function randomPlayerHand(myCards, communityCards) {
+  let deck = buildPokerDeck([...myCards, ...communityCards]);
+  // Generate cards for psudo player
+  const cards = generateRandomCards(2, deck);
+  deck = deck.filter((card) => !cards.includes(card));
+
+  // Generate missing community cards
+  const missingCards = 5 - communityCards.length;
+  const randomCards = generateRandomCards(missingCards, deck);
+  const allCommunityCards = [...communityCards, ...randomCards];
+
+  return evaluatePokerHand([...cards, ...allCommunityCards]);
 }
 
 function buildPokerDeck(knownCards) {
