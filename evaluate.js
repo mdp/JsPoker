@@ -19,6 +19,7 @@ function evaluate(round, speed) {
 
   return sortedPlayerChips;
 }
+
 const stages = ["pre-flop", "flop", "turn", "river"];
 function mapTable(tableData) {
   return tableData.map((hand, index) => {
@@ -280,7 +281,9 @@ async function displayGame(table, speed) {
   let progress = { stage: 1, action: 1 };
   let i = 0;
   while (true) {
-    await sleep(1000/speed);
+    if (speed != 0) {
+      await sleep(1000/speed);
+    }
     let hand = table[i];
     if (!hand) {
       break;
@@ -290,7 +293,9 @@ async function displayGame(table, speed) {
     if (result.handIsDone && result.stageIsDone) {
       console.table(hand.finalHands);
       i++;
-      await sleep(5000);
+      if (speed != 0){
+        await sleep(5000);
+      }
       progress.stage = 1;
       progress.action = 1;
     } else if (result.stageIsDone) {
