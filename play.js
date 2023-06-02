@@ -3,13 +3,13 @@ var tournament = require('./tournament')
     
 const args = process.argv;
 
-const round = args[2];
+const round = args[2] || 3;
 const hands = args[3];
 var bots = tournament.getTable(__dirname + "/rounds/" + round + "/");
 
 var table = tournament.createTable(bots,hands);
 let logFile = "logs/round"+ round+".json";
 
-// createFolderIfNotExists(folder);
 table.addObserver(MachinePoker.observers.fileLogger(logFile));
+table.addObserver(MachinePoker.observers.narrator);
 table.start();

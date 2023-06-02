@@ -1,4 +1,51 @@
-module.exports = function() {
+module.exports = {
+  update: update,
+  name: "wittgenstein"
+}
+
+function update(game) {
+  var bet = 0;
+
+  switch (game.state) {
+    case "pre-flop":
+    case "flop":
+    case "turn":
+    case "river":
+      if (game.state === "pre-flop") {
+        bet = preFlopStrategy(game);
+      } else {
+        bet = postFlopStrategy(game);
+      }
+
+      if (bet > 0) {
+        var action = "RAISING";
+        if (bet === game.betting.call) {
+          action = "CALLING";
+        }
+
+        if (bet < game.betting.call) {
+          action = "FOLDING";
+        }
+
+        if (bet > 100) {
+          dprint("***", action, bet, "CHIPS:", game.self.chips, "***");
+        }
+      }
+  }
+
+  if (game.state === "complete") {
+    finalizeActions(game);
+  }
+
+  if (game.hand === 100 || game.self.chips == 0) {
+    if (game.self.chips == 0){
+      dprint("LOST THE TOURNEY");
+    }
+    analyzeActions(game);
+  }
+
+  return bet;
+}
 
   // {{{ TWEAKABLES
   // co-efficients for strategies
@@ -698,59 +745,4 @@ module.exports = function() {
     return bet;
   }
 
-  // }}}
 
-  // {{{ GAME UPDATE FUNCTION
-  function update(game) {
-    var bet = 0;
-
-    switch (game.state) {
-      case "pre-flop":
-      case "flop":
-      case "turn":
-      case "river":
-        if (game.state === "pre-flop") {
-          bet = preFlopStrategy(game);
-        } else {
-          bet = postFlopStrategy(game);
-        }
-
-        if (bet > 0) {
-          var action = "RAISING";
-          if (bet === game.betting.call) {
-            action = "CALLING";
-          }
-
-          if (bet < game.betting.call) {
-            action = "FOLDING";
-          }
-
-          if (bet > 100) {
-            dprint("***", action, bet, "CHIPS:", game.self.chips, "***");
-          }
-        }
-    }
-
-    if (game.state === "complete") {
-      finalizeActions(game);
-    }
-
-    if (game.hand === 100 || game.self.chips == 0) {
-      if (game.self.chips == 0){
-        dprint("LOST THE TOURNEY");
-      }
-      analyzeActions(game);
-    }
-
-    return bet;
-  }
-
-  return {
-    update: update,
-    info: info
-  }
-// }}}
-
-}
-
-// vim: foldmethod=marker

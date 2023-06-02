@@ -1,10 +1,8 @@
-module.exports = function () {
-
-  var info = {
+module.exports = {
+    update: update,
     name: "ThoseAreMyFish",
-    email: "robertbcorey@gmail.com",
-    btcWallet: "1CS1kxZmNG4LqosnT4Jn7zocQxfV9iHCNQ"
-  };
+  }
+
 //helper library
     function Card (card) {
     this.card = card;
@@ -108,7 +106,3 @@ module.exports = function () {
       
     }
   }
-
-  return { update: update, info: info }
-
-}

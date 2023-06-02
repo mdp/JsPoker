@@ -1,12 +1,12 @@
+module.exports = {
+  update: update,
+  name: "unpredictableBot",
+}
+
+
 function chance(amount) {
   return Math.random() > amount;
 }
-
-module.exports = function () {
-
-  var info = {
-    name: "RandBot"
-  };
 
   function update(game) {
     var wager;
@@ -30,6 +30,3 @@ module.exports = function () {
     }
   }
 
-  return { update: update, info: info }
-
-}

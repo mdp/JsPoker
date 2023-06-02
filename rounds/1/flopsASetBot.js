@@ -1,9 +1,7 @@
-module.exports = function () {
-var info = {
-  name: "FlopASetBot",
-  email: "jonathanburger11@gmail.com",
-  btcWallet: "1JfK4EHYXiwTYPtMuW4mzECiQA5udREFZB"
-};
+module.exports = {
+  update: update,
+  name: "flopped a set",
+}
 var issuited = function(hand) {
   return hand[0][1] == hand[1][1]
 }
@@ -229,7 +227,3 @@ function update(game) {
     return game.betting.call
   }
 }
-
-return { update: update, info: info }
-}
-

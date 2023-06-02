@@ -44,14 +44,10 @@ function almostStraight(cards, community) {
   return count >= 3;
 }
 
-module.exports = function () {
-
-  var info = {
-    name: "MercBot",
-    email: "Jesse@SystemPunch.com",
-    btcWallet: "1P42iQUCeMm4YkR2zFnu79ws7raNpV7dqg"
-  };
-
+module.exports = {
+  update: update,
+  name: "mercBot",
+}
   function update(game) {
     if (game.state !== "complete") {
       if (havePair(game.self.cards, game.community) || almostFlush(game.self.cards, game.community) || almostStraight(game.self.cards, game.community)) {
@@ -59,7 +55,3 @@ module.exports = function () {
       }
     }
   }
-
-  return { update: update, info: info }
-
-}

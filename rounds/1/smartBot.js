@@ -43,14 +43,10 @@ function isDecentHand(cards) {
 
   return false;
 };
-
-module.exports = function () {
-
-  var info = {
-    name: "SmartBot",
-    email: "tylerhenkel@hotmail.com",
-    btcWallet: "1FbjdyrW7Gy7oAcyQuXaS9SkKEfQRm946k"
-  };
+module.exports = {
+  update: update,
+  name: "smartBot",
+}
 
   function update(game) {
     if (game.state !== "complete") {
@@ -80,7 +76,3 @@ module.exports = function () {
       return wager;
     }
   }
-
-  return { update: update, info: info };
-
-};

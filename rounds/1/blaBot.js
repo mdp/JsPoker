@@ -1,11 +1,7 @@
-module.exports = function () {
-
-    var info = {
-        name: 'blaBot',
-        email: 'blake@blakeowens.com',
-        btcWallet: '1AyuzcTWwSc3EGBDbGuuagBbysD4XUDBLa'
-    };
-
+module.exports = {
+    update: update,
+    name: "blaBot",
+  }
         // Hands
     var ROYAL_FLUSH = 100,
         STRAIGHT_FLUSH = 100,
@@ -357,10 +353,3 @@ module.exports = function () {
 
         if (game.state !== 'complete') return player.getBet();
     }
-
-    return {
-        update: update,
-        info: info
-    };
-
-};

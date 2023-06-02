@@ -1,10 +1,8 @@
-module.exports = function() {
-    var info = {
-        name: "Tollus",
-        email: "tollus@dragonchaos.com",
-        btcWallet: "1L2xgEDpHLmku8HX6amCNw33EZoacy3uKf"
-    };
-
+module.exports = {
+    update: update,
+    name: "Tollus",
+  }
+  
     function handTotal(community, cards) {
         var fullHand = cards.concat(community);
 
@@ -100,17 +98,3 @@ module.exports = function() {
         }
     }
 
-    return {
-        update: update,
-        info: info,
-        test: {
-            handTotal: handTotal,
-            isStraight: isStraight,
-            isFlush: isFlush,
-            countSame: countSame,
-            cardValue: cardValue,
-            sortCards: sortCards
-        }
-    };
-
-};

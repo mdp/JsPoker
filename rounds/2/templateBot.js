@@ -1,10 +1,7 @@
-module.exports = function () {
-
-  var info = {
-    name: "Nameless Challenger",
-    email: "",
-    btcWallet: ""
-  };
+module.exports = {
+  update: update,
+  name: "templateBot",
+}
 
   function update(game) {
     if (game.state !== "complete") {
@@ -12,6 +9,3 @@ module.exports = function () {
     }
   }
 
-  return { update: update, info: info }
-
-}

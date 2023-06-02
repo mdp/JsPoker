@@ -1,4 +1,5 @@
 const fs = require("fs");
+var Table = require("cli-table");
 
 function evaluate(round, speed) {
   let file = "logs/round" + round + ".json";
@@ -208,17 +209,20 @@ function getStages(round, stage) {
   while (found) {
     found = false;
     for (let index = 0; index < round.players.length; index++) {
-      const player = round.players[index];
+
+      const player = round.players[(index + 2)%round.players.length];
       if (player.actions[stage]) {
         let action = player.actions[stage][actionIdx];
-        comulativeChipsSpend = ()=>{
+        comulativeChipsSpend = () => {
           let spent = player.blind || 0;
           for (let i = 0; i < stages.indexOf(stage); i++) {
             const stage = stages[i];
             if (!player.actions[stage]) continue;
-            spent += player.actions[stage].reduce((a,b)=>a+b.bet || 0,0)
+            spent += player.actions[stage].reduce((a, b) => a + b.bet || 0, 0);
           }
-          spent += player.actions[stage].slice(0,actionIdx+1).reduce((a,b)=>a+b.bet || 0,0);
+          spent += player.actions[stage]
+            .slice(0, actionIdx + 1)
+            .reduce((a, b) => a + b.bet || 0, 0);
           return spent;
         };
         if (action) {
@@ -273,7 +277,7 @@ function getState(element) {
   return sortedPlayerChips;
 }
 
-async function displayGame(table, speed) {
+async function displayGame(hands, speed) {
   function sleep(ms) {
     return new Promise((resolve) => setTimeout(resolve, ms));
   }
@@ -282,18 +286,35 @@ async function displayGame(table, speed) {
   let i = 0;
   while (true) {
     if (speed != 0) {
-      await sleep(1000/speed);
+      await sleep(1000 / speed);
     }
-    let hand = table[i];
+    let hand = hands[i];
     if (!hand) {
       break;
     }
     let result = displayHand(hand, progress);
 
     if (result.handIsDone && result.stageIsDone) {
-      console.table(hand.finalHands);
+      var table = new Table({
+        head: ["Player", "Hand", "HandName", "Chips", "Folded"],
+        colWidths: [30, 10, 30, 10, 10],
+      });
+  
+      table.push(
+        ...hand.finalHands.map((hand) => 
+          [
+            colorizeBot(hand.name),
+            hand.hand,
+            hand.handName,
+            hand.chips,
+            hand.folded,
+          ]
+        )
+      );
+      console.log(table.toString());
+
       i++;
-      if (speed != 0){
+      if (speed != 0) {
         await sleep(5000);
       }
       progress.stage = 1;
@@ -314,11 +335,13 @@ function displayHand(round, progress) {
 
   let stageIsDone = false;
   let isLastStage = progress.stage == round.stages.length;
+  let pot = round.stages[progress.stage - 1].actions.reduce((a, b) => a + b.bet || 0, 0);
   for (let i = 0; i < progress.stage; ++i) {
     stageIsDone = displayStage(
       round.stages[i],
       progress,
-      progress.stage - 1 == i
+      progress.stage - 1 == i,
+      pot
     );
   }
 
@@ -339,7 +362,7 @@ function displayHand(round, progress) {
   };
 }
 
-function displayStage(stage, progress, isFinal) {
+function displayStage(stage, progress, isFinal, pot) {
   if (stage == undefined) return true;
   console.log(stage.stage + " " + prettyPrintCards(stage.communityCards));
 
@@ -348,24 +371,39 @@ function displayStage(stage, progress, isFinal) {
     actions = actions.slice(0, progress.action);
   }
   if (stage.actions.length != 0) {
-    console.table([
-      ...actions.map((action) => {
-        return {
-          player: padRight(action.player, 30),
-          action: padRight(action.action, 10),
-          chips: padLeft(action.chips, 5),
-          bet: padLeft(action.bet, 5),
-          hand: padRight(prettyPrintCards(action.hand.join(", ")), 6),
-        };
-      }),
-    ]);
+
+
+    var table = new Table({
+      head: ["Player", "Action", "Chips", "Bet", "Hand"],
+      colWidths: [30, 10, 10, 10, 10],
+    });
+
+    var t = {
+      stage: stage,
+      actions: actions,
+      pot: pot,
+      community: stage.communityCards,
+    }
+    fs.writeFileSync(stage + progress + "test.json", JSON.stringify(t));
+    table.push(
+      ...actions.map((action) => 
+        [
+          colorizeBot(action.player),
+          action.action,
+          action.chips,
+          action.bet,
+          prettyPrintCards(action.hand.join(", ")),
+        ]
+      )
+    );
+    console.log(table.toString());
   }
   return stage.actions.length <= progress.action;
 }
 
 const args = process.argv;
 
-const round = args[2]; 
+const round = args[2] || 3;
 const speed = args[3] || 1;
 const resultFilePath = "results/" + `round${round}.json`;
 
@@ -375,20 +413,27 @@ const result = evaluate(round, speed);
 // Write the result to file
 fs.writeFileSync(resultFilePath, JSON.stringify(result));
 
-function padRight(str, length) {
-  str = str.toString();
-  return str + " ".repeat(length - str.length);
-}
-
-function padLeft(str, length) {
-  str = str.toString();
-  return " ".repeat(length - str.length) + str;
-}
 
 function prettyPrintCards(cards) {
   return cards
-    .replace(/h/g, "♥")
-    .replace(/d/g, "♦")
-    .replace(/c/g, "♣")
-    .replace(/s/g, "♠");
+    .replace(/h/g, color("♥", 35))
+    .replace(/d/g, color("♦", 32))
+    .replace(/c/g, color("♣", 33))
+    .replace(/s/g, color("♠", 34));
+}
+
+function color(str, color) {
+  return "[" + color + "m" + str + "[0m";
+}
+
+var colorMap = {};
+function colorizeBot(bot) {
+  var c = Object.keys(colorMap).length + 32;
+  if (c > 37) {
+    c = c - 37 + 90;
+  }
+  if (colorMap[bot] === undefined) {
+    colorMap[bot] = c;
+  }
+  return color(bot, colorMap[bot]);
 }

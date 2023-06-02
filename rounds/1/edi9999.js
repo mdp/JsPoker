@@ -1,10 +1,7 @@
-module.exports = function () {
-
-  var info = {
-    name: "edi9999",
-    email: "hipp.edg@gmail.com",
-    btcWallet: "NONE"
-  };
+module.exports = {
+  update: update,
+  name: "edi9999",
+}
 //helper library
     function Card (card) {
     this.card = card;
@@ -112,7 +109,3 @@ module.exports = function () {
 
     }
   }
-
-  return { update: update, info: info }
-
-}

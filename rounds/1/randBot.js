@@ -1,8 +1,7 @@
-module.exports = function () {
-
-  var info = {
-    name: "RandBot"
-  };
+module.exports = {
+  update: update,
+  name: "randBot",
+}
 
   function update(game) {
     if (game.state !== "complete") {
@@ -12,7 +11,3 @@ module.exports = function () {
       } else {return game.betting.call}
     }
   }
-
-  return { update: update, info: info }
-
-}

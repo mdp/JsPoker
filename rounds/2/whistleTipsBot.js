@@ -1,11 +1,8 @@
-module.exports = function () {
-
-
-    var info = {
-        name: 'whistle_tips',
-        email: 'josey_rick@hotmail.com',
-        btcWallet: '14qo7fddWtKz8BsN2RC5RZ7HEPLWm3Cmbe'
-    };
+module.exports = {
+    update: update,
+    name: "whistle_tips",
+  }
+  
 
         // Hands
     var ROYAL_FLUSH = 100,
@@ -347,10 +344,3 @@ module.exports = function () {
 
         if (game.state !== 'complete') return player.getBet();
     }
-
-    return {
-        update: update,
-        info: info
-    };
-
-};

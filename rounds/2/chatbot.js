@@ -1,26 +1,25 @@
-const { filter } = require("async");
+module.exports = {
+  update: update,
+  name: "chatbot",
+}
 
-module.exports = function () {
-  var info = {
-    name: "chatbot",
-  };
 
   function update(game) {
     let pot = game.players.reduce((acc, player) => acc + player.wagered, 0);
     let playersLeft =
       game.players.filter((player) => player.state === "active").length - 1;
 
-    let winRatio = getWinRatio(game.self.cards, game.community, playersLeft, 5);
+    let winRatio = getWinRatio(game.self.cards, game.community, playersLeft, 50);
     let bigBlind = game.players.reduce((acc, player) => {
       return acc > player.blind ? acc : player.blind || 0;
     }, 0);
 
     if (game.state !== "complete") {
-      let optimalBet = winRatio * pot;
-      if (game.state === "preflop") {
+      let optimalBet = winRatio * pot * 0.8;
+      if (game.state === "pre-flop") {
         optimalBet = Math.max(
           optimalBet * 2,
-          (bigBlind - game.self.wagered) * 10
+          (bigBlind - game.self.wagered) * 5
         );
       }
 
@@ -48,8 +47,6 @@ module.exports = function () {
     }
   }
 
-  return { update: update, info: info };
-};
 
 var valueMap = {
   A: 14,

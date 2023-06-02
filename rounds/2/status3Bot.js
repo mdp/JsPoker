@@ -1,9 +1,8 @@
-module.exports = function () {
-	var info = {
+
+	module.exports = {
+		update: update,
 		name: "status3Bot",
-		email: "jspoker@attwood.org",
-		btcWallet: "NONE"
-	};
+	  }
 
 	var bets = {
 		'raised': {
@@ -504,6 +503,3 @@ module.exports = function () {
 
 		return bet;
 	}
-
-	return {update: update, info: info};
-}
