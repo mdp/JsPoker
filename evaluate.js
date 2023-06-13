@@ -209,7 +209,8 @@ function getStages(round, stage) {
   while (found) {
     found = false;
     for (let index = 0; index < round.players.length; index++) {
-      const player = round.players[(index + 2) % round.players.length];
+      var blindsOffset = stage == "pre-flop" ? 2 : 0;
+      const player = round.players[(index + blindsOffset) % round.players.length];
       if (player.actions[stage]) {
         let action = player.actions[stage][actionIdx];
         comulativeChipsSpend = () => {
@@ -332,16 +333,12 @@ function displayHand(round, progress) {
 
   let stageIsDone = false;
   let isLastStage = progress.stage == round.stages.length;
-  let pot = round.stages[progress.stage - 1].actions.reduce(
-    (a, b) => a + b.bet || 0,
-    0
-  );
+
   for (let i = 0; i < progress.stage; ++i) {
     stageIsDone = displayStage(
       round.stages[i],
       progress,
       progress.stage - 1 == i,
-      pot
     );
   }
 
@@ -362,7 +359,7 @@ function displayHand(round, progress) {
   };
 }
 
-function displayStage(stage, progress, isFinal, pot) {
+function displayStage(stage, progress, isFinal) {
   if (stage == undefined) return true;
   console.log(stage.stage + " " + prettyPrintCards(stage.communityCards));
 
@@ -376,13 +373,6 @@ function displayStage(stage, progress, isFinal, pot) {
       colWidths: [30, 10, 10, 10, 10],
     });
 
-    var t = {
-      stage: stage.stage,
-      actions: actions,
-      pot: pot,
-      community: stage.communityCards,
-    }
-    fs.writeFileSync(stage + progress + "test.json", JSON.stringify(t));
     table.push(
       ...actions.map((action) => [
         colorizeBot(action.player),

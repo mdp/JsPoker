@@ -1,3812 +1,1037 @@
  
 [34m==== Round #1 starting ====[0m
 [34m8 players:[0m
-[34m  blaBot ($10000) [0m
-[34m  edi9999 ($10000) [0m
-[34m  callBot ($10000) [0m
-[34m  randBot ($10000) [0m
-[34m  flopped a set ($10000) [0m
-[34m  challengeBot ($10000) [0m
-[34m  mercBot ($10000) [0m
-[34m  smartBot ($10000) [0m
+[34m  whistle_tips ($10000) [0m
+[34m  chatbot ($10000) [0m
+[34m  wittgenstein ($10000) [0m
+[34m  unpredictableBot ($10000) [0m
+[34m  status3Bot ($10000) [0m
+[34m  ThoseAreMyFish ($10000) [0m
+[34m  templateBot ($10000) [0m
+[34m  Tollus ($10000) [0m
  
 [34m-- pre-flop[0m
-[34m  blaBot ($9995) Ad 5h [0m
-[34m  edi9999 ($9990) 3h Kc [0m
-[34m  callBot ($10000) 3d As [0m
-[34m  randBot ($10000) 3s 3c [0m
-[34m  flopped a set ($10000) 7h Qd [0m
-[34m  challengeBot ($10000) Ks 8c [0m
-[34m  mercBot ($10000) 6c 2h [0m
-[34m  smartBot ($10000) 6h 2s [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  callBot called $10[0m
-[31m  randBot raised by $20[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $10000[0m
-[31m  mercBot folded[0m
-[31m  smartBot went ALL IN with $10000[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
-[31m  callBot went ALL IN with $9990[0m
-[31m  randBot went ALL IN with $9980[0m
+[34m  whistle_tips ($9995) Kd 9s [0m
+[34m  chatbot ($9990) Ac Qc [0m
+[34m  wittgenstein ($10000) 9h 5d [0m
+[34m  unpredictableBot ($10000) 7s 9d [0m
+[34m  status3Bot ($10000) Qs Kh [0m
+[34m  ThoseAreMyFish ($10000) 3h Th [0m
+[34m  templateBot ($10000) 4s 2c [0m
+[34m  Tollus ($10000) 3d 8s [0m
+[31m  whistle_tips  paid a blind of $5[0m
+[31m  chatbot  paid a blind of $10[0m
+[31m  wittgenstein folded[0m
+[31m  unpredictableBot called $10[0m
+[31m  status3Bot called $10[0m
+[31m  ThoseAreMyFish folded[0m
+[31m  templateBot called $10[0m
+[31m  Tollus called $10[0m
+[31m  whistle_tips called $5[0m
+[31m  chatbot raised by $30[0m
+[31m  unpredictableBot raised by $55[0m
+[31m  status3Bot folded[0m
+[31m  templateBot called $55[0m
+[31m  Tollus called $55[0m
+[31m  whistle_tips folded[0m
+[31m  chatbot raised by $204[0m
+[31m  unpredictableBot called $179[0m
+[31m  templateBot called $179[0m
+[31m  Tollus called $179[0m
  
 [34m-- flop[0m
-[34m Cards are: 9h Js Jc [0m
-[34m Pot is: 40015[0m
-[34m  callBot ($0) 3d,As (One pair)[0m
-[34m  randBot ($0) 3s,3c (Two pair)[0m
-[34m  challengeBot ($0) Ks,8c (One pair)[0m
-[34m  smartBot ($0) 6h,2s (One pair)[0m
+[34m Cards are: 4c Qh 7h [0m
+[34m Pot is: 996[0m
+[34m  chatbot ($9756) Ac,Qc (One pair)[0m
+[34m  unpredictableBot ($9756) 7s,9d (One pair)[0m
+[34m  templateBot ($9756) 4s,2c (One pair)[0m
+[34m  Tollus ($9756) 3d,8s[0m
 [31m Actions: [0m
+[31m  chatbot raised by $446[0m
+[31m  unpredictableBot raised by $892[0m
+[31m  templateBot called $892[0m
+[31m  Tollus called $892[0m
+[31m  chatbot raised by $2042[0m
+[31m  unpredictableBot called $1596[0m
+[31m  templateBot called $1596[0m
+[31m  Tollus called $1596[0m
  
 [34m-- turn[0m
-[34m Cards are: 9h Js Jc 7c [0m
-[34m Pot is: 40015[0m
-[34m  callBot ($0) 3d,As (One pair)[0m
-[34m  randBot ($0) 3s,3c (Two pair)[0m
-[34m  challengeBot ($0) Ks,8c (One pair)[0m
-[34m  smartBot ($0) 6h,2s (One pair)[0m
+[34m Cards are: 4c Qh 7h Ts [0m
+[34m Pot is: 10948[0m
+[34m  chatbot ($7268) Ac,Qc (One pair)[0m
+[34m  unpredictableBot ($7268) 7s,9d (One pair)[0m
+[34m  templateBot ($7268) 4s,2c (One pair)[0m
+[34m  Tollus ($7268) 3d,8s[0m
 [31m Actions: [0m
+[31m  chatbot raised by $5780[0m
+[31m  unpredictableBot went ALL IN with $7268[0m
+[31m  templateBot went ALL IN with $7268[0m
+[31m  Tollus went ALL IN with $7268[0m
+[31m  chatbot went ALL IN with $1488[0m
  
 [34m-- river[0m
-[34m Cards are: 9h Js Jc 7c Ts [0m
-[34m Pot is: 40015[0m
-[34m  callBot ($0) 3d,As (One pair)[0m
-[34m  randBot ($0) 3s,3c (Two pair)[0m
-[34m  challengeBot ($0) Ks,8c (Straight)[0m
-[34m  smartBot ($0) 6h,2s (One pair)[0m
+[34m Cards are: 4c Qh 7h Ts 5c [0m
+[34m Pot is: 40020[0m
+[34m  chatbot ($0) Ac,Qc (One pair)[0m
+[34m  unpredictableBot ($0) 7s,9d (One pair)[0m
+[34m  templateBot ($0) 4s,2c (One pair)[0m
+[34m  Tollus ($0) 3d,8s[0m
 [31m Actions: [0m
  
 [34m-- final[0m
-[34m Cards are: 9h Js Jc 7c Ts [0m
-[34m Pot is: 40015[0m
-[34m  callBot ($0) 3d,As (One pair)[0m
-[34m  randBot ($0) 3s,3c (Two pair)[0m
-[34m  challengeBot ($0) Ks,8c (Straight)[0m
-[34m  smartBot ($0) 6h,2s (One pair)[0m
+[34m Cards are: 4c Qh 7h Ts 5c [0m
+[34m Pot is: 40020[0m
+[34m  chatbot ($0) Ac,Qc (One pair)[0m
+[34m  unpredictableBot ($0) 7s,9d (One pair)[0m
+[34m  templateBot ($0) 4s,2c (One pair)[0m
+[34m  Tollus ($0) 3d,8s[0m
 [31m Actions: [0m
  
 [34mRound #1 complete.[0m
-[34mWinner was challengeBot with Straight Amount won: $40015[0m
+[34mWinner was chatbot with One pair Amount won: $40020[0m
 [34mPositions: [0m
-[34mblaBot ($9995) had Ad 5h  [0m
-[34medi9999 ($9990) had 3h Kc  [0m
-[34mcallBot ($0) had 3d As  (One pair)[0m
-[34mrandBot ($0) had 3s 3c  (Two pair)[0m
-[34mflopped a set ($10000) had 7h Qd  [0m
-[34mchallengeBot ($40015) had Ks 8c  (Straight)[0m
-[34mmercBot ($10000) had 6c 2h  [0m
-[34msmartBot ($0) had 6h 2s  (One pair)[0m
+[34mwhistle_tips ($9990) had Kd 9s  [0m
+[34mchatbot ($40020) had Ac Qc  (One pair)[0m
+[34mwittgenstein ($10000) had 9h 5d  [0m
+[34munpredictableBot ($0) had 7s 9d  (One pair)[0m
+[34mstatus3Bot ($9990) had Qs Kh  [0m
+[34mThoseAreMyFish ($10000) had 3h Th  [0m
+[34mtemplateBot ($0) had 4s 2c  (One pair)[0m
+[34mTollus ($0) had 3d 8s  (High card)[0m
 [34m=================================[0m
  
 [34m==== Round #2 starting ====[0m
 [34m5 players:[0m
-[34m  edi9999 ($9990) [0m
-[34m  flopped a set ($10000) [0m
-[34m  challengeBot ($40015) [0m
-[34m  mercBot ($10000) [0m
-[34m  blaBot ($9995) [0m
+[34m  chatbot ($40020) [0m
+[34m  wittgenstein ($10000) [0m
+[34m  status3Bot ($9990) [0m
+[34m  ThoseAreMyFish ($10000) [0m
+[34m  whistle_tips ($9990) [0m
  
 [34m-- pre-flop[0m
-[34m  edi9999 ($9985) 3c Td [0m
-[34m  flopped a set ($9990) As 6d [0m
-[34m  challengeBot ($40015) Ks 8s [0m
-[34m  mercBot ($10000) Jh 5h [0m
-[34m  blaBot ($9995) 2d 9h [0m
-[31m  edi9999  paid a blind of $5[0m
-[31m  flopped a set  paid a blind of $10[0m
-[31m  challengeBot went ALL IN with $40015[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
+[34m  chatbot ($40015) 2d Qh [0m
+[34m  wittgenstein ($9990) 4d Ks [0m
+[34m  status3Bot ($9990) 4h 6c [0m
+[34m  ThoseAreMyFish ($10000) 3c 9s [0m
+[34m  whistle_tips ($9990) 3s 9c [0m
+[31m  chatbot  paid a blind of $5[0m
+[31m  wittgenstein  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  ThoseAreMyFish folded[0m
+[31m  whistle_tips called $10[0m
+[31m  chatbot raised by $15[0m
+[31m  wittgenstein folded[0m
+[31m  status3Bot called $10[0m
+[31m  whistle_tips called $10[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Ah 2h 2s [0m
+[34m Pot is: 70[0m
+[34m  chatbot ($40000) 2d,Qh (Three of a kind)[0m
+[34m  status3Bot ($9970) 4h,6c (One pair)[0m
+[34m  whistle_tips ($9970) 3s,9c (One pair)[0m
+[31m Actions: [0m
+[31m  chatbot raised by $51[0m
+[31m  status3Bot folded[0m
+[31m  whistle_tips called $51[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Ah 2h 2s 6d [0m
+[34m Pot is: 172[0m
+[34m  chatbot ($39949) 2d,Qh (Three of a kind)[0m
+[34m  whistle_tips ($9919) 3s,9c (One pair)[0m
+[31m Actions: [0m
+[31m  chatbot raised by $129[0m
+[31m  whistle_tips called $129[0m
+ 
+[34m-- river[0m
+[34m Cards are: Ah 2h 2s 6d 3d [0m
+[34m Pot is: 430[0m
+[34m  chatbot ($39820) 2d,Qh (Three of a kind)[0m
+[34m  whistle_tips ($9790) 3s,9c (Two pair)[0m
+[31m Actions: [0m
+[31m  chatbot raised by $316[0m
+[31m  whistle_tips called $316[0m
+ 
+[34m-- final[0m
+[34m Cards are: Ah 2h 2s 6d 3d [0m
+[34m Pot is: 1062[0m
+[34m  chatbot ($39504) 2d,Qh (Three of a kind)[0m
+[34m  whistle_tips ($9474) 3s,9c (Two pair)[0m
+[31m Actions: [0m
  
 [34mRound #2 complete.[0m
-[34mWinner was challengeBot  Amount won: $40030[0m
+[34mWinner was chatbot with Three of a kind Amount won: $1062[0m
 [34mPositions: [0m
-[34medi9999 ($9985) had 3c Td  [0m
-[34mflopped a set ($9990) had As 6d  [0m
-[34mchallengeBot ($40030) had Ks 8s  [0m
-[34mmercBot ($10000) had Jh 5h  [0m
-[34mblaBot ($9995) had 2d 9h  [0m
+[34mchatbot ($40566) had 2d Qh  (Three of a kind)[0m
+[34mwittgenstein ($9990) had 4d Ks  [0m
+[34mstatus3Bot ($9970) had 4h 6c  [0m
+[34mThoseAreMyFish ($10000) had 3c 9s  [0m
+[34mwhistle_tips ($9474) had 3s 9c  (Two pair)[0m
 [34m=================================[0m
  
 [34m==== Round #3 starting ====[0m
 [34m5 players:[0m
-[34m  flopped a set ($9990) [0m
-[34m  challengeBot ($40030) [0m
-[34m  mercBot ($10000) [0m
-[34m  blaBot ($9995) [0m
-[34m  edi9999 ($9985) [0m
+[34m  wittgenstein ($9990) [0m
+[34m  status3Bot ($9970) [0m
+[34m  ThoseAreMyFish ($10000) [0m
+[34m  whistle_tips ($9474) [0m
+[34m  chatbot ($40566) [0m
  
 [34m-- pre-flop[0m
-[34m  flopped a set ($9985) Ad Th [0m
-[34m  challengeBot ($40020) Qs 8h [0m
-[34m  mercBot ($10000) 2d Ts [0m
-[34m  blaBot ($9995) 5c As [0m
-[34m  edi9999 ($9985) 8s 4s [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $40020[0m
-[31m  blaBot folded[0m
+[34m  wittgenstein ($9985) 2s 6s [0m
+[34m  status3Bot ($9960) Kc Ad [0m
+[34m  ThoseAreMyFish ($10000) Kd Jh [0m
+[34m  whistle_tips ($9474) Jc Kh [0m
+[34m  chatbot ($40566) 8s 9h [0m
+[31m  wittgenstein  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  ThoseAreMyFish raised by $40[0m
+[31m  whistle_tips folded[0m
+[31m  chatbot called $40[0m
+[31m  wittgenstein folded[0m
+[31m  status3Bot folded[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Qd Th Ac [0m
+[34m Pot is: 95[0m
+[34m  ThoseAreMyFish ($9960) Kd,Jh (Straight)[0m
+[34m  chatbot ($40526) 8s,9h[0m
+[31m Actions: [0m
+[31m  ThoseAreMyFish raised by $10[0m
+[31m  chatbot raised by $42[0m
+[31m  ThoseAreMyFish folded[0m
  
 [34mRound #3 complete.[0m
-[34mWinner was challengeBot  Amount won: $40045[0m
+[34mWinner was chatbot  Amount won: $147[0m
 [34mPositions: [0m
-[34mflopped a set ($9985) had Ad Th  [0m
-[34mchallengeBot ($40045) had Qs 8h  [0m
-[34mmercBot ($10000) had 2d Ts  [0m
-[34mblaBot ($9985) had 5c As  [0m
-[34medi9999 ($9985) had 8s 4s  [0m
+[34mwittgenstein ($9985) had 2s 6s  [0m
+[34mstatus3Bot ($9960) had Kc Ad  [0m
+[34mThoseAreMyFish ($9950) had Kd Jh  [0m
+[34mwhistle_tips ($9474) had Jc Kh  [0m
+[34mchatbot ($40631) had 8s 9h  [0m
 [34m=================================[0m
  
 [34m==== Round #4 starting ====[0m
 [34m5 players:[0m
-[34m  flopped a set ($9985) [0m
-[34m  challengeBot ($40045) [0m
-[34m  mercBot ($10000) [0m
-[34m  blaBot ($9985) [0m
-[34m  edi9999 ($9985) [0m
+[34m  status3Bot ($9960) [0m
+[34m  ThoseAreMyFish ($9950) [0m
+[34m  whistle_tips ($9474) [0m
+[34m  chatbot ($40631) [0m
+[34m  wittgenstein ($9985) [0m
  
 [34m-- pre-flop[0m
-[34m  flopped a set ($9980) Qh 4h [0m
-[34m  challengeBot ($40035) 6d 8d [0m
-[34m  mercBot ($10000) 7c 7h [0m
-[34m  blaBot ($9985) Kc Qc [0m
-[34m  edi9999 ($9985) 3c Jh [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot raised by $20[0m
-[31m  blaBot called $20[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $40035[0m
-[31m  mercBot went ALL IN with $9980[0m
-[31m  blaBot folded[0m
+[34m  status3Bot ($9955) 5s 2c [0m
+[34m  ThoseAreMyFish ($9940) 9s As [0m
+[34m  whistle_tips ($9474) 8h 4s [0m
+[34m  chatbot ($40631) Qd 6d [0m
+[34m  wittgenstein ($9985) Qs 7c [0m
+[31m  status3Bot  paid a blind of $5[0m
+[31m  ThoseAreMyFish  paid a blind of $10[0m
+[31m  whistle_tips called $10[0m
+[31m  chatbot raised by $50[0m
+[31m  wittgenstein raised by $200[0m
+[31m  status3Bot folded[0m
+[31m  ThoseAreMyFish folded[0m
+[31m  whistle_tips folded[0m
+[31m  chatbot called $150[0m
  
 [34m-- flop[0m
-[34m Cards are: 9c 3s 3h [0m
-[34m Pot is: 50070[0m
-[34m  challengeBot ($0) 6d,8d (One pair)[0m
-[34m  mercBot ($0) 7c,7h (Two pair)[0m
+[34m Cards are: Tc Qc Td [0m
+[34m Pot is: 425[0m
+[34m  chatbot ($40431) Qd,6d (Two pair)[0m
+[34m  wittgenstein ($9785) Qs,7c (Two pair)[0m
 [31m Actions: [0m
+[31m  chatbot raised by $272[0m
+[31m  wittgenstein called $272[0m
  
 [34m-- turn[0m
-[34m Cards are: 9c 3s 3h Jc [0m
-[34m Pot is: 50070[0m
-[34m  challengeBot ($0) 6d,8d (One pair)[0m
-[34m  mercBot ($0) 7c,7h (Two pair)[0m
+[34m Cards are: Tc Qc Td Kh [0m
+[34m Pot is: 969[0m
+[34m  chatbot ($40159) Qd,6d (Two pair)[0m
+[34m  wittgenstein ($9513) Qs,7c (Two pair)[0m
 [31m Actions: [0m
- 
-[34m-- river[0m
-[34m Cards are: 9c 3s 3h Jc 2s [0m
-[34m Pot is: 50070[0m
-[34m  challengeBot ($0) 6d,8d (One pair)[0m
-[34m  mercBot ($0) 7c,7h (Two pair)[0m
-[31m Actions: [0m
- 
-[34m-- final[0m
-[34m Cards are: 9c 3s 3h Jc 2s [0m
-[34m Pot is: 50070[0m
-[34m  challengeBot ($0) 6d,8d (One pair)[0m
-[34m  mercBot ($0) 7c,7h (Two pair)[0m
-[31m Actions: [0m
+[31m  chatbot raised by $511[0m
+[31m  wittgenstein folded[0m
  
 [34mRound #4 complete.[0m
-[34mWinners are:[0m
-[34mmercBot with Two pair. Amount won: $20025[0m
-[34mchallengeBot with One pair. Amount won: $30045[0m
+[34mWinner was chatbot  Amount won: $1480[0m
 [34mPositions: [0m
-[34mflopped a set ($9980) had Qh 4h  [0m
-[34mchallengeBot ($30045) had 6d 8d  (One pair)[0m
-[34mmercBot ($20025) had 7c 7h  (Two pair)[0m
-[34mblaBot ($9965) had Kc Qc  [0m
-[34medi9999 ($9985) had 3c Jh  [0m
+[34mstatus3Bot ($9955) had 5s 2c  [0m
+[34mThoseAreMyFish ($9940) had 9s As  [0m
+[34mwhistle_tips ($9464) had 8h 4s  [0m
+[34mchatbot ($41128) had Qd 6d  [0m
+[34mwittgenstein ($9513) had Qs 7c  [0m
 [34m=================================[0m
  
 [34m==== Round #5 starting ====[0m
 [34m5 players:[0m
-[34m  flopped a set ($9980) [0m
-[34m  challengeBot ($30045) [0m
-[34m  mercBot ($20025) [0m
-[34m  blaBot ($9965) [0m
-[34m  edi9999 ($9985) [0m
+[34m  status3Bot ($9955) [0m
+[34m  ThoseAreMyFish ($9940) [0m
+[34m  whistle_tips ($9464) [0m
+[34m  chatbot ($41128) [0m
+[34m  wittgenstein ($9513) [0m
  
 [34m-- pre-flop[0m
-[34m  flopped a set ($9975) 6d Tc [0m
-[34m  challengeBot ($30035) 2h Qh [0m
-[34m  mercBot ($20025) 7d 5s [0m
-[34m  blaBot ($9965) 7h 5h [0m
-[34m  edi9999 ($9985) Kh 9d [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $30035[0m
-[31m  blaBot folded[0m
+[34m  status3Bot ($9950) Qh Jc [0m
+[34m  ThoseAreMyFish ($9930) 7c Js [0m
+[34m  whistle_tips ($9464) 9c 6c [0m
+[34m  chatbot ($41128) 7d Ts [0m
+[34m  wittgenstein ($9513) Tc 3c [0m
+[31m  status3Bot  paid a blind of $5[0m
+[31m  ThoseAreMyFish  paid a blind of $10[0m
+[31m  whistle_tips called $10[0m
+[31m  chatbot raised by $50[0m
+[31m  wittgenstein raised by $200[0m
+[31m  status3Bot folded[0m
+[31m  ThoseAreMyFish folded[0m
+[31m  whistle_tips called $190[0m
+[31m  chatbot called $150[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Kd Ks 3d [0m
+[34m Pot is: 615[0m
+[34m  whistle_tips ($9264) 9c,6c (One pair)[0m
+[34m  chatbot ($40928) 7d,Ts (One pair)[0m
+[34m  wittgenstein ($9313) Tc,3c (Two pair)[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  chatbot raised by $88[0m
+[31m  wittgenstein raised by $878[0m
+[31m  whistle_tips folded[0m
+[31m  chatbot folded[0m
  
 [34mRound #5 complete.[0m
-[34mWinner was challengeBot  Amount won: $30060[0m
+[34mWinner was wittgenstein  Amount won: $1581[0m
 [34mPositions: [0m
-[34mflopped a set ($9975) had 6d Tc  [0m
-[34mchallengeBot ($30060) had 2h Qh  [0m
-[34mmercBot ($20025) had 7d 5s  [0m
-[34mblaBot ($9955) had 7h 5h  [0m
-[34medi9999 ($9985) had Kh 9d  [0m
+[34mstatus3Bot ($9950) had Qh Jc  [0m
+[34mThoseAreMyFish ($9930) had 7c Js  [0m
+[34mwhistle_tips ($9264) had 9c 6c  [0m
+[34mchatbot ($40840) had 7d Ts  [0m
+[34mwittgenstein ($10016) had Tc 3c  [0m
 [34m=================================[0m
  
 [34m==== Round #6 starting ====[0m
 [34m5 players:[0m
-[34m  challengeBot ($30060) [0m
-[34m  mercBot ($20025) [0m
-[34m  blaBot ($9955) [0m
-[34m  edi9999 ($9985) [0m
-[34m  flopped a set ($9975) [0m
+[34m  ThoseAreMyFish ($9930) [0m
+[34m  whistle_tips ($9264) [0m
+[34m  chatbot ($40840) [0m
+[34m  wittgenstein ($10016) [0m
+[34m  status3Bot ($9950) [0m
  
 [34m-- pre-flop[0m
-[34m  challengeBot ($30055) As 5d [0m
-[34m  mercBot ($20015) Tc 6h [0m
-[34m  blaBot ($9955) 3s 9d [0m
-[34m  edi9999 ($9985) Jd 7h [0m
-[34m  flopped a set ($9975) 4h 8h [0m
-[31m  challengeBot  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $30055[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
+[34m  ThoseAreMyFish ($9925) Td Qh [0m
+[34m  whistle_tips ($9254) 5s 7c [0m
+[34m  chatbot ($40840) 8s Ac [0m
+[34m  wittgenstein ($10016) 2s Jc [0m
+[34m  status3Bot ($9950) 4c 5c [0m
+[31m  ThoseAreMyFish  paid a blind of $5[0m
+[31m  whistle_tips  paid a blind of $10[0m
+[31m  chatbot raised by $50[0m
+[31m  wittgenstein folded[0m
+[31m  status3Bot folded[0m
+[31m  ThoseAreMyFish raised by $180[0m
+[31m  whistle_tips folded[0m
+[31m  chatbot called $135[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Qs 4s 3d [0m
+[34m Pot is: 380[0m
+[34m  ThoseAreMyFish ($9745) Td,Qh (One pair)[0m
+[34m  chatbot ($40655) 8s,Ac[0m
+[31m Actions: [0m
+[31m  ThoseAreMyFish went ALL IN with $9745[0m
+[31m  chatbot went ALL IN with $40655[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Qs 4s 3d 2d [0m
+[34m Pot is: 50780[0m
+[34m  ThoseAreMyFish ($0) Td,Qh (One pair)[0m
+[34m  chatbot ($0) 8s,Ac[0m
+[31m Actions: [0m
+ 
+[34m-- river[0m
+[34m Cards are: Qs 4s 3d 2d Ah [0m
+[34m Pot is: 50780[0m
+[34m  ThoseAreMyFish ($0) Td,Qh (One pair)[0m
+[34m  chatbot ($0) 8s,Ac (One pair)[0m
+[31m Actions: [0m
+ 
+[34m-- final[0m
+[34m Cards are: Qs 4s 3d 2d Ah [0m
+[34m Pot is: 50780[0m
+[34m  ThoseAreMyFish ($0) Td,Qh (One pair)[0m
+[34m  chatbot ($0) 8s,Ac (One pair)[0m
+[31m Actions: [0m
  
 [34mRound #6 complete.[0m
-[34mWinner was challengeBot  Amount won: $30080[0m
+[34mWinner was chatbot with One pair Amount won: $50780[0m
 [34mPositions: [0m
-[34mchallengeBot ($30080) had As 5d  [0m
-[34mmercBot ($20015) had Tc 6h  [0m
-[34mblaBot ($9945) had 3s 9d  [0m
-[34medi9999 ($9985) had Jd 7h  [0m
-[34mflopped a set ($9975) had 4h 8h  [0m
+[34mThoseAreMyFish ($0) had Td Qh  (One pair)[0m
+[34mwhistle_tips ($9254) had 5s 7c  [0m
+[34mchatbot ($50780) had 8s Ac  (One pair)[0m
+[34mwittgenstein ($10016) had 2s Jc  [0m
+[34mstatus3Bot ($9950) had 4c 5c  [0m
 [34m=================================[0m
  
 [34m==== Round #7 starting ====[0m
-[34m5 players:[0m
-[34m  mercBot ($20015) [0m
-[34m  blaBot ($9945) [0m
-[34m  edi9999 ($9985) [0m
-[34m  flopped a set ($9975) [0m
-[34m  challengeBot ($30080) [0m
+[34m4 players:[0m
+[34m  whistle_tips ($9254) [0m
+[34m  chatbot ($50780) [0m
+[34m  wittgenstein ($10016) [0m
+[34m  status3Bot ($9950) [0m
  
 [34m-- pre-flop[0m
-[34m  mercBot ($20010) 4d 8d [0m
-[34m  blaBot ($9935) 2h 2d [0m
-[34m  edi9999 ($9985) 7s Qs [0m
-[34m  flopped a set ($9975) 4h 3s [0m
-[34m  challengeBot ($30080) 5s Ah [0m
-[31m  mercBot  paid a blind of $5[0m
-[31m  blaBot  paid a blind of $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $30080[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
+[34m  whistle_tips ($9249) 2h 5d [0m
+[34m  chatbot ($50770) Qc 6s [0m
+[34m  wittgenstein ($10016) 7d 3c [0m
+[34m  status3Bot ($9950) 6h Ts [0m
+[31m  whistle_tips  paid a blind of $5[0m
+[31m  chatbot  paid a blind of $10[0m
+[31m  wittgenstein folded[0m
+[31m  status3Bot called $10[0m
+[31m  whistle_tips called $5[0m
+[31m  chatbot raised by $10[0m
+[31m  status3Bot called $10[0m
+[31m  whistle_tips called $10[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 8h 4s As [0m
+[34m Pot is: 60[0m
+[34m  whistle_tips ($9234) 2h,5d[0m
+[34m  chatbot ($50760) Qc,6s[0m
+[34m  status3Bot ($9930) 6h,Ts[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  chatbot raised by $10[0m
+[31m  status3Bot folded[0m
+[31m  whistle_tips folded[0m
  
 [34mRound #7 complete.[0m
-[34mWinner was challengeBot  Amount won: $30095[0m
+[34mWinner was chatbot  Amount won: $70[0m
 [34mPositions: [0m
-[34mmercBot ($20010) had 4d 8d  [0m
-[34mblaBot ($9935) had 2h 2d  [0m
-[34medi9999 ($9985) had 7s Qs  [0m
-[34mflopped a set ($9975) had 4h 3s  [0m
-[34mchallengeBot ($30095) had 5s Ah  [0m
+[34mwhistle_tips ($9234) had 2h 5d  [0m
+[34mchatbot ($50820) had Qc 6s  [0m
+[34mwittgenstein ($10016) had 7d 3c  [0m
+[34mstatus3Bot ($9930) had 6h Ts  [0m
 [34m=================================[0m
  
 [34m==== Round #8 starting ====[0m
-[34m5 players:[0m
-[34m  blaBot ($9935) [0m
-[34m  edi9999 ($9985) [0m
-[34m  flopped a set ($9975) [0m
-[34m  challengeBot ($30095) [0m
-[34m  mercBot ($20010) [0m
+[34m4 players:[0m
+[34m  whistle_tips ($9234) [0m
+[34m  chatbot ($50820) [0m
+[34m  wittgenstein ($10016) [0m
+[34m  status3Bot ($9930) [0m
  
 [34m-- pre-flop[0m
-[34m  blaBot ($9930) 2h Qc [0m
-[34m  edi9999 ($9975) 9d 2d [0m
-[34m  flopped a set ($9975) Ks 5h [0m
-[34m  challengeBot ($30095) Jd 7s [0m
-[34m  mercBot ($20010) 4h 2c [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $30095[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
+[34m  whistle_tips ($9229) Tc Jc [0m
+[34m  chatbot ($50810) Kh 8h [0m
+[34m  wittgenstein ($10016) 7h Jd [0m
+[34m  status3Bot ($9930) Td As [0m
+[31m  whistle_tips  paid a blind of $5[0m
+[31m  chatbot  paid a blind of $10[0m
+[31m  wittgenstein folded[0m
+[31m  status3Bot called $10[0m
+[31m  whistle_tips called $5[0m
+[31m  chatbot raised by $21[0m
+[31m  status3Bot folded[0m
+[31m  whistle_tips called $21[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 4s Js 6d [0m
+[34m Pot is: 72[0m
+[34m  whistle_tips ($9203) Tc,Jc (One pair)[0m
+[34m  chatbot ($50789) Kh,8h[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  chatbot raised by $24[0m
+[31m  whistle_tips called $24[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 4s Js 6d Kc [0m
+[34m Pot is: 120[0m
+[34m  whistle_tips ($9179) Tc,Jc (One pair)[0m
+[34m  chatbot ($50765) Kh,8h (One pair)[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  chatbot raised by $71[0m
+[31m  whistle_tips called $71[0m
+ 
+[34m-- river[0m
+[34m Cards are: 4s Js 6d Kc Qs [0m
+[34m Pot is: 262[0m
+[34m  whistle_tips ($9108) Tc,Jc (One pair)[0m
+[34m  chatbot ($50694) Kh,8h (One pair)[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  chatbot raised by $167[0m
+[31m  whistle_tips called $167[0m
+ 
+[34m-- final[0m
+[34m Cards are: 4s Js 6d Kc Qs [0m
+[34m Pot is: 596[0m
+[34m  whistle_tips ($8941) Tc,Jc (One pair)[0m
+[34m  chatbot ($50527) Kh,8h (One pair)[0m
+[31m Actions: [0m
  
 [34mRound #8 complete.[0m
-[34mWinner was challengeBot  Amount won: $30110[0m
+[34mWinner was chatbot with One pair Amount won: $596[0m
 [34mPositions: [0m
-[34mblaBot ($9930) had 2h Qc  [0m
-[34medi9999 ($9975) had 9d 2d  [0m
-[34mflopped a set ($9975) had Ks 5h  [0m
-[34mchallengeBot ($30110) had Jd 7s  [0m
-[34mmercBot ($20010) had 4h 2c  [0m
+[34mwhistle_tips ($8941) had Tc Jc  (One pair)[0m
+[34mchatbot ($51123) had Kh 8h  (One pair)[0m
+[34mwittgenstein ($10016) had 7h Jd  [0m
+[34mstatus3Bot ($9920) had Td As  [0m
 [34m=================================[0m
  
 [34m==== Round #9 starting ====[0m
-[34m5 players:[0m
-[34m  blaBot ($9930) [0m
-[34m  edi9999 ($9975) [0m
-[34m  flopped a set ($9975) [0m
-[34m  challengeBot ($30110) [0m
-[34m  mercBot ($20010) [0m
+[34m4 players:[0m
+[34m  whistle_tips ($8941) [0m
+[34m  chatbot ($51123) [0m
+[34m  wittgenstein ($10016) [0m
+[34m  status3Bot ($9920) [0m
  
 [34m-- pre-flop[0m
-[34m  blaBot ($9925) 8c Kh [0m
-[34m  edi9999 ($9965) 6d 8d [0m
-[34m  flopped a set ($9975) Kc 9s [0m
-[34m  challengeBot ($30110) Qc Td [0m
-[34m  mercBot ($20010) Tc 7s [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $30110[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
+[34m  whistle_tips ($8936) 9c 6c [0m
+[34m  chatbot ($51113) 6d 4s [0m
+[34m  wittgenstein ($10016) Qs 2s [0m
+[34m  status3Bot ($9920) Ad 6h [0m
+[31m  whistle_tips  paid a blind of $5[0m
+[31m  chatbot  paid a blind of $10[0m
+[31m  wittgenstein folded[0m
+[31m  status3Bot called $10[0m
+[31m  whistle_tips called $5[0m
+[31m  chatbot raised by $10[0m
+[31m  status3Bot called $10[0m
+[31m  whistle_tips called $10[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 2h 8s 7c [0m
+[34m Pot is: 60[0m
+[34m  whistle_tips ($8921) 9c,6c[0m
+[34m  chatbot ($51103) 6d,4s[0m
+[34m  status3Bot ($9900) Ad,6h[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  chatbot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 2h 8s 7c 9s [0m
+[34m Pot is: 60[0m
+[34m  whistle_tips ($8921) 9c,6c (One pair)[0m
+[34m  chatbot ($51103) 6d,4s[0m
+[34m  status3Bot ($9900) Ad,6h[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  chatbot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- river[0m
+[34m Cards are: 2h 8s 7c 9s 7d [0m
+[34m Pot is: 60[0m
+[34m  whistle_tips ($8921) 9c,6c (Two pair)[0m
+[34m  chatbot ($51103) 6d,4s (One pair)[0m
+[34m  status3Bot ($9900) Ad,6h (One pair)[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  chatbot checked[0m
+[31m  status3Bot checked[0m
+ 
+[34m-- final[0m
+[34m Cards are: 2h 8s 7c 9s 7d [0m
+[34m Pot is: 60[0m
+[34m  whistle_tips ($8921) 9c,6c (Two pair)[0m
+[34m  chatbot ($51103) 6d,4s (One pair)[0m
+[34m  status3Bot ($9900) Ad,6h (One pair)[0m
+[31m Actions: [0m
  
 [34mRound #9 complete.[0m
-[34mWinner was challengeBot  Amount won: $30125[0m
+[34mWinner was whistle_tips with Two pair Amount won: $60[0m
 [34mPositions: [0m
-[34mblaBot ($9925) had 8c Kh  [0m
-[34medi9999 ($9965) had 6d 8d  [0m
-[34mflopped a set ($9975) had Kc 9s  [0m
-[34mchallengeBot ($30125) had Qc Td  [0m
-[34mmercBot ($20010) had Tc 7s  [0m
+[34mwhistle_tips ($8981) had 9c 6c  (Two pair)[0m
+[34mchatbot ($51103) had 6d 4s  (One pair)[0m
+[34mwittgenstein ($10016) had Qs 2s  [0m
+[34mstatus3Bot ($9900) had Ad 6h  (One pair)[0m
 [34m=================================[0m
  
 [34m==== Round #10 starting ====[0m
-[34m5 players:[0m
-[34m  edi9999 ($9965) [0m
-[34m  flopped a set ($9975) [0m
-[34m  challengeBot ($30125) [0m
-[34m  mercBot ($20010) [0m
-[34m  blaBot ($9925) [0m
+[34m4 players:[0m
+[34m  chatbot ($51103) [0m
+[34m  wittgenstein ($10016) [0m
+[34m  status3Bot ($9900) [0m
+[34m  whistle_tips ($8981) [0m
  
 [34m-- pre-flop[0m
-[34m  edi9999 ($9960) 5c 7c [0m
-[34m  flopped a set ($9965) Kc Qh [0m
-[34m  challengeBot ($30125) 9c Qd [0m
-[34m  mercBot ($20010) Kd 4c [0m
-[34m  blaBot ($9925) Kh 3d [0m
-[31m  edi9999  paid a blind of $5[0m
-[31m  flopped a set  paid a blind of $10[0m
-[31m  challengeBot went ALL IN with $30125[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
+[34m  chatbot ($51098) 7d 5h [0m
+[34m  wittgenstein ($10006) 4s 2d [0m
+[34m  status3Bot ($9900) 2s 5s [0m
+[34m  whistle_tips ($8981) Td 6s [0m
+[31m  chatbot  paid a blind of $5[0m
+[31m  wittgenstein  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  whistle_tips called $10[0m
+[31m  chatbot raised by $15[0m
+[31m  wittgenstein folded[0m
+[31m  status3Bot called $10[0m
+[31m  whistle_tips called $10[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 8h Kh 6c [0m
+[34m Pot is: 70[0m
+[34m  chatbot ($51083) 7d,5h[0m
+[34m  status3Bot ($9880) 2s,5s[0m
+[34m  whistle_tips ($8961) Td,6s (One pair)[0m
+[31m Actions: [0m
+[31m  chatbot raised by $22[0m
+[31m  status3Bot folded[0m
+[31m  whistle_tips called $22[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 8h Kh 6c Qc [0m
+[34m Pot is: 114[0m
+[34m  chatbot ($51061) 7d,5h[0m
+[34m  whistle_tips ($8939) Td,6s (One pair)[0m
+[31m Actions: [0m
+[31m  chatbot raised by $20[0m
+[31m  whistle_tips called $20[0m
+ 
+[34m-- river[0m
+[34m Cards are: 8h Kh 6c Qc 9c [0m
+[34m Pot is: 154[0m
+[34m  chatbot ($51041) 7d,5h (Straight)[0m
+[34m  whistle_tips ($8919) Td,6s (One pair)[0m
+[31m Actions: [0m
+[31m  chatbot raised by $115[0m
+[31m  whistle_tips called $115[0m
+ 
+[34m-- final[0m
+[34m Cards are: 8h Kh 6c Qc 9c [0m
+[34m Pot is: 384[0m
+[34m  chatbot ($50926) 7d,5h (Straight)[0m
+[34m  whistle_tips ($8804) Td,6s (One pair)[0m
+[31m Actions: [0m
  
 [34mRound #10 complete.[0m
-[34mWinner was challengeBot  Amount won: $30140[0m
+[34mWinner was chatbot with Straight Amount won: $384[0m
 [34mPositions: [0m
-[34medi9999 ($9960) had 5c 7c  [0m
-[34mflopped a set ($9965) had Kc Qh  [0m
-[34mchallengeBot ($30140) had 9c Qd  [0m
-[34mmercBot ($20010) had Kd 4c  [0m
-[34mblaBot ($9925) had Kh 3d  [0m
+[34mchatbot ($51310) had 7d 5h  (Straight)[0m
+[34mwittgenstein ($10006) had 4s 2d  [0m
+[34mstatus3Bot ($9880) had 2s 5s  [0m
+[34mwhistle_tips ($8804) had Td 6s  (One pair)[0m
 [34m=================================[0m
  
 [34m==== Round #11 starting ====[0m
-[34m5 players:[0m
-[34m  flopped a set ($9965) [0m
-[34m  challengeBot ($30140) [0m
-[34m  mercBot ($20010) [0m
-[34m  blaBot ($9925) [0m
-[34m  edi9999 ($9960) [0m
+[34m4 players:[0m
+[34m  wittgenstein ($10006) [0m
+[34m  status3Bot ($9880) [0m
+[34m  whistle_tips ($8804) [0m
+[34m  chatbot ($51310) [0m
  
 [34m-- pre-flop[0m
-[34m  flopped a set ($9960) 2s Jh [0m
-[34m  challengeBot ($30130) 4s Ts [0m
-[34m  mercBot ($20010) 3s Kc [0m
-[34m  blaBot ($9925) Ks 6h [0m
-[34m  edi9999 ($9960) As 4c [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $30130[0m
-[31m  blaBot folded[0m
+[34m  wittgenstein ($10001) Ad Ah [0m
+[34m  status3Bot ($9870) Kh Jc [0m
+[34m  whistle_tips ($8804) Ac 7d [0m
+[34m  chatbot ($51310) 6c Tc [0m
+[31m  wittgenstein  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  whistle_tips called $10[0m
+[31m  chatbot raised by $50[0m
+[31m  wittgenstein raised by $300[0m
+[31m  status3Bot folded[0m
+[31m  whistle_tips folded[0m
+[31m  chatbot called $255[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 7c 3s 7h [0m
+[34m Pot is: 630[0m
+[34m  wittgenstein ($9701) Ad,Ah (Two pair)[0m
+[34m  chatbot ($51005) 6c,Tc (One pair)[0m
+[31m Actions: [0m
+[31m  wittgenstein raised by $472[0m
+[31m  chatbot folded[0m
  
 [34mRound #11 complete.[0m
-[34mWinner was challengeBot  Amount won: $30155[0m
+[34mWinner was wittgenstein  Amount won: $1102[0m
 [34mPositions: [0m
-[34mflopped a set ($9960) had 2s Jh  [0m
-[34mchallengeBot ($30155) had 4s Ts  [0m
-[34mmercBot ($20010) had 3s Kc  [0m
-[34mblaBot ($9915) had Ks 6h  [0m
-[34medi9999 ($9960) had As 4c  [0m
+[34mwittgenstein ($10331) had Ad Ah  [0m
+[34mstatus3Bot ($9870) had Kh Jc  [0m
+[34mwhistle_tips ($8794) had Ac 7d  [0m
+[34mchatbot ($51005) had 6c Tc  [0m
 [34m=================================[0m
  
 [34m==== Round #12 starting ====[0m
-[34m5 players:[0m
-[34m  flopped a set ($9960) [0m
-[34m  challengeBot ($30155) [0m
-[34m  mercBot ($20010) [0m
-[34m  blaBot ($9915) [0m
-[34m  edi9999 ($9960) [0m
+[34m4 players:[0m
+[34m  status3Bot ($9870) [0m
+[34m  whistle_tips ($8794) [0m
+[34m  chatbot ($51005) [0m
+[34m  wittgenstein ($10331) [0m
  
 [34m-- pre-flop[0m
-[34m  flopped a set ($9955) 8d 2s [0m
-[34m  challengeBot ($30145) Kh Kc [0m
-[34m  mercBot ($20010) 8h Jd [0m
-[34m  blaBot ($9915) 5c 9s [0m
-[34m  edi9999 ($9960) 6s Jc [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $30145[0m
-[31m  blaBot folded[0m
+[34m  status3Bot ($9865) 2d Jh [0m
+[34m  whistle_tips ($8784) 5c 9d [0m
+[34m  chatbot ($51005) 4s 9h [0m
+[34m  wittgenstein ($10331) 5s 2s [0m
+[31m  status3Bot  paid a blind of $5[0m
+[31m  whistle_tips  paid a blind of $10[0m
+[31m  chatbot raised by $50[0m
+[31m  wittgenstein raised by $200[0m
+[31m  status3Bot folded[0m
+[31m  whistle_tips folded[0m
+[31m  chatbot called $150[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 8d Tc Kh [0m
+[34m Pot is: 415[0m
+[34m  chatbot ($50805) 4s,9h[0m
+[34m  wittgenstein ($10131) 5s,2s[0m
+[31m Actions: [0m
+[31m  chatbot raised by $146[0m
+[31m  wittgenstein raised by $1122[0m
+[31m  chatbot folded[0m
  
 [34mRound #12 complete.[0m
-[34mWinner was challengeBot  Amount won: $30170[0m
+[34mWinner was wittgenstein  Amount won: $1683[0m
 [34mPositions: [0m
-[34mflopped a set ($9955) had 8d 2s  [0m
-[34mchallengeBot ($30170) had Kh Kc  [0m
-[34mmercBot ($20010) had 8h Jd  [0m
-[34mblaBot ($9905) had 5c 9s  [0m
-[34medi9999 ($9960) had 6s Jc  [0m
+[34mstatus3Bot ($9865) had 2d Jh  [0m
+[34mwhistle_tips ($8784) had 5c 9d  [0m
+[34mchatbot ($50659) had 4s 9h  [0m
+[34mwittgenstein ($10692) had 5s 2s  [0m
 [34m=================================[0m
  
 [34m==== Round #13 starting ====[0m
-[34m5 players:[0m
-[34m  flopped a set ($9955) [0m
-[34m  challengeBot ($30170) [0m
-[34m  mercBot ($20010) [0m
-[34m  blaBot ($9905) [0m
-[34m  edi9999 ($9960) [0m
+[34m4 players:[0m
+[34m  status3Bot ($9865) [0m
+[34m  whistle_tips ($8784) [0m
+[34m  chatbot ($50659) [0m
+[34m  wittgenstein ($10692) [0m
  
 [34m-- pre-flop[0m
-[34m  flopped a set ($9950) Td Qd [0m
-[34m  challengeBot ($30160) Th 2h [0m
-[34m  mercBot ($20010) Ah 4c [0m
-[34m  blaBot ($9905) 7s 5s [0m
-[34m  edi9999 ($9960) Qs Qh [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 raised by $40[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $30160[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
+[34m  status3Bot ($9860) 4d Qs [0m
+[34m  whistle_tips ($8774) Jc 7d [0m
+[34m  chatbot ($50659) As Kd [0m
+[34m  wittgenstein ($10692) 2s 3c [0m
+[31m  status3Bot  paid a blind of $5[0m
+[31m  whistle_tips  paid a blind of $10[0m
+[31m  chatbot raised by $50[0m
+[31m  wittgenstein raised by $200[0m
+[31m  status3Bot folded[0m
+[31m  whistle_tips folded[0m
+[31m  chatbot raised by $300[0m
+[31m  wittgenstein folded[0m
  
 [34mRound #13 complete.[0m
-[34mWinner was challengeBot  Amount won: $30225[0m
+[34mWinner was chatbot  Amount won: $565[0m
 [34mPositions: [0m
-[34mflopped a set ($9950) had Td Qd  [0m
-[34mchallengeBot ($30225) had Th 2h  [0m
-[34mmercBot ($20010) had Ah 4c  [0m
-[34mblaBot ($9895) had 7s 5s  [0m
-[34medi9999 ($9920) had Qs Qh  [0m
+[34mstatus3Bot ($9860) had 4d Qs  [0m
+[34mwhistle_tips ($8774) had Jc 7d  [0m
+[34mchatbot ($50874) had As Kd  [0m
+[34mwittgenstein ($10492) had 2s 3c  [0m
 [34m=================================[0m
  
 [34m==== Round #14 starting ====[0m
-[34m5 players:[0m
-[34m  challengeBot ($30225) [0m
-[34m  mercBot ($20010) [0m
-[34m  blaBot ($9895) [0m
-[34m  edi9999 ($9920) [0m
-[34m  flopped a set ($9950) [0m
+[34m4 players:[0m
+[34m  whistle_tips ($8774) [0m
+[34m  chatbot ($50874) [0m
+[34m  wittgenstein ($10492) [0m
+[34m  status3Bot ($9860) [0m
  
 [34m-- pre-flop[0m
-[34m  challengeBot ($30220) Kc 7c [0m
-[34m  mercBot ($20000) 5c 6d [0m
-[34m  blaBot ($9895) Js 7s [0m
-[34m  edi9999 ($9920) Tc Jh [0m
-[34m  flopped a set ($9950) Jc 8h [0m
-[31m  challengeBot  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 raised by $40[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $30220[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
+[34m  whistle_tips ($8769) 6h 5c [0m
+[34m  chatbot ($50864) 4s As [0m
+[34m  wittgenstein ($10492) 7c 3d [0m
+[34m  status3Bot ($9860) 7h 3h [0m
+[31m  whistle_tips  paid a blind of $5[0m
+[31m  chatbot  paid a blind of $10[0m
+[31m  wittgenstein folded[0m
+[31m  status3Bot called $10[0m
+[31m  whistle_tips called $5[0m
+[31m  chatbot raised by $10[0m
+[31m  status3Bot called $10[0m
+[31m  whistle_tips called $10[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 7d Jc 9d [0m
+[34m Pot is: 60[0m
+[34m  whistle_tips ($8754) 6h,5c[0m
+[34m  chatbot ($50854) 4s,As[0m
+[34m  status3Bot ($9840) 7h,3h (One pair)[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  chatbot checked[0m
+[31m  status3Bot raised by $30[0m
+[31m  whistle_tips folded[0m
+[31m  chatbot folded[0m
  
 [34mRound #14 complete.[0m
-[34mWinner was challengeBot  Amount won: $30285[0m
+[34mWinner was status3Bot  Amount won: $90[0m
 [34mPositions: [0m
-[34mchallengeBot ($30285) had Kc 7c  [0m
-[34mmercBot ($20000) had 5c 6d  [0m
-[34mblaBot ($9885) had Js 7s  [0m
-[34medi9999 ($9880) had Tc Jh  [0m
-[34mflopped a set ($9950) had Jc 8h  [0m
+[34mwhistle_tips ($8754) had 6h 5c  [0m
+[34mchatbot ($50854) had 4s As  [0m
+[34mwittgenstein ($10492) had 7c 3d  [0m
+[34mstatus3Bot ($9900) had 7h 3h  [0m
 [34m=================================[0m
  
 [34m==== Round #15 starting ====[0m
-[34m5 players:[0m
-[34m  mercBot ($20000) [0m
-[34m  blaBot ($9885) [0m
-[34m  edi9999 ($9880) [0m
-[34m  flopped a set ($9950) [0m
-[34m  challengeBot ($30285) [0m
+[34m4 players:[0m
+[34m  whistle_tips ($8754) [0m
+[34m  chatbot ($50854) [0m
+[34m  wittgenstein ($10492) [0m
+[34m  status3Bot ($9900) [0m
  
 [34m-- pre-flop[0m
-[34m  mercBot ($19995) 5h 8c [0m
-[34m  blaBot ($9875) 7s 3s [0m
-[34m  edi9999 ($9880) As 8h [0m
-[34m  flopped a set ($9950) 6h 4s [0m
-[34m  challengeBot ($30285) Qs 4d [0m
-[31m  mercBot  paid a blind of $5[0m
-[31m  blaBot  paid a blind of $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $30285[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
+[34m  whistle_tips ($8749) 8d 5d [0m
+[34m  chatbot ($50844) Th 8h [0m
+[34m  wittgenstein ($10492) 2c Td [0m
+[34m  status3Bot ($9900) 3h 9d [0m
+[31m  whistle_tips  paid a blind of $5[0m
+[31m  chatbot  paid a blind of $10[0m
+[31m  wittgenstein folded[0m
+[31m  status3Bot called $10[0m
+[31m  whistle_tips called $5[0m
+[31m  chatbot raised by $20[0m
+[31m  status3Bot folded[0m
+[31m  whistle_tips called $20[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 7c 4s 9c [0m
+[34m Pot is: 70[0m
+[34m  whistle_tips ($8724) 8d,5d[0m
+[34m  chatbot ($50824) Th,8h[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  chatbot raised by $28[0m
+[31m  whistle_tips folded[0m
  
 [34mRound #15 complete.[0m
-[34mWinner was challengeBot  Amount won: $30300[0m
+[34mWinner was chatbot  Amount won: $98[0m
 [34mPositions: [0m
-[34mmercBot ($19995) had 5h 8c  [0m
-[34mblaBot ($9875) had 7s 3s  [0m
-[34medi9999 ($9880) had As 8h  [0m
-[34mflopped a set ($9950) had 6h 4s  [0m
-[34mchallengeBot ($30300) had Qs 4d  [0m
+[34mwhistle_tips ($8724) had 8d 5d  [0m
+[34mchatbot ($50894) had Th 8h  [0m
+[34mwittgenstein ($10492) had 2c Td  [0m
+[34mstatus3Bot ($9890) had 3h 9d  [0m
 [34m=================================[0m
  
 [34m==== Round #16 starting ====[0m
-[34m5 players:[0m
-[34m  blaBot ($9875) [0m
-[34m  edi9999 ($9880) [0m
-[34m  flopped a set ($9950) [0m
-[34m  challengeBot ($30300) [0m
-[34m  mercBot ($19995) [0m
+[34m4 players:[0m
+[34m  whistle_tips ($8724) [0m
+[34m  chatbot ($50894) [0m
+[34m  wittgenstein ($10492) [0m
+[34m  status3Bot ($9890) [0m
  
 [34m-- pre-flop[0m
-[34m  blaBot ($9870) Kc 4h [0m
-[34m  edi9999 ($9870) 4d 3d [0m
-[34m  flopped a set ($9950) As 9d [0m
-[34m  challengeBot ($30300) 6s 5s [0m
-[34m  mercBot ($19995) 3h 5h [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $30300[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
+[34m  whistle_tips ($8719) 5c Jd [0m
+[34m  chatbot ($50884) 8s Js [0m
+[34m  wittgenstein ($10492) Jh 9h [0m
+[34m  status3Bot ($9890) 8c 9d [0m
+[31m  whistle_tips  paid a blind of $5[0m
+[31m  chatbot  paid a blind of $10[0m
+[31m  wittgenstein folded[0m
+[31m  status3Bot called $10[0m
+[31m  whistle_tips called $5[0m
+[31m  chatbot raised by $10[0m
+[31m  status3Bot called $10[0m
+[31m  whistle_tips called $10[0m
+ 
+[34m-- flop[0m
+[34m Cards are: 7c 7d 6c [0m
+[34m Pot is: 60[0m
+[34m  whistle_tips ($8704) 5c,Jd (One pair)[0m
+[34m  chatbot ($50874) 8s,Js (One pair)[0m
+[34m  status3Bot ($9870) 8c,9d (One pair)[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  chatbot raised by $10[0m
+[31m  status3Bot folded[0m
+[31m  whistle_tips called $10[0m
+ 
+[34m-- turn[0m
+[34m Cards are: 7c 7d 6c 3c [0m
+[34m Pot is: 80[0m
+[34m  whistle_tips ($8694) 5c,Jd (One pair)[0m
+[34m  chatbot ($50864) 8s,Js (One pair)[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  chatbot raised by $20[0m
+[31m  whistle_tips called $20[0m
+ 
+[34m-- river[0m
+[34m Cards are: 7c 7d 6c 3c 3s [0m
+[34m Pot is: 120[0m
+[34m  whistle_tips ($8674) 5c,Jd (Two pair)[0m
+[34m  chatbot ($50844) 8s,Js (Two pair)[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  chatbot raised by $20[0m
+[31m  whistle_tips called $20[0m
+ 
+[34m-- final[0m
+[34m Cards are: 7c 7d 6c 3c 3s [0m
+[34m Pot is: 160[0m
+[34m  whistle_tips ($8654) 5c,Jd (Two pair)[0m
+[34m  chatbot ($50824) 8s,Js (Two pair)[0m
+[31m Actions: [0m
  
 [34mRound #16 complete.[0m
-[34mWinner was challengeBot  Amount won: $30315[0m
+[34mWinners are:[0m
+[34mwhistle_tips with Two pair. Amount won: $80[0m
+[34mchatbot with Two pair. Amount won: $80[0m
 [34mPositions: [0m
-[34mblaBot ($9870) had Kc 4h  [0m
-[34medi9999 ($9870) had 4d 3d  [0m
-[34mflopped a set ($9950) had As 9d  [0m
-[34mchallengeBot ($30315) had 6s 5s  [0m
-[34mmercBot ($19995) had 3h 5h  [0m
+[34mwhistle_tips ($8734) had 5c Jd  (Two pair)[0m
+[34mchatbot ($50904) had 8s Js  (Two pair)[0m
+[34mwittgenstein ($10492) had Jh 9h  [0m
+[34mstatus3Bot ($9870) had 8c 9d  [0m
 [34m=================================[0m
  
 [34m==== Round #17 starting ====[0m
-[34m5 players:[0m
-[34m  blaBot ($9870) [0m
-[34m  edi9999 ($9870) [0m
-[34m  flopped a set ($9950) [0m
-[34m  challengeBot ($30315) [0m
-[34m  mercBot ($19995) [0m
+[34m4 players:[0m
+[34m  whistle_tips ($8734) [0m
+[34m  chatbot ($50904) [0m
+[34m  wittgenstein ($10492) [0m
+[34m  status3Bot ($9870) [0m
  
 [34m-- pre-flop[0m
-[34m  blaBot ($9865) Ac 7c [0m
-[34m  edi9999 ($9860) 7h 9h [0m
-[34m  flopped a set ($9950) Jc 4c [0m
-[34m  challengeBot ($30315) 7d Qd [0m
-[34m  mercBot ($19995) Qh Js [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $30315[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
+[34m  whistle_tips ($8729) 4d 6s [0m
+[34m  chatbot ($50894) 2c 7s [0m
+[34m  wittgenstein ($10492) Ac 6d [0m
+[34m  status3Bot ($9870) Kd 7h [0m
+[31m  whistle_tips  paid a blind of $5[0m
+[31m  chatbot  paid a blind of $10[0m
+[31m  wittgenstein folded[0m
+[31m  status3Bot called $10[0m
+[31m  whistle_tips called $5[0m
+[31m  chatbot checked[0m
+ 
+[34m-- flop[0m
+[34m Cards are: As 3h 5c [0m
+[34m Pot is: 30[0m
+[34m  whistle_tips ($8724) 4d,6s[0m
+[34m  chatbot ($50894) 2c,7s[0m
+[34m  status3Bot ($9860) Kd,7h[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  chatbot checked[0m
+[31m  status3Bot raised by $30[0m
+[31m  whistle_tips folded[0m
+[31m  chatbot folded[0m
  
 [34mRound #17 complete.[0m
-[34mWinner was challengeBot  Amount won: $30330[0m
+[34mWinner was status3Bot  Amount won: $60[0m
 [34mPositions: [0m
-[34mblaBot ($9865) had Ac 7c  [0m
-[34medi9999 ($9860) had 7h 9h  [0m
-[34mflopped a set ($9950) had Jc 4c  [0m
-[34mchallengeBot ($30330) had 7d Qd  [0m
-[34mmercBot ($19995) had Qh Js  [0m
+[34mwhistle_tips ($8724) had 4d 6s  [0m
+[34mchatbot ($50894) had 2c 7s  [0m
+[34mwittgenstein ($10492) had Ac 6d  [0m
+[34mstatus3Bot ($9890) had Kd 7h  [0m
 [34m=================================[0m
  
 [34m==== Round #18 starting ====[0m
-[34m5 players:[0m
-[34m  edi9999 ($9860) [0m
-[34m  flopped a set ($9950) [0m
-[34m  challengeBot ($30330) [0m
-[34m  mercBot ($19995) [0m
-[34m  blaBot ($9865) [0m
+[34m4 players:[0m
+[34m  chatbot ($50894) [0m
+[34m  wittgenstein ($10492) [0m
+[34m  status3Bot ($9890) [0m
+[34m  whistle_tips ($8724) [0m
  
 [34m-- pre-flop[0m
-[34m  edi9999 ($9855) Ts 4c [0m
-[34m  flopped a set ($9940) 7c 8h [0m
-[34m  challengeBot ($30330) Qd 7s [0m
-[34m  mercBot ($19995) 4h 9c [0m
-[34m  blaBot ($9865) Jd 3c [0m
-[31m  edi9999  paid a blind of $5[0m
-[31m  flopped a set  paid a blind of $10[0m
-[31m  challengeBot went ALL IN with $30330[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
+[34m  chatbot ($50889) 2h 8d [0m
+[34m  wittgenstein ($10482) 4h Ac [0m
+[34m  status3Bot ($9890) Ks Qc [0m
+[34m  whistle_tips ($8724) Kh 5c [0m
+[31m  chatbot  paid a blind of $5[0m
+[31m  wittgenstein  paid a blind of $10[0m
+[31m  status3Bot called $10[0m
+[31m  whistle_tips called $10[0m
+[31m  chatbot raised by $15[0m
+[31m  wittgenstein folded[0m
+[31m  status3Bot called $10[0m
+[31m  whistle_tips called $10[0m
+ 
+[34m-- flop[0m
+[34m Cards are: Td 9s Th [0m
+[34m Pot is: 70[0m
+[34m  chatbot ($50874) 2h,8d (One pair)[0m
+[34m  status3Bot ($9870) Ks,Qc (One pair)[0m
+[34m  whistle_tips ($8704) Kh,5c (One pair)[0m
+[31m Actions: [0m
+[31m  chatbot raised by $10[0m
+[31m  status3Bot called $10[0m
+[31m  whistle_tips called $10[0m
+ 
+[34m-- turn[0m
+[34m Cards are: Td 9s Th 7c [0m
+[34m Pot is: 100[0m
+[34m  chatbot ($50864) 2h,8d (One pair)[0m
+[34m  status3Bot ($9860) Ks,Qc (One pair)[0m
+[34m  whistle_tips ($8694) Kh,5c (One pair)[0m
+[31m Actions: [0m
+[31m  chatbot checked[0m
+[31m  status3Bot raised by $20[0m
+[31m  whistle_tips called $20[0m
+[31m  chatbot called $20[0m
+ 
+[34m-- river[0m
+[34m Cards are: Td 9s Th 7c 8s [0m
+[34m Pot is: 160[0m
+[34m  chatbot ($50844) 2h,8d (Two pair)[0m
+[34m  status3Bot ($9840) Ks,Qc (One pair)[0m
+[34m  whistle_tips ($8674) Kh,5c (One pair)[0m
+[31m Actions: [0m
+[31m  chatbot checked[0m
+[31m  status3Bot raised by $20[0m
+[31m  whistle_tips called $20[0m
+[31m  chatbot folded[0m
+ 
+[34m-- final[0m
+[34m Cards are: Td 9s Th 7c 8s [0m
+[34m Pot is: 200[0m
+[34m  status3Bot ($9820) Ks,Qc (One pair)[0m
+[34m  whistle_tips ($8654) Kh,5c (One pair)[0m
+[31m Actions: [0m
  
 [34mRound #18 complete.[0m
-[34mWinner was challengeBot  Amount won: $30345[0m
+[34mWinner was status3Bot with One pair Amount won: $200[0m
 [34mPositions: [0m
-[34medi9999 ($9855) had Ts 4c  [0m
-[34mflopped a set ($9940) had 7c 8h  [0m
-[34mchallengeBot ($30345) had Qd 7s  [0m
-[34mmercBot ($19995) had 4h 9c  [0m
-[34mblaBot ($9865) had Jd 3c  [0m
+[34mchatbot ($50844) had 2h 8d  [0m
+[34mwittgenstein ($10482) had 4h Ac  [0m
+[34mstatus3Bot ($10020) had Ks Qc  (One pair)[0m
+[34mwhistle_tips ($8654) had Kh 5c  (One pair)[0m
 [34m=================================[0m
  
 [34m==== Round #19 starting ====[0m
-[34m5 players:[0m
-[34m  flopped a set ($9940) [0m
-[34m  challengeBot ($30345) [0m
-[34m  mercBot ($19995) [0m
-[34m  blaBot ($9865) [0m
-[34m  edi9999 ($9855) [0m
+[34m4 players:[0m
+[34m  wittgenstein ($10482) [0m
+[34m  status3Bot ($10020) [0m
+[34m  whistle_tips ($8654) [0m
+[34m  chatbot ($50844) [0m
  
 [34m-- pre-flop[0m
-[34m  flopped a set ($9935) 9d 7s [0m
-[34m  challengeBot ($30335) 4c 9c [0m
-[34m  mercBot ($19995) 6h 2h [0m
-[34m  blaBot ($9865) Ad Kc [0m
-[34m  edi9999 ($9855) 6s 4d [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $30335[0m
-[31m  blaBot folded[0m
- 
-[34mRound #19 complete.[0m
-[34mWinner was challengeBot  Amount won: $30360[0m
-[34mPositions: [0m
-[34mflopped a set ($9935) had 9d 7s  [0m
-[34mchallengeBot ($30360) had 4c 9c  [0m
-[34mmercBot ($19995) had 6h 2h  [0m
-[34mblaBot ($9855) had Ad Kc  [0m
-[34medi9999 ($9855) had 6s 4d  [0m
-[34m=================================[0m
- 
-[34m==== Round #20 starting ====[0m
-[34m5 players:[0m
-[34m  flopped a set ($9935) [0m
-[34m  challengeBot ($30360) [0m
-[34m  mercBot ($19995) [0m
-[34m  blaBot ($9855) [0m
-[34m  edi9999 ($9855) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($9930) 2d 3h [0m
-[34m  challengeBot ($30350) Ts 3s [0m
-[34m  mercBot ($19995) 8d 3d [0m
-[34m  blaBot ($9855) Ah Qd [0m
-[34m  edi9999 ($9855) 3c 2c [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $30350[0m
-[31m  blaBot folded[0m
- 
-[34mRound #20 complete.[0m
-[34mWinner was challengeBot  Amount won: $30375[0m
-[34mPositions: [0m
-[34mflopped a set ($9930) had 2d 3h  [0m
-[34mchallengeBot ($30375) had Ts 3s  [0m
-[34mmercBot ($19995) had 8d 3d  [0m
-[34mblaBot ($9845) had Ah Qd  [0m
-[34medi9999 ($9855) had 3c 2c  [0m
-[34m=================================[0m
- 
-[34m==== Round #21 starting ====[0m
-[34m5 players:[0m
-[34m  flopped a set ($9930) [0m
-[34m  challengeBot ($30375) [0m
-[34m  mercBot ($19995) [0m
-[34m  blaBot ($9845) [0m
-[34m  edi9999 ($9855) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($9925) Ac 2h [0m
-[34m  challengeBot ($30365) 4h 6h [0m
-[34m  mercBot ($19995) 5h Qd [0m
-[34m  blaBot ($9845) 8c 7c [0m
-[34m  edi9999 ($9855) Qs 7d [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $30365[0m
-[31m  blaBot folded[0m
- 
-[34mRound #21 complete.[0m
-[34mWinner was challengeBot  Amount won: $30390[0m
-[34mPositions: [0m
-[34mflopped a set ($9925) had Ac 2h  [0m
-[34mchallengeBot ($30390) had 4h 6h  [0m
-[34mmercBot ($19995) had 5h Qd  [0m
-[34mblaBot ($9835) had 8c 7c  [0m
-[34medi9999 ($9855) had Qs 7d  [0m
-[34m=================================[0m
- 
-[34m==== Round #22 starting ====[0m
-[34m5 players:[0m
-[34m  challengeBot ($30390) [0m
-[34m  mercBot ($19995) [0m
-[34m  blaBot ($9835) [0m
-[34m  edi9999 ($9855) [0m
-[34m  flopped a set ($9925) [0m
- 
-[34m-- pre-flop[0m
-[34m  challengeBot ($30385) 2h 9s [0m
-[34m  mercBot ($19985) Kh Jc [0m
-[34m  blaBot ($9835) 8s Ac [0m
-[34m  edi9999 ($9855) 6h 4d [0m
-[34m  flopped a set ($9925) 8c 8h [0m
-[31m  challengeBot  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $30385[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
- 
-[34mRound #22 complete.[0m
-[34mWinner was challengeBot  Amount won: $30410[0m
-[34mPositions: [0m
-[34mchallengeBot ($30410) had 2h 9s  [0m
-[34mmercBot ($19985) had Kh Jc  [0m
-[34mblaBot ($9825) had 8s Ac  [0m
-[34medi9999 ($9855) had 6h 4d  [0m
-[34mflopped a set ($9925) had 8c 8h  [0m
-[34m=================================[0m
- 
-[34m==== Round #23 starting ====[0m
-[34m5 players:[0m
-[34m  mercBot ($19985) [0m
-[34m  blaBot ($9825) [0m
-[34m  edi9999 ($9855) [0m
-[34m  flopped a set ($9925) [0m
-[34m  challengeBot ($30410) [0m
- 
-[34m-- pre-flop[0m
-[34m  mercBot ($19980) 8c As [0m
-[34m  blaBot ($9815) 5c Kd [0m
-[34m  edi9999 ($9855) Ac 6s [0m
-[34m  flopped a set ($9925) Qh Qd [0m
-[34m  challengeBot ($30410) Ad 3h [0m
-[31m  mercBot  paid a blind of $5[0m
-[31m  blaBot  paid a blind of $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set went ALL IN with $9925[0m
-[31m  challengeBot went ALL IN with $30410[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
+[34m  wittgenstein ($10477) 2c 5c [0m
+[34m  status3Bot ($10010) Qc Kh [0m
+[34m  whistle_tips ($8654) 3d 2d [0m
+[34m  chatbot ($50844) Kc Jh [0m
+[31m  wittgenstein  paid a blind of $5[0m
+[31m  status3Bot  paid a blind of $10[0m
+[31m  whistle_tips called $10[0m
+[31m  chatbot raised by $50[0m
+[31m  wittgenstein folded[0m
+[31m  status3Bot folded[0m
+[31m  whistle_tips called $40[0m
  
 [34m-- flop[0m
-[34m Cards are: Jc Kh 2d [0m
-[34m Pot is: 40350[0m
-[34m  flopped a set ($0) Qh,Qd (One pair)[0m
-[34m  challengeBot ($0) Ad,3h[0m
+[34m Cards are: 6d Jd Ac [0m
+[34m Pot is: 115[0m
+[34m  whistle_tips ($8604) 3d,2d[0m
+[34m  chatbot ($50794) Kc,Jh (One pair)[0m
 [31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  chatbot raised by $73[0m
+[31m  whistle_tips called $73[0m
  
 [34m-- turn[0m
-[34m Cards are: Jc Kh 2d 9d [0m
-[34m Pot is: 40350[0m
-[34m  flopped a set ($0) Qh,Qd (One pair)[0m
-[34m  challengeBot ($0) Ad,3h[0m
-[31m Actions: [0m
- 
-[34m-- river[0m
-[34m Cards are: Jc Kh 2d 9d 7d [0m
-[34m Pot is: 40350[0m
-[34m  flopped a set ($0) Qh,Qd (One pair)[0m
-[34m  challengeBot ($0) Ad,3h[0m
-[31m Actions: [0m
- 
-[34m-- final[0m
-[34m Cards are: Jc Kh 2d 9d 7d [0m
-[34m Pot is: 40350[0m
-[34m  flopped a set ($0) Qh,Qd (One pair)[0m
-[34m  challengeBot ($0) Ad,3h[0m
-[31m Actions: [0m
- 
-[34mRound #23 complete.[0m
-[34mWinners are:[0m
-[34mflopped a set with One pair. Amount won: $19865[0m
-[34mchallengeBot with High card. Amount won: $20485[0m
-[34mPositions: [0m
-[34mmercBot ($19980) had 8c As  [0m
-[34mblaBot ($9815) had 5c Kd  [0m
-[34medi9999 ($9855) had Ac 6s  [0m
-[34mflopped a set ($19865) had Qh Qd  (One pair)[0m
-[34mchallengeBot ($20485) had Ad 3h  (High card)[0m
-[34m=================================[0m
- 
-[34m==== Round #24 starting ====[0m
-[34m5 players:[0m
-[34m  blaBot ($9815) [0m
-[34m  edi9999 ($9855) [0m
-[34m  flopped a set ($19865) [0m
-[34m  challengeBot ($20485) [0m
-[34m  mercBot ($19980) [0m
- 
-[34m-- pre-flop[0m
-[34m  blaBot ($9810) Qd Ah [0m
-[34m  edi9999 ($9845) 6h 9h [0m
-[34m  flopped a set ($19865) Qc 5h [0m
-[34m  challengeBot ($20485) Ks 6s [0m
-[34m  mercBot ($19980) Ts 2s [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20485[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
- 
-[34mRound #24 complete.[0m
-[34mWinner was challengeBot  Amount won: $20500[0m
-[34mPositions: [0m
-[34mblaBot ($9810) had Qd Ah  [0m
-[34medi9999 ($9845) had 6h 9h  [0m
-[34mflopped a set ($19865) had Qc 5h  [0m
-[34mchallengeBot ($20500) had Ks 6s  [0m
-[34mmercBot ($19980) had Ts 2s  [0m
-[34m=================================[0m
- 
-[34m==== Round #25 starting ====[0m
-[34m5 players:[0m
-[34m  blaBot ($9810) [0m
-[34m  edi9999 ($9845) [0m
-[34m  flopped a set ($19865) [0m
-[34m  challengeBot ($20500) [0m
-[34m  mercBot ($19980) [0m
- 
-[34m-- pre-flop[0m
-[34m  blaBot ($9805) Qd Kd [0m
-[34m  edi9999 ($9835) 9d Tc [0m
-[34m  flopped a set ($19865) Td 4h [0m
-[34m  challengeBot ($20500) Ah Qh [0m
-[34m  mercBot ($19980) 7s 9s [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20500[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
- 
-[34mRound #25 complete.[0m
-[34mWinner was challengeBot  Amount won: $20515[0m
-[34mPositions: [0m
-[34mblaBot ($9805) had Qd Kd  [0m
-[34medi9999 ($9835) had 9d Tc  [0m
-[34mflopped a set ($19865) had Td 4h  [0m
-[34mchallengeBot ($20515) had Ah Qh  [0m
-[34mmercBot ($19980) had 7s 9s  [0m
-[34m=================================[0m
- 
-[34m==== Round #26 starting ====[0m
-[34m5 players:[0m
-[34m  edi9999 ($9835) [0m
-[34m  flopped a set ($19865) [0m
-[34m  challengeBot ($20515) [0m
-[34m  mercBot ($19980) [0m
-[34m  blaBot ($9805) [0m
- 
-[34m-- pre-flop[0m
-[34m  edi9999 ($9830) 7h 3s [0m
-[34m  flopped a set ($19855) 4d Ad [0m
-[34m  challengeBot ($20515) 7d 9c [0m
-[34m  mercBot ($19980) 9h Qh [0m
-[34m  blaBot ($9805) Tc 2h [0m
-[31m  edi9999  paid a blind of $5[0m
-[31m  flopped a set  paid a blind of $10[0m
-[31m  challengeBot went ALL IN with $20515[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
- 
-[34mRound #26 complete.[0m
-[34mWinner was challengeBot  Amount won: $20530[0m
-[34mPositions: [0m
-[34medi9999 ($9830) had 7h 3s  [0m
-[34mflopped a set ($19855) had 4d Ad  [0m
-[34mchallengeBot ($20530) had 7d 9c  [0m
-[34mmercBot ($19980) had 9h Qh  [0m
-[34mblaBot ($9805) had Tc 2h  [0m
-[34m=================================[0m
- 
-[34m==== Round #27 starting ====[0m
-[34m5 players:[0m
-[34m  flopped a set ($19855) [0m
-[34m  challengeBot ($20530) [0m
-[34m  mercBot ($19980) [0m
-[34m  blaBot ($9805) [0m
-[34m  edi9999 ($9830) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($19850) 3s 6c [0m
-[34m  challengeBot ($20520) Kc 9c [0m
-[34m  mercBot ($19980) 4d Ad [0m
-[34m  blaBot ($9805) Jc 2c [0m
-[34m  edi9999 ($9830) Kh 2h [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20520[0m
-[31m  blaBot folded[0m
- 
-[34mRound #27 complete.[0m
-[34mWinner was challengeBot  Amount won: $20545[0m
-[34mPositions: [0m
-[34mflopped a set ($19850) had 3s 6c  [0m
-[34mchallengeBot ($20545) had Kc 9c  [0m
-[34mmercBot ($19980) had 4d Ad  [0m
-[34mblaBot ($9795) had Jc 2c  [0m
-[34medi9999 ($9830) had Kh 2h  [0m
-[34m=================================[0m
- 
-[34m==== Round #28 starting ====[0m
-[34m5 players:[0m
-[34m  flopped a set ($19850) [0m
-[34m  challengeBot ($20545) [0m
-[34m  mercBot ($19980) [0m
-[34m  blaBot ($9795) [0m
-[34m  edi9999 ($9830) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($19845) 9d Kh [0m
-[34m  challengeBot ($20535) Qd 6d [0m
-[34m  mercBot ($19980) Qs 8d [0m
-[34m  blaBot ($9795) 5d 9c [0m
-[34m  edi9999 ($9830) Jh 3d [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20535[0m
-[31m  blaBot folded[0m
- 
-[34mRound #28 complete.[0m
-[34mWinner was challengeBot  Amount won: $20560[0m
-[34mPositions: [0m
-[34mflopped a set ($19845) had 9d Kh  [0m
-[34mchallengeBot ($20560) had Qd 6d  [0m
-[34mmercBot ($19980) had Qs 8d  [0m
-[34mblaBot ($9785) had 5d 9c  [0m
-[34medi9999 ($9830) had Jh 3d  [0m
-[34m=================================[0m
- 
-[34m==== Round #29 starting ====[0m
-[34m5 players:[0m
-[34m  flopped a set ($19845) [0m
-[34m  challengeBot ($20560) [0m
-[34m  mercBot ($19980) [0m
-[34m  blaBot ($9785) [0m
-[34m  edi9999 ($9830) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($19840) 7h 6d [0m
-[34m  challengeBot ($20550) 3h 6h [0m
-[34m  mercBot ($19980) 8s 5c [0m
-[34m  blaBot ($9785) Ts 9h [0m
-[34m  edi9999 ($9830) As 7s [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20550[0m
-[31m  blaBot folded[0m
- 
-[34mRound #29 complete.[0m
-[34mWinner was challengeBot  Amount won: $20575[0m
-[34mPositions: [0m
-[34mflopped a set ($19840) had 7h 6d  [0m
-[34mchallengeBot ($20575) had 3h 6h  [0m
-[34mmercBot ($19980) had 8s 5c  [0m
-[34mblaBot ($9775) had Ts 9h  [0m
-[34medi9999 ($9830) had As 7s  [0m
-[34m=================================[0m
- 
-[34m==== Round #30 starting ====[0m
-[34m5 players:[0m
-[34m  challengeBot ($20575) [0m
-[34m  mercBot ($19980) [0m
-[34m  blaBot ($9775) [0m
-[34m  edi9999 ($9830) [0m
-[34m  flopped a set ($19840) [0m
- 
-[34m-- pre-flop[0m
-[34m  challengeBot ($20570) 7s 7c [0m
-[34m  mercBot ($19970) 5d Qc [0m
-[34m  blaBot ($9775) Ad 3d [0m
-[34m  edi9999 ($9830) 2d 9d [0m
-[34m  flopped a set ($19840) Ac Td [0m
-[31m  challengeBot  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20570[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
- 
-[34mRound #30 complete.[0m
-[34mWinner was challengeBot  Amount won: $20595[0m
-[34mPositions: [0m
-[34mchallengeBot ($20595) had 7s 7c  [0m
-[34mmercBot ($19970) had 5d Qc  [0m
-[34mblaBot ($9765) had Ad 3d  [0m
-[34medi9999 ($9830) had 2d 9d  [0m
-[34mflopped a set ($19840) had Ac Td  [0m
-[34m=================================[0m
- 
-[34m==== Round #31 starting ====[0m
-[34m5 players:[0m
-[34m  mercBot ($19970) [0m
-[34m  blaBot ($9765) [0m
-[34m  edi9999 ($9830) [0m
-[34m  flopped a set ($19840) [0m
-[34m  challengeBot ($20595) [0m
- 
-[34m-- pre-flop[0m
-[34m  mercBot ($19965) 2d 6d [0m
-[34m  blaBot ($9755) 6s 7h [0m
-[34m  edi9999 ($9830) 4d 3s [0m
-[34m  flopped a set ($19840) 6h 3c [0m
-[34m  challengeBot ($20595) 8s Kc [0m
-[31m  mercBot  paid a blind of $5[0m
-[31m  blaBot  paid a blind of $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20595[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
- 
-[34mRound #31 complete.[0m
-[34mWinner was challengeBot  Amount won: $20610[0m
-[34mPositions: [0m
-[34mmercBot ($19965) had 2d 6d  [0m
-[34mblaBot ($9755) had 6s 7h  [0m
-[34medi9999 ($9830) had 4d 3s  [0m
-[34mflopped a set ($19840) had 6h 3c  [0m
-[34mchallengeBot ($20610) had 8s Kc  [0m
-[34m=================================[0m
- 
-[34m==== Round #32 starting ====[0m
-[34m5 players:[0m
-[34m  blaBot ($9755) [0m
-[34m  edi9999 ($9830) [0m
-[34m  flopped a set ($19840) [0m
-[34m  challengeBot ($20610) [0m
-[34m  mercBot ($19965) [0m
- 
-[34m-- pre-flop[0m
-[34m  blaBot ($9750) 4h Kh [0m
-[34m  edi9999 ($9820) Ts 5c [0m
-[34m  flopped a set ($19840) 4d Kd [0m
-[34m  challengeBot ($20610) 2c 3c [0m
-[34m  mercBot ($19965) Tc Qd [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20610[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
- 
-[34mRound #32 complete.[0m
-[34mWinner was challengeBot  Amount won: $20625[0m
-[34mPositions: [0m
-[34mblaBot ($9750) had 4h Kh  [0m
-[34medi9999 ($9820) had Ts 5c  [0m
-[34mflopped a set ($19840) had 4d Kd  [0m
-[34mchallengeBot ($20625) had 2c 3c  [0m
-[34mmercBot ($19965) had Tc Qd  [0m
-[34m=================================[0m
- 
-[34m==== Round #33 starting ====[0m
-[34m5 players:[0m
-[34m  blaBot ($9750) [0m
-[34m  edi9999 ($9820) [0m
-[34m  flopped a set ($19840) [0m
-[34m  challengeBot ($20625) [0m
-[34m  mercBot ($19965) [0m
- 
-[34m-- pre-flop[0m
-[34m  blaBot ($9745) 3s 6s [0m
-[34m  edi9999 ($9810) 6h Th [0m
-[34m  flopped a set ($19840) 9s Tc [0m
-[34m  challengeBot ($20625) Ah 7h [0m
-[34m  mercBot ($19965) 4c Jc [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20625[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
- 
-[34mRound #33 complete.[0m
-[34mWinner was challengeBot  Amount won: $20640[0m
-[34mPositions: [0m
-[34mblaBot ($9745) had 3s 6s  [0m
-[34medi9999 ($9810) had 6h Th  [0m
-[34mflopped a set ($19840) had 9s Tc  [0m
-[34mchallengeBot ($20640) had Ah 7h  [0m
-[34mmercBot ($19965) had 4c Jc  [0m
-[34m=================================[0m
- 
-[34m==== Round #34 starting ====[0m
-[34m5 players:[0m
-[34m  edi9999 ($9810) [0m
-[34m  flopped a set ($19840) [0m
-[34m  challengeBot ($20640) [0m
-[34m  mercBot ($19965) [0m
-[34m  blaBot ($9745) [0m
- 
-[34m-- pre-flop[0m
-[34m  edi9999 ($9805) Ac 3d [0m
-[34m  flopped a set ($19830) 3h 4c [0m
-[34m  challengeBot ($20640) 5c 9c [0m
-[34m  mercBot ($19965) 8h 7d [0m
-[34m  blaBot ($9745) Kc 6s [0m
-[31m  edi9999  paid a blind of $5[0m
-[31m  flopped a set  paid a blind of $10[0m
-[31m  challengeBot went ALL IN with $20640[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
- 
-[34mRound #34 complete.[0m
-[34mWinner was challengeBot  Amount won: $20655[0m
-[34mPositions: [0m
-[34medi9999 ($9805) had Ac 3d  [0m
-[34mflopped a set ($19830) had 3h 4c  [0m
-[34mchallengeBot ($20655) had 5c 9c  [0m
-[34mmercBot ($19965) had 8h 7d  [0m
-[34mblaBot ($9745) had Kc 6s  [0m
-[34m=================================[0m
- 
-[34m==== Round #35 starting ====[0m
-[34m5 players:[0m
-[34m  flopped a set ($19830) [0m
-[34m  challengeBot ($20655) [0m
-[34m  mercBot ($19965) [0m
-[34m  blaBot ($9745) [0m
-[34m  edi9999 ($9805) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($19825) 3d 2d [0m
-[34m  challengeBot ($20645) As 9h [0m
-[34m  mercBot ($19965) Kh Ts [0m
-[34m  blaBot ($9745) 8d 9d [0m
-[34m  edi9999 ($9805) 8s 7s [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20645[0m
-[31m  blaBot folded[0m
- 
-[34mRound #35 complete.[0m
-[34mWinner was challengeBot  Amount won: $20670[0m
-[34mPositions: [0m
-[34mflopped a set ($19825) had 3d 2d  [0m
-[34mchallengeBot ($20670) had As 9h  [0m
-[34mmercBot ($19965) had Kh Ts  [0m
-[34mblaBot ($9735) had 8d 9d  [0m
-[34medi9999 ($9805) had 8s 7s  [0m
-[34m=================================[0m
- 
-[34m==== Round #36 starting ====[0m
-[34m5 players:[0m
-[34m  flopped a set ($19825) [0m
-[34m  challengeBot ($20670) [0m
-[34m  mercBot ($19965) [0m
-[34m  blaBot ($9735) [0m
-[34m  edi9999 ($9805) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($19820) 3d Js [0m
-[34m  challengeBot ($20660) 7c 6h [0m
-[34m  mercBot ($19965) 4h 8h [0m
-[34m  blaBot ($9735) 6d Kd [0m
-[34m  edi9999 ($9805) Jc 9s [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20660[0m
-[31m  blaBot folded[0m
- 
-[34mRound #36 complete.[0m
-[34mWinner was challengeBot  Amount won: $20685[0m
-[34mPositions: [0m
-[34mflopped a set ($19820) had 3d Js  [0m
-[34mchallengeBot ($20685) had 7c 6h  [0m
-[34mmercBot ($19965) had 4h 8h  [0m
-[34mblaBot ($9725) had 6d Kd  [0m
-[34medi9999 ($9805) had Jc 9s  [0m
-[34m=================================[0m
- 
-[34m==== Round #37 starting ====[0m
-[34m5 players:[0m
-[34m  flopped a set ($19820) [0m
-[34m  challengeBot ($20685) [0m
-[34m  mercBot ($19965) [0m
-[34m  blaBot ($9725) [0m
-[34m  edi9999 ($9805) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($19815) Td 6s [0m
-[34m  challengeBot ($20675) 3s 8h [0m
-[34m  mercBot ($19965) Tc Js [0m
-[34m  blaBot ($9725) 5h Qs [0m
-[34m  edi9999 ($9805) 8s 9c [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20675[0m
-[31m  blaBot folded[0m
- 
-[34mRound #37 complete.[0m
-[34mWinner was challengeBot  Amount won: $20700[0m
-[34mPositions: [0m
-[34mflopped a set ($19815) had Td 6s  [0m
-[34mchallengeBot ($20700) had 3s 8h  [0m
-[34mmercBot ($19965) had Tc Js  [0m
-[34mblaBot ($9715) had 5h Qs  [0m
-[34medi9999 ($9805) had 8s 9c  [0m
-[34m=================================[0m
- 
-[34m==== Round #38 starting ====[0m
-[34m5 players:[0m
-[34m  challengeBot ($20700) [0m
-[34m  mercBot ($19965) [0m
-[34m  blaBot ($9715) [0m
-[34m  edi9999 ($9805) [0m
-[34m  flopped a set ($19815) [0m
- 
-[34m-- pre-flop[0m
-[34m  challengeBot ($20695) 6c 9c [0m
-[34m  mercBot ($19955) 5c Ad [0m
-[34m  blaBot ($9715) Kd 7d [0m
-[34m  edi9999 ($9805) 7c 3d [0m
-[34m  flopped a set ($19815) Tc 5h [0m
-[31m  challengeBot  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20695[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
- 
-[34mRound #38 complete.[0m
-[34mWinner was challengeBot  Amount won: $20720[0m
-[34mPositions: [0m
-[34mchallengeBot ($20720) had 6c 9c  [0m
-[34mmercBot ($19955) had 5c Ad  [0m
-[34mblaBot ($9705) had Kd 7d  [0m
-[34medi9999 ($9805) had 7c 3d  [0m
-[34mflopped a set ($19815) had Tc 5h  [0m
-[34m=================================[0m
- 
-[34m==== Round #39 starting ====[0m
-[34m5 players:[0m
-[34m  mercBot ($19955) [0m
-[34m  blaBot ($9705) [0m
-[34m  edi9999 ($9805) [0m
-[34m  flopped a set ($19815) [0m
-[34m  challengeBot ($20720) [0m
- 
-[34m-- pre-flop[0m
-[34m  mercBot ($19950) 4h 9c [0m
-[34m  blaBot ($9695) 8h 7s [0m
-[34m  edi9999 ($9805) 5c 7h [0m
-[34m  flopped a set ($19815) 2h 8s [0m
-[34m  challengeBot ($20720) 4c 2d [0m
-[31m  mercBot  paid a blind of $5[0m
-[31m  blaBot  paid a blind of $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20720[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
- 
-[34mRound #39 complete.[0m
-[34mWinner was challengeBot  Amount won: $20735[0m
-[34mPositions: [0m
-[34mmercBot ($19950) had 4h 9c  [0m
-[34mblaBot ($9695) had 8h 7s  [0m
-[34medi9999 ($9805) had 5c 7h  [0m
-[34mflopped a set ($19815) had 2h 8s  [0m
-[34mchallengeBot ($20735) had 4c 2d  [0m
-[34m=================================[0m
- 
-[34m==== Round #40 starting ====[0m
-[34m5 players:[0m
-[34m  blaBot ($9695) [0m
-[34m  edi9999 ($9805) [0m
-[34m  flopped a set ($19815) [0m
-[34m  challengeBot ($20735) [0m
-[34m  mercBot ($19950) [0m
- 
-[34m-- pre-flop[0m
-[34m  blaBot ($9690) 9h 3h [0m
-[34m  edi9999 ($9795) Qd 8c [0m
-[34m  flopped a set ($19815) Td Jc [0m
-[34m  challengeBot ($20735) 6s 9s [0m
-[34m  mercBot ($19950) Ts 5h [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20735[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
- 
-[34mRound #40 complete.[0m
-[34mWinner was challengeBot  Amount won: $20750[0m
-[34mPositions: [0m
-[34mblaBot ($9690) had 9h 3h  [0m
-[34medi9999 ($9795) had Qd 8c  [0m
-[34mflopped a set ($19815) had Td Jc  [0m
-[34mchallengeBot ($20750) had 6s 9s  [0m
-[34mmercBot ($19950) had Ts 5h  [0m
-[34m=================================[0m
- 
-[34m==== Round #41 starting ====[0m
-[34m5 players:[0m
-[34m  blaBot ($9690) [0m
-[34m  edi9999 ($9795) [0m
-[34m  flopped a set ($19815) [0m
-[34m  challengeBot ($20750) [0m
-[34m  mercBot ($19950) [0m
- 
-[34m-- pre-flop[0m
-[34m  blaBot ($9685) 4s 6d [0m
-[34m  edi9999 ($9785) Ah Qc [0m
-[34m  flopped a set ($19815) 3c Qd [0m
-[34m  challengeBot ($20750) 2h 8s [0m
-[34m  mercBot ($19950) 7h 4h [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20750[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
- 
-[34mRound #41 complete.[0m
-[34mWinner was challengeBot  Amount won: $20765[0m
-[34mPositions: [0m
-[34mblaBot ($9685) had 4s 6d  [0m
-[34medi9999 ($9785) had Ah Qc  [0m
-[34mflopped a set ($19815) had 3c Qd  [0m
-[34mchallengeBot ($20765) had 2h 8s  [0m
-[34mmercBot ($19950) had 7h 4h  [0m
-[34m=================================[0m
- 
-[34m==== Round #42 starting ====[0m
-[34m5 players:[0m
-[34m  edi9999 ($9785) [0m
-[34m  flopped a set ($19815) [0m
-[34m  challengeBot ($20765) [0m
-[34m  mercBot ($19950) [0m
-[34m  blaBot ($9685) [0m
- 
-[34m-- pre-flop[0m
-[34m  edi9999 ($9780) 4s Td [0m
-[34m  flopped a set ($19805) As 3d [0m
-[34m  challengeBot ($20765) 3h 6c [0m
-[34m  mercBot ($19950) Ah 7d [0m
-[34m  blaBot ($9685) Qh 7c [0m
-[31m  edi9999  paid a blind of $5[0m
-[31m  flopped a set  paid a blind of $10[0m
-[31m  challengeBot went ALL IN with $20765[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
- 
-[34mRound #42 complete.[0m
-[34mWinner was challengeBot  Amount won: $20780[0m
-[34mPositions: [0m
-[34medi9999 ($9780) had 4s Td  [0m
-[34mflopped a set ($19805) had As 3d  [0m
-[34mchallengeBot ($20780) had 3h 6c  [0m
-[34mmercBot ($19950) had Ah 7d  [0m
-[34mblaBot ($9685) had Qh 7c  [0m
-[34m=================================[0m
- 
-[34m==== Round #43 starting ====[0m
-[34m5 players:[0m
-[34m  flopped a set ($19805) [0m
-[34m  challengeBot ($20780) [0m
-[34m  mercBot ($19950) [0m
-[34m  blaBot ($9685) [0m
-[34m  edi9999 ($9780) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($19800) 4c 7d [0m
-[34m  challengeBot ($20770) Tc 7s [0m
-[34m  mercBot ($19950) Jd 9c [0m
-[34m  blaBot ($9685) 8c Th [0m
-[34m  edi9999 ($9780) 9d 3c [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20770[0m
-[31m  blaBot folded[0m
- 
-[34mRound #43 complete.[0m
-[34mWinner was challengeBot  Amount won: $20795[0m
-[34mPositions: [0m
-[34mflopped a set ($19800) had 4c 7d  [0m
-[34mchallengeBot ($20795) had Tc 7s  [0m
-[34mmercBot ($19950) had Jd 9c  [0m
-[34mblaBot ($9675) had 8c Th  [0m
-[34medi9999 ($9780) had 9d 3c  [0m
-[34m=================================[0m
- 
-[34m==== Round #44 starting ====[0m
-[34m5 players:[0m
-[34m  flopped a set ($19800) [0m
-[34m  challengeBot ($20795) [0m
-[34m  mercBot ($19950) [0m
-[34m  blaBot ($9675) [0m
-[34m  edi9999 ($9780) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($19795) Tc 9s [0m
-[34m  challengeBot ($20785) Kh 7h [0m
-[34m  mercBot ($19950) 6d 3h [0m
-[34m  blaBot ($9675) 9d 9c [0m
-[34m  edi9999 ($9780) 4s 5d [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20785[0m
-[31m  blaBot folded[0m
- 
-[34mRound #44 complete.[0m
-[34mWinner was challengeBot  Amount won: $20810[0m
-[34mPositions: [0m
-[34mflopped a set ($19795) had Tc 9s  [0m
-[34mchallengeBot ($20810) had Kh 7h  [0m
-[34mmercBot ($19950) had 6d 3h  [0m
-[34mblaBot ($9665) had 9d 9c  [0m
-[34medi9999 ($9780) had 4s 5d  [0m
-[34m=================================[0m
- 
-[34m==== Round #45 starting ====[0m
-[34m5 players:[0m
-[34m  flopped a set ($19795) [0m
-[34m  challengeBot ($20810) [0m
-[34m  mercBot ($19950) [0m
-[34m  blaBot ($9665) [0m
-[34m  edi9999 ($9780) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($19790) 5s Jc [0m
-[34m  challengeBot ($20800) 7d 9d [0m
-[34m  mercBot ($19950) 4d 3h [0m
-[34m  blaBot ($9665) Ac Qh [0m
-[34m  edi9999 ($9780) 7s 3c [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20800[0m
-[31m  blaBot folded[0m
- 
-[34mRound #45 complete.[0m
-[34mWinner was challengeBot  Amount won: $20825[0m
-[34mPositions: [0m
-[34mflopped a set ($19790) had 5s Jc  [0m
-[34mchallengeBot ($20825) had 7d 9d  [0m
-[34mmercBot ($19950) had 4d 3h  [0m
-[34mblaBot ($9655) had Ac Qh  [0m
-[34medi9999 ($9780) had 7s 3c  [0m
-[34m=================================[0m
- 
-[34m==== Round #46 starting ====[0m
-[34m5 players:[0m
-[34m  challengeBot ($20825) [0m
-[34m  mercBot ($19950) [0m
-[34m  blaBot ($9655) [0m
-[34m  edi9999 ($9780) [0m
-[34m  flopped a set ($19790) [0m
- 
-[34m-- pre-flop[0m
-[34m  challengeBot ($20820) Jd 6c [0m
-[34m  mercBot ($19940) Qd 5d [0m
-[34m  blaBot ($9655) Js Qc [0m
-[34m  edi9999 ($9780) 7s 2s [0m
-[34m  flopped a set ($19790) 8c 3c [0m
-[31m  challengeBot  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20820[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
- 
-[34mRound #46 complete.[0m
-[34mWinner was challengeBot  Amount won: $20845[0m
-[34mPositions: [0m
-[34mchallengeBot ($20845) had Jd 6c  [0m
-[34mmercBot ($19940) had Qd 5d  [0m
-[34mblaBot ($9645) had Js Qc  [0m
-[34medi9999 ($9780) had 7s 2s  [0m
-[34mflopped a set ($19790) had 8c 3c  [0m
-[34m=================================[0m
- 
-[34m==== Round #47 starting ====[0m
-[34m5 players:[0m
-[34m  mercBot ($19940) [0m
-[34m  blaBot ($9645) [0m
-[34m  edi9999 ($9780) [0m
-[34m  flopped a set ($19790) [0m
-[34m  challengeBot ($20845) [0m
- 
-[34m-- pre-flop[0m
-[34m  mercBot ($19935) 3s 8d [0m
-[34m  blaBot ($9635) Kc 5c [0m
-[34m  edi9999 ($9780) 5h Ks [0m
-[34m  flopped a set ($19790) 5s Ah [0m
-[34m  challengeBot ($20845) 6h 3c [0m
-[31m  mercBot  paid a blind of $5[0m
-[31m  blaBot  paid a blind of $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20845[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
- 
-[34mRound #47 complete.[0m
-[34mWinner was challengeBot  Amount won: $20860[0m
-[34mPositions: [0m
-[34mmercBot ($19935) had 3s 8d  [0m
-[34mblaBot ($9635) had Kc 5c  [0m
-[34medi9999 ($9780) had 5h Ks  [0m
-[34mflopped a set ($19790) had 5s Ah  [0m
-[34mchallengeBot ($20860) had 6h 3c  [0m
-[34m=================================[0m
- 
-[34m==== Round #48 starting ====[0m
-[34m5 players:[0m
-[34m  blaBot ($9635) [0m
-[34m  edi9999 ($9780) [0m
-[34m  flopped a set ($19790) [0m
-[34m  challengeBot ($20860) [0m
-[34m  mercBot ($19935) [0m
- 
-[34m-- pre-flop[0m
-[34m  blaBot ($9630) Jh 5s [0m
-[34m  edi9999 ($9770) 9d 3d [0m
-[34m  flopped a set ($19790) 5c Kd [0m
-[34m  challengeBot ($20860) 7h Qh [0m
-[34m  mercBot ($19935) 8s Qc [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20860[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
- 
-[34mRound #48 complete.[0m
-[34mWinner was challengeBot  Amount won: $20875[0m
-[34mPositions: [0m
-[34mblaBot ($9630) had Jh 5s  [0m
-[34medi9999 ($9770) had 9d 3d  [0m
-[34mflopped a set ($19790) had 5c Kd  [0m
-[34mchallengeBot ($20875) had 7h Qh  [0m
-[34mmercBot ($19935) had 8s Qc  [0m
-[34m=================================[0m
- 
-[34m==== Round #49 starting ====[0m
-[34m5 players:[0m
-[34m  blaBot ($9630) [0m
-[34m  edi9999 ($9770) [0m
-[34m  flopped a set ($19790) [0m
-[34m  challengeBot ($20875) [0m
-[34m  mercBot ($19935) [0m
- 
-[34m-- pre-flop[0m
-[34m  blaBot ($9625) 6d Js [0m
-[34m  edi9999 ($9760) 4s 4d [0m
-[34m  flopped a set ($19790) 9h 4h [0m
-[34m  challengeBot ($20875) Ah 7h [0m
-[34m  mercBot ($19935) 3c Th [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20875[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
- 
-[34mRound #49 complete.[0m
-[34mWinner was challengeBot  Amount won: $20890[0m
-[34mPositions: [0m
-[34mblaBot ($9625) had 6d Js  [0m
-[34medi9999 ($9760) had 4s 4d  [0m
-[34mflopped a set ($19790) had 9h 4h  [0m
-[34mchallengeBot ($20890) had Ah 7h  [0m
-[34mmercBot ($19935) had 3c Th  [0m
-[34m=================================[0m
- 
-[34m==== Round #50 starting ====[0m
-[34m5 players:[0m
-[34m  edi9999 ($9760) [0m
-[34m  flopped a set ($19790) [0m
-[34m  challengeBot ($20890) [0m
-[34m  mercBot ($19935) [0m
-[34m  blaBot ($9625) [0m
- 
-[34m-- pre-flop[0m
-[34m  edi9999 ($9755) Js 8c [0m
-[34m  flopped a set ($19780) Jc Ah [0m
-[34m  challengeBot ($20890) Ac 2c [0m
-[34m  mercBot ($19935) Ks 6d [0m
-[34m  blaBot ($9625) 9d Jd [0m
-[31m  edi9999  paid a blind of $5[0m
-[31m  flopped a set  paid a blind of $10[0m
-[31m  challengeBot went ALL IN with $20890[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
- 
-[34mRound #50 complete.[0m
-[34mWinner was challengeBot  Amount won: $20905[0m
-[34mPositions: [0m
-[34medi9999 ($9755) had Js 8c  [0m
-[34mflopped a set ($19780) had Jc Ah  [0m
-[34mchallengeBot ($20905) had Ac 2c  [0m
-[34mmercBot ($19935) had Ks 6d  [0m
-[34mblaBot ($9625) had 9d Jd  [0m
-[34m=================================[0m
- 
-[34m==== Round #51 starting ====[0m
-[34m5 players:[0m
-[34m  flopped a set ($19780) [0m
-[34m  challengeBot ($20905) [0m
-[34m  mercBot ($19935) [0m
-[34m  blaBot ($9625) [0m
-[34m  edi9999 ($9755) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($19775) Td 7h [0m
-[34m  challengeBot ($20895) 3d Ad [0m
-[34m  mercBot ($19935) 8s 9d [0m
-[34m  blaBot ($9625) Qc 6h [0m
-[34m  edi9999 ($9755) Qd Kc [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 raised by $40[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $20895[0m
-[31m  blaBot folded[0m
-[31m  edi9999 folded[0m
- 
-[34mRound #51 complete.[0m
-[34mWinner was challengeBot  Amount won: $20960[0m
-[34mPositions: [0m
-[34mflopped a set ($19775) had Td 7h  [0m
-[34mchallengeBot ($20960) had 3d Ad  [0m
-[34mmercBot ($19935) had 8s 9d  [0m
-[34mblaBot ($9615) had Qc 6h  [0m
-[34medi9999 ($9715) had Qd Kc  [0m
-[34m=================================[0m
- 
-[34m==== Round #52 starting ====[0m
-[34m5 players:[0m
-[34m  flopped a set ($19775) [0m
-[34m  challengeBot ($20960) [0m
-[34m  mercBot ($19935) [0m
-[34m  blaBot ($9615) [0m
-[34m  edi9999 ($9715) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($19770) Qs Qh [0m
-[34m  challengeBot ($20950) 9c Kc [0m
-[34m  mercBot ($19935) 9d 2d [0m
-[34m  blaBot ($9615) 2h 6h [0m
-[34m  edi9999 ($9715) 5h 4d [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set went ALL IN with $19770[0m
-[31m  challengeBot went ALL IN with $20950[0m
-[31m  blaBot folded[0m
- 
-[34m-- flop[0m
-[34m Cards are: 8d 8h 3d [0m
-[34m Pot is: 40745[0m
-[34m  flopped a set ($0) Qs,Qh (Two pair)[0m
-[34m  challengeBot ($0) 9c,Kc (One pair)[0m
-[31m Actions: [0m
- 
-[34m-- turn[0m
-[34m Cards are: 8d 8h 3d 3s [0m
-[34m Pot is: 40745[0m
-[34m  flopped a set ($0) Qs,Qh (Two pair)[0m
-[34m  challengeBot ($0) 9c,Kc (Two pair)[0m
-[31m Actions: [0m
- 
-[34m-- river[0m
-[34m Cards are: 8d 8h 3d 3s 6s [0m
-[34m Pot is: 40745[0m
-[34m  flopped a set ($0) Qs,Qh (Two pair)[0m
-[34m  challengeBot ($0) 9c,Kc (Two pair)[0m
-[31m Actions: [0m
- 
-[34m-- final[0m
-[34m Cards are: 8d 8h 3d 3s 6s [0m
-[34m Pot is: 40745[0m
-[34m  flopped a set ($0) Qs,Qh (Two pair)[0m
-[34m  challengeBot ($0) 9c,Kc (Two pair)[0m
-[31m Actions: [0m
- 
-[34mRound #52 complete.[0m
-[34mWinners are:[0m
-[34mflopped a set with Two pair. Amount won: $39560[0m
-[34mchallengeBot with Two pair. Amount won: $1185[0m
-[34mPositions: [0m
-[34mflopped a set ($39560) had Qs Qh  (Two pair)[0m
-[34mchallengeBot ($1185) had 9c Kc  (Two pair)[0m
-[34mmercBot ($19935) had 9d 2d  [0m
-[34mblaBot ($9605) had 2h 6h  [0m
-[34medi9999 ($9715) had 5h 4d  [0m
-[34m=================================[0m
- 
-[34m==== Round #53 starting ====[0m
-[34m5 players:[0m
-[34m  flopped a set ($39560) [0m
-[34m  challengeBot ($1185) [0m
-[34m  mercBot ($19935) [0m
-[34m  blaBot ($9605) [0m
-[34m  edi9999 ($9715) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($39555) Kc 8s [0m
-[34m  challengeBot ($1175) 8h Ks [0m
-[34m  mercBot ($19935) Js 6d [0m
-[34m  blaBot ($9605) 6h 3h [0m
-[34m  edi9999 ($9715) Ts Ah [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  challengeBot  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 raised by $40[0m
-[31m  flopped a set folded[0m
-[31m  challengeBot went ALL IN with $1175[0m
-[31m  blaBot called $1175[0m
-[31m  edi9999 folded[0m
- 
-[34m-- flop[0m
-[34m Cards are: 7h Th 4d [0m
-[34m Pot is: 2415[0m
-[34m  challengeBot ($0) 8h,Ks[0m
-[34m  blaBot ($8420) 6h,3h[0m
-[31m Actions: [0m
-[31m  blaBot checked[0m
- 
-[34m-- turn[0m
-[34m Cards are: 7h Th 4d 5c [0m
-[34m Pot is: 2415[0m
-[34m  challengeBot ($0) 8h,Ks[0m
-[34m  blaBot ($8420) 6h,3h (Straight)[0m
-[31m Actions: [0m
-[31m  blaBot checked[0m
- 
-[34m-- river[0m
-[34m Cards are: 7h Th 4d 5c As [0m
-[34m Pot is: 2415[0m
-[34m  challengeBot ($0) 8h,Ks[0m
-[34m  blaBot ($8420) 6h,3h (Straight)[0m
-[31m Actions: [0m
-[31m  blaBot checked[0m
- 
-[34m-- final[0m
-[34m Cards are: 7h Th 4d 5c As [0m
-[34m Pot is: 2415[0m
-[34m  challengeBot ($0) 8h,Ks[0m
-[34m  blaBot ($8420) 6h,3h (Straight)[0m
-[31m Actions: [0m
- 
-[34mRound #53 complete.[0m
-[34mWinner was blaBot with Straight Amount won: $2415[0m
-[34mPositions: [0m
-[34mflopped a set ($39555) had Kc 8s  [0m
-[34mchallengeBot ($0) had 8h Ks  (High card)[0m
-[34mmercBot ($19935) had Js 6d  [0m
-[34mblaBot ($10835) had 6h 3h  (Straight)[0m
-[34medi9999 ($9675) had Ts Ah  [0m
-[34m=================================[0m
- 
-[34m==== Round #54 starting ====[0m
-[34m4 players:[0m
-[34m  mercBot ($19935) [0m
-[34m  blaBot ($10835) [0m
-[34m  edi9999 ($9675) [0m
-[34m  flopped a set ($39555) [0m
- 
-[34m-- pre-flop[0m
-[34m  mercBot ($19930) 6d 2s [0m
-[34m  blaBot ($10825) Kd Qc [0m
-[34m  edi9999 ($9675) 2d Ac [0m
-[34m  flopped a set ($39555) Ah 7c [0m
-[31m  mercBot  paid a blind of $5[0m
-[31m  blaBot  paid a blind of $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
- 
-[34mRound #54 complete.[0m
-[34mWinner was blaBot  Amount won: $15[0m
-[34mPositions: [0m
-[34mmercBot ($19930) had 6d 2s  [0m
-[34mblaBot ($10840) had Kd Qc  [0m
-[34medi9999 ($9675) had 2d Ac  [0m
-[34mflopped a set ($39555) had Ah 7c  [0m
-[34m=================================[0m
- 
-[34m==== Round #55 starting ====[0m
-[34m4 players:[0m
-[34m  mercBot ($19930) [0m
-[34m  blaBot ($10840) [0m
-[34m  edi9999 ($9675) [0m
-[34m  flopped a set ($39555) [0m
- 
-[34m-- pre-flop[0m
-[34m  mercBot ($19925) 8s Kd [0m
-[34m  blaBot ($10830) 9s Jc [0m
-[34m  edi9999 ($9675) 8c Ks [0m
-[34m  flopped a set ($39555) Kc 8h [0m
-[31m  mercBot  paid a blind of $5[0m
-[31m  blaBot  paid a blind of $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
- 
-[34mRound #55 complete.[0m
-[34mWinner was blaBot  Amount won: $15[0m
-[34mPositions: [0m
-[34mmercBot ($19925) had 8s Kd  [0m
-[34mblaBot ($10845) had 9s Jc  [0m
-[34medi9999 ($9675) had 8c Ks  [0m
-[34mflopped a set ($39555) had Kc 8h  [0m
-[34m=================================[0m
- 
-[34m==== Round #56 starting ====[0m
-[34m4 players:[0m
-[34m  blaBot ($10845) [0m
-[34m  edi9999 ($9675) [0m
-[34m  flopped a set ($39555) [0m
-[34m  mercBot ($19925) [0m
- 
-[34m-- pre-flop[0m
-[34m  blaBot ($10840) Kc 9h [0m
-[34m  edi9999 ($9665) Ah 3s [0m
-[34m  flopped a set ($39555) 8h 9d [0m
-[34m  mercBot ($19925) 4d 3c [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $5[0m
-[31m  edi9999 checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: Qh 5d 7s [0m
-[34m Pot is: 20[0m
-[34m  blaBot ($10835) Kc,9h[0m
-[34m  edi9999 ($9665) Ah,3s[0m
-[31m Actions: [0m
-[31m  blaBot checked[0m
-[31m  edi9999 raised by $10[0m
-[31m  blaBot folded[0m
- 
-[34mRound #56 complete.[0m
-[34mWinner was edi9999  Amount won: $30[0m
-[34mPositions: [0m
-[34mblaBot ($10835) had Kc 9h  [0m
-[34medi9999 ($9685) had Ah 3s  [0m
-[34mflopped a set ($39555) had 8h 9d  [0m
-[34mmercBot ($19925) had 4d 3c  [0m
-[34m=================================[0m
- 
-[34m==== Round #57 starting ====[0m
-[34m4 players:[0m
-[34m  blaBot ($10835) [0m
-[34m  edi9999 ($9685) [0m
-[34m  flopped a set ($39555) [0m
-[34m  mercBot ($19925) [0m
- 
-[34m-- pre-flop[0m
-[34m  blaBot ($10830) 2d Td [0m
-[34m  edi9999 ($9675) 7h As [0m
-[34m  flopped a set ($39555) Kd 2s [0m
-[34m  mercBot ($19925) Jh Jc [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  mercBot raised by $20[0m
-[31m  blaBot called $15[0m
-[31m  edi9999 folded[0m
- 
-[34m-- flop[0m
-[34m Cards are: Kc 6s 8h [0m
-[34m Pot is: 50[0m
-[34m  blaBot ($10815) 2d,Td[0m
-[34m  mercBot ($19905) Jh,Jc (One pair)[0m
-[31m Actions: [0m
-[31m  blaBot checked[0m
-[31m  mercBot raised by $10[0m
-[31m  blaBot folded[0m
- 
-[34mRound #57 complete.[0m
-[34mWinner was mercBot  Amount won: $60[0m
-[34mPositions: [0m
-[34mblaBot ($10815) had 2d Td  [0m
-[34medi9999 ($9675) had 7h As  [0m
-[34mflopped a set ($39555) had Kd 2s  [0m
-[34mmercBot ($19955) had Jh Jc  [0m
-[34m=================================[0m
- 
-[34m==== Round #58 starting ====[0m
-[34m4 players:[0m
-[34m  edi9999 ($9675) [0m
-[34m  flopped a set ($39555) [0m
-[34m  mercBot ($19955) [0m
-[34m  blaBot ($10815) [0m
- 
-[34m-- pre-flop[0m
-[34m  edi9999 ($9670) 7h 4s [0m
-[34m  flopped a set ($39545) Kh Qh [0m
-[34m  mercBot ($19955) 2h Kc [0m
-[34m  blaBot ($10815) 3d 6h [0m
-[31m  edi9999  paid a blind of $5[0m
-[31m  flopped a set  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: 7c Qc 8s [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39545) Kh,Qh (One pair)[0m
-[34m  blaBot ($10805) 3d,6h[0m
-[31m Actions: [0m
-[31m  flopped a set checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- turn[0m
-[34m Cards are: 7c Qc 8s 6s [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39545) Kh,Qh (One pair)[0m
-[34m  blaBot ($10805) 3d,6h (One pair)[0m
-[31m Actions: [0m
-[31m  flopped a set checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- river[0m
-[34m Cards are: 7c Qc 8s 6s 7d [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39545) Kh,Qh (Two pair)[0m
-[34m  blaBot ($10805) 3d,6h (Two pair)[0m
-[31m Actions: [0m
-[31m  flopped a set checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- final[0m
-[34m Cards are: 7c Qc 8s 6s 7d [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39545) Kh,Qh (Two pair)[0m
-[34m  blaBot ($10805) 3d,6h (Two pair)[0m
-[31m Actions: [0m
- 
-[34mRound #58 complete.[0m
-[34mWinner was flopped a set with Two pair Amount won: $25[0m
-[34mPositions: [0m
-[34medi9999 ($9670) had 7h 4s  [0m
-[34mflopped a set ($39570) had Kh Qh  (Two pair)[0m
-[34mmercBot ($19955) had 2h Kc  [0m
-[34mblaBot ($10805) had 3d 6h  (Two pair)[0m
-[34m=================================[0m
- 
-[34m==== Round #59 starting ====[0m
-[34m4 players:[0m
-[34m  flopped a set ($39570) [0m
-[34m  mercBot ($19955) [0m
-[34m  blaBot ($10805) [0m
-[34m  edi9999 ($9670) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($39565) Td 4s [0m
-[34m  mercBot ($19945) 9c 5c [0m
-[34m  blaBot ($10805) Js 9s [0m
-[34m  edi9999 ($9670) Qs Kc [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 raised by $40[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $30[0m
- 
-[34m-- flop[0m
-[34m Cards are: Qh 3c 6c [0m
-[34m Pot is: 95[0m
-[34m  blaBot ($10765) Js,9s[0m
-[34m  edi9999 ($9630) Qs,Kc (One pair)[0m
-[31m Actions: [0m
-[31m  blaBot checked[0m
-[31m  edi9999 went ALL IN with $9630[0m
-[31m  blaBot folded[0m
- 
-[34mRound #59 complete.[0m
-[34mWinner was edi9999  Amount won: $9725[0m
-[34mPositions: [0m
-[34mflopped a set ($39565) had Td 4s  [0m
-[34mmercBot ($19945) had 9c 5c  [0m
-[34mblaBot ($10765) had Js 9s  [0m
-[34medi9999 ($9725) had Qs Kc  [0m
-[34m=================================[0m
- 
-[34m==== Round #60 starting ====[0m
-[34m4 players:[0m
-[34m  flopped a set ($39565) [0m
-[34m  mercBot ($19945) [0m
-[34m  blaBot ($10765) [0m
-[34m  edi9999 ($9725) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($39560) 9h 7c [0m
-[34m  mercBot ($19935) 6s Jd [0m
-[34m  blaBot ($10765) Ts Td [0m
-[34m  edi9999 ($9725) 5c 7d [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: As 6c Tc [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19935) 6s,Jd (One pair)[0m
-[34m  blaBot ($10755) Ts,Td (Three of a kind)[0m
-[31m Actions: [0m
-[31m  mercBot raised by $10[0m
-[31m  blaBot folded[0m
- 
-[34mRound #60 complete.[0m
-[34mWinner was mercBot  Amount won: $35[0m
-[34mPositions: [0m
-[34mflopped a set ($39560) had 9h 7c  [0m
-[34mmercBot ($19960) had 6s Jd  [0m
-[34mblaBot ($10755) had Ts Td  [0m
-[34medi9999 ($9725) had 5c 7d  [0m
-[34m=================================[0m
- 
-[34m==== Round #61 starting ====[0m
-[34m4 players:[0m
-[34m  flopped a set ($39560) [0m
-[34m  mercBot ($19960) [0m
-[34m  blaBot ($10755) [0m
-[34m  edi9999 ($9725) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($39555) 4h 6h [0m
-[34m  mercBot ($19950) 3s 8d [0m
-[34m  blaBot ($10755) Ad Th [0m
-[34m  edi9999 ($9725) 3c Tc [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: 5s 4s Jd [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19950) 3s,8d[0m
-[34m  blaBot ($10745) Ad,Th[0m
-[31m Actions: [0m
-[31m  mercBot checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- turn[0m
-[34m Cards are: 5s 4s Jd 6d [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19950) 3s,8d[0m
-[34m  blaBot ($10745) Ad,Th[0m
-[31m Actions: [0m
-[31m  mercBot checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- river[0m
-[34m Cards are: 5s 4s Jd 6d 5c [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19950) 3s,8d (One pair)[0m
-[34m  blaBot ($10745) Ad,Th (One pair)[0m
-[31m Actions: [0m
-[31m  mercBot raised by $20[0m
-[31m  blaBot called $20[0m
- 
-[34m-- final[0m
-[34m Cards are: 5s 4s Jd 6d 5c [0m
-[34m Pot is: 65[0m
-[34m  mercBot ($19930) 3s,8d (One pair)[0m
-[34m  blaBot ($10725) Ad,Th (One pair)[0m
-[31m Actions: [0m
- 
-[34mRound #61 complete.[0m
-[34mWinner was blaBot with One pair Amount won: $65[0m
-[34mPositions: [0m
-[34mflopped a set ($39555) had 4h 6h  [0m
-[34mmercBot ($19930) had 3s 8d  (One pair)[0m
-[34mblaBot ($10790) had Ad Th  (One pair)[0m
-[34medi9999 ($9725) had 3c Tc  [0m
-[34m=================================[0m
- 
-[34m==== Round #62 starting ====[0m
-[34m4 players:[0m
-[34m  mercBot ($19930) [0m
-[34m  blaBot ($10790) [0m
-[34m  edi9999 ($9725) [0m
-[34m  flopped a set ($39555) [0m
- 
-[34m-- pre-flop[0m
-[34m  mercBot ($19925) 8c Ad [0m
-[34m  blaBot ($10780) Js Qs [0m
-[34m  edi9999 ($9725) 7s 6d [0m
-[34m  flopped a set ($39555) 3h 4d [0m
-[31m  mercBot  paid a blind of $5[0m
-[31m  blaBot  paid a blind of $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
- 
-[34mRound #62 complete.[0m
-[34mWinner was blaBot  Amount won: $15[0m
-[34mPositions: [0m
-[34mmercBot ($19925) had 8c Ad  [0m
-[34mblaBot ($10795) had Js Qs  [0m
-[34medi9999 ($9725) had 7s 6d  [0m
-[34mflopped a set ($39555) had 3h 4d  [0m
-[34m=================================[0m
- 
-[34m==== Round #63 starting ====[0m
-[34m4 players:[0m
-[34m  mercBot ($19925) [0m
-[34m  blaBot ($10795) [0m
-[34m  edi9999 ($9725) [0m
-[34m  flopped a set ($39555) [0m
- 
-[34m-- pre-flop[0m
-[34m  mercBot ($19920) Kd 8c [0m
-[34m  blaBot ($10785) Ad 9h [0m
-[34m  edi9999 ($9725) Ks 8s [0m
-[34m  flopped a set ($39555) 6d 2c [0m
-[31m  mercBot  paid a blind of $5[0m
-[31m  blaBot  paid a blind of $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
- 
-[34mRound #63 complete.[0m
-[34mWinner was blaBot  Amount won: $15[0m
-[34mPositions: [0m
-[34mmercBot ($19920) had Kd 8c  [0m
-[34mblaBot ($10800) had Ad 9h  [0m
-[34medi9999 ($9725) had Ks 8s  [0m
-[34mflopped a set ($39555) had 6d 2c  [0m
-[34m=================================[0m
- 
-[34m==== Round #64 starting ====[0m
-[34m4 players:[0m
-[34m  blaBot ($10800) [0m
-[34m  edi9999 ($9725) [0m
-[34m  flopped a set ($39555) [0m
-[34m  mercBot ($19920) [0m
- 
-[34m-- pre-flop[0m
-[34m  blaBot ($10795) 3d Ah [0m
-[34m  edi9999 ($9715) Qh 8s [0m
-[34m  flopped a set ($39555) 9s Qc [0m
-[34m  mercBot ($19920) 2s 4s [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $5[0m
-[31m  edi9999 checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: 2c 7s 3h [0m
-[34m Pot is: 20[0m
-[34m  blaBot ($10790) 3d,Ah (One pair)[0m
-[34m  edi9999 ($9715) Qh,8s[0m
-[31m Actions: [0m
-[31m  blaBot checked[0m
-[31m  edi9999 raised by $10[0m
-[31m  blaBot folded[0m
- 
-[34mRound #64 complete.[0m
-[34mWinner was edi9999  Amount won: $30[0m
-[34mPositions: [0m
-[34mblaBot ($10790) had 3d Ah  [0m
-[34medi9999 ($9735) had Qh 8s  [0m
-[34mflopped a set ($39555) had 9s Qc  [0m
-[34mmercBot ($19920) had 2s 4s  [0m
-[34m=================================[0m
- 
-[34m==== Round #65 starting ====[0m
-[34m4 players:[0m
-[34m  blaBot ($10790) [0m
-[34m  edi9999 ($9735) [0m
-[34m  flopped a set ($39555) [0m
-[34m  mercBot ($19920) [0m
- 
-[34m-- pre-flop[0m
-[34m  blaBot ($10785) Kd 3c [0m
-[34m  edi9999 ($9725) 6c Jd [0m
-[34m  flopped a set ($39555) 4h 5s [0m
-[34m  mercBot ($19920) As 6d [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $5[0m
-[31m  edi9999 checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: Kh 9s 3d [0m
-[34m Pot is: 20[0m
-[34m  blaBot ($10780) Kd,3c (Two pair)[0m
-[34m  edi9999 ($9725) 6c,Jd[0m
-[31m Actions: [0m
-[31m  blaBot checked[0m
-[31m  edi9999 raised by $10[0m
-[31m  blaBot folded[0m
- 
-[34mRound #65 complete.[0m
-[34mWinner was edi9999  Amount won: $30[0m
-[34mPositions: [0m
-[34mblaBot ($10780) had Kd 3c  [0m
-[34medi9999 ($9745) had 6c Jd  [0m
-[34mflopped a set ($39555) had 4h 5s  [0m
-[34mmercBot ($19920) had As 6d  [0m
-[34m=================================[0m
- 
-[34m==== Round #66 starting ====[0m
-[34m4 players:[0m
-[34m  edi9999 ($9745) [0m
-[34m  flopped a set ($39555) [0m
-[34m  mercBot ($19920) [0m
-[34m  blaBot ($10780) [0m
- 
-[34m-- pre-flop[0m
-[34m  edi9999 ($9740) 3h 8h [0m
-[34m  flopped a set ($39545) 4h Jh [0m
-[34m  mercBot ($19920) 7s 2h [0m
-[34m  blaBot ($10780) Ah 5s [0m
-[31m  edi9999  paid a blind of $5[0m
-[31m  flopped a set  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: Td 6c 8s [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39545) 4h,Jh[0m
-[34m  blaBot ($10770) Ah,5s[0m
-[31m Actions: [0m
-[31m  flopped a set checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- turn[0m
-[34m Cards are: Td 6c 8s 2s [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39545) 4h,Jh[0m
-[34m  blaBot ($10770) Ah,5s[0m
-[31m Actions: [0m
-[31m  flopped a set checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- river[0m
-[34m Cards are: Td 6c 8s 2s Ad [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39545) 4h,Jh[0m
-[34m  blaBot ($10770) Ah,5s (One pair)[0m
-[31m Actions: [0m
-[31m  flopped a set checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- final[0m
-[34m Cards are: Td 6c 8s 2s Ad [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39545) 4h,Jh[0m
-[34m  blaBot ($10770) Ah,5s (One pair)[0m
-[31m Actions: [0m
- 
-[34mRound #66 complete.[0m
-[34mWinner was blaBot with One pair Amount won: $25[0m
-[34mPositions: [0m
-[34medi9999 ($9740) had 3h 8h  [0m
-[34mflopped a set ($39545) had 4h Jh  (High card)[0m
-[34mmercBot ($19920) had 7s 2h  [0m
-[34mblaBot ($10795) had Ah 5s  (One pair)[0m
-[34m=================================[0m
- 
-[34m==== Round #67 starting ====[0m
-[34m4 players:[0m
-[34m  flopped a set ($39545) [0m
-[34m  mercBot ($19920) [0m
-[34m  blaBot ($10795) [0m
-[34m  edi9999 ($9740) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($39540) Kd 3s [0m
-[34m  mercBot ($19910) Js 6d [0m
-[34m  blaBot ($10795) Jh Ks [0m
-[34m  edi9999 ($9740) 8d Tc [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: 8s 4c 6s [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19910) Js,6d (One pair)[0m
-[34m  blaBot ($10785) Jh,Ks[0m
-[31m Actions: [0m
-[31m  mercBot raised by $10[0m
-[31m  blaBot folded[0m
- 
-[34mRound #67 complete.[0m
-[34mWinner was mercBot  Amount won: $35[0m
-[34mPositions: [0m
-[34mflopped a set ($39540) had Kd 3s  [0m
-[34mmercBot ($19935) had Js 6d  [0m
-[34mblaBot ($10785) had Jh Ks  [0m
-[34medi9999 ($9740) had 8d Tc  [0m
-[34m=================================[0m
- 
-[34m==== Round #68 starting ====[0m
-[34m4 players:[0m
-[34m  flopped a set ($39540) [0m
-[34m  mercBot ($19935) [0m
-[34m  blaBot ($10785) [0m
-[34m  edi9999 ($9740) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($39535) 6c 2h [0m
-[34m  mercBot ($19925) 9c Jc [0m
-[34m  blaBot ($10785) Qs 5h [0m
-[34m  edi9999 ($9740) Tc 7s [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: 3h Jh 4c [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19925) 9c,Jc (One pair)[0m
-[34m  blaBot ($10775) Qs,5h[0m
-[31m Actions: [0m
-[31m  mercBot raised by $10[0m
-[31m  blaBot folded[0m
- 
-[34mRound #68 complete.[0m
-[34mWinner was mercBot  Amount won: $35[0m
-[34mPositions: [0m
-[34mflopped a set ($39535) had 6c 2h  [0m
-[34mmercBot ($19950) had 9c Jc  [0m
-[34mblaBot ($10775) had Qs 5h  [0m
-[34medi9999 ($9740) had Tc 7s  [0m
-[34m=================================[0m
- 
-[34m==== Round #69 starting ====[0m
-[34m4 players:[0m
-[34m  flopped a set ($39535) [0m
-[34m  mercBot ($19950) [0m
-[34m  blaBot ($10775) [0m
-[34m  edi9999 ($9740) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($39530) Js Ks [0m
-[34m  mercBot ($19940) 8c 9c [0m
-[34m  blaBot ($10775) 7h 5c [0m
-[34m  edi9999 ($9740) 8d 5d [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: Kc Qh Jh [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19940) 8c,9c[0m
-[34m  blaBot ($10765) 7h,5c[0m
-[31m Actions: [0m
-[31m  mercBot checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- turn[0m
-[34m Cards are: Kc Qh Jh Qd [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19940) 8c,9c (One pair)[0m
-[34m  blaBot ($10765) 7h,5c (One pair)[0m
-[31m Actions: [0m
-[31m  mercBot raised by $20[0m
-[31m  blaBot folded[0m
- 
-[34mRound #69 complete.[0m
-[34mWinner was mercBot  Amount won: $45[0m
-[34mPositions: [0m
-[34mflopped a set ($39530) had Js Ks  [0m
-[34mmercBot ($19965) had 8c 9c  [0m
-[34mblaBot ($10765) had 7h 5c  [0m
-[34medi9999 ($9740) had 8d 5d  [0m
-[34m=================================[0m
- 
-[34m==== Round #70 starting ====[0m
-[34m4 players:[0m
-[34m  mercBot ($19965) [0m
-[34m  blaBot ($10765) [0m
-[34m  edi9999 ($9740) [0m
-[34m  flopped a set ($39530) [0m
- 
-[34m-- pre-flop[0m
-[34m  mercBot ($19960) Ad 5c [0m
-[34m  blaBot ($10755) 9d 8s [0m
-[34m  edi9999 ($9740) 7s 9h [0m
-[34m  flopped a set ($39530) 7d Ah [0m
-[31m  mercBot  paid a blind of $5[0m
-[31m  blaBot  paid a blind of $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
- 
-[34mRound #70 complete.[0m
-[34mWinner was blaBot  Amount won: $15[0m
-[34mPositions: [0m
-[34mmercBot ($19960) had Ad 5c  [0m
-[34mblaBot ($10770) had 9d 8s  [0m
-[34medi9999 ($9740) had 7s 9h  [0m
-[34mflopped a set ($39530) had 7d Ah  [0m
-[34m=================================[0m
- 
-[34m==== Round #71 starting ====[0m
-[34m4 players:[0m
-[34m  mercBot ($19960) [0m
-[34m  blaBot ($10770) [0m
-[34m  edi9999 ($9740) [0m
-[34m  flopped a set ($39530) [0m
- 
-[34m-- pre-flop[0m
-[34m  mercBot ($19955) 9d 3h [0m
-[34m  blaBot ($10760) 4c Td [0m
-[34m  edi9999 ($9740) 4d 5c [0m
-[34m  flopped a set ($39530) 2h Qh [0m
-[31m  mercBot  paid a blind of $5[0m
-[31m  blaBot  paid a blind of $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
- 
-[34mRound #71 complete.[0m
-[34mWinner was blaBot  Amount won: $15[0m
-[34mPositions: [0m
-[34mmercBot ($19955) had 9d 3h  [0m
-[34mblaBot ($10775) had 4c Td  [0m
-[34medi9999 ($9740) had 4d 5c  [0m
-[34mflopped a set ($39530) had 2h Qh  [0m
-[34m=================================[0m
- 
-[34m==== Round #72 starting ====[0m
-[34m4 players:[0m
-[34m  blaBot ($10775) [0m
-[34m  edi9999 ($9740) [0m
-[34m  flopped a set ($39530) [0m
-[34m  mercBot ($19955) [0m
- 
-[34m-- pre-flop[0m
-[34m  blaBot ($10770) 8s 5h [0m
-[34m  edi9999 ($9730) 3d Kc [0m
-[34m  flopped a set ($39530) Tc Td [0m
-[34m  mercBot ($19955) 8h 7c [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $5[0m
-[31m  edi9999 checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: Ad As 5c [0m
-[34m Pot is: 20[0m
-[34m  blaBot ($10765) 8s,5h (Two pair)[0m
-[34m  edi9999 ($9730) 3d,Kc (One pair)[0m
-[31m Actions: [0m
-[31m  blaBot checked[0m
-[31m  edi9999 raised by $10[0m
-[31m  blaBot folded[0m
- 
-[34mRound #72 complete.[0m
-[34mWinner was edi9999  Amount won: $30[0m
-[34mPositions: [0m
-[34mblaBot ($10765) had 8s 5h  [0m
-[34medi9999 ($9750) had 3d Kc  [0m
-[34mflopped a set ($39530) had Tc Td  [0m
-[34mmercBot ($19955) had 8h 7c  [0m
-[34m=================================[0m
- 
-[34m==== Round #73 starting ====[0m
-[34m4 players:[0m
-[34m  blaBot ($10765) [0m
-[34m  edi9999 ($9750) [0m
-[34m  flopped a set ($39530) [0m
-[34m  mercBot ($19955) [0m
- 
-[34m-- pre-flop[0m
-[34m  blaBot ($10760) Ts 6c [0m
-[34m  edi9999 ($9740) Tc 4s [0m
-[34m  flopped a set ($39530) 8h Js [0m
-[34m  mercBot ($19955) 7d 2h [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $5[0m
-[31m  edi9999 checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: Jh Qh 3s [0m
-[34m Pot is: 20[0m
-[34m  blaBot ($10755) Ts,6c[0m
-[34m  edi9999 ($9740) Tc,4s[0m
-[31m Actions: [0m
-[31m  blaBot checked[0m
-[31m  edi9999 went ALL IN with $9740[0m
-[31m  blaBot folded[0m
- 
-[34mRound #73 complete.[0m
-[34mWinner was edi9999  Amount won: $9760[0m
-[34mPositions: [0m
-[34mblaBot ($10755) had Ts 6c  [0m
-[34medi9999 ($9760) had Tc 4s  [0m
-[34mflopped a set ($39530) had 8h Js  [0m
-[34mmercBot ($19955) had 7d 2h  [0m
-[34m=================================[0m
- 
-[34m==== Round #74 starting ====[0m
-[34m4 players:[0m
-[34m  edi9999 ($9760) [0m
-[34m  flopped a set ($39530) [0m
-[34m  mercBot ($19955) [0m
-[34m  blaBot ($10755) [0m
- 
-[34m-- pre-flop[0m
-[34m  edi9999 ($9755) 2c Qs [0m
-[34m  flopped a set ($39520) Qh 7c [0m
-[34m  mercBot ($19955) 4c 6c [0m
-[34m  blaBot ($10755) Td 6h [0m
-[31m  edi9999  paid a blind of $5[0m
-[31m  flopped a set  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: 9s 3d 2h [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39520) Qh,7c[0m
-[34m  blaBot ($10745) Td,6h[0m
-[31m Actions: [0m
-[31m  flopped a set checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- turn[0m
-[34m Cards are: 9s 3d 2h 5h [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39520) Qh,7c[0m
-[34m  blaBot ($10745) Td,6h[0m
-[31m Actions: [0m
-[31m  flopped a set checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- river[0m
-[34m Cards are: 9s 3d 2h 5h Th [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39520) Qh,7c[0m
-[34m  blaBot ($10745) Td,6h (One pair)[0m
-[31m Actions: [0m
-[31m  flopped a set checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- final[0m
-[34m Cards are: 9s 3d 2h 5h Th [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39520) Qh,7c[0m
-[34m  blaBot ($10745) Td,6h (One pair)[0m
-[31m Actions: [0m
- 
-[34mRound #74 complete.[0m
-[34mWinner was blaBot with One pair Amount won: $25[0m
-[34mPositions: [0m
-[34medi9999 ($9755) had 2c Qs  [0m
-[34mflopped a set ($39520) had Qh 7c  (High card)[0m
-[34mmercBot ($19955) had 4c 6c  [0m
-[34mblaBot ($10770) had Td 6h  (One pair)[0m
-[34m=================================[0m
- 
-[34m==== Round #75 starting ====[0m
-[34m4 players:[0m
-[34m  flopped a set ($39520) [0m
-[34m  mercBot ($19955) [0m
-[34m  blaBot ($10770) [0m
-[34m  edi9999 ($9755) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($39515) 9c Qc [0m
-[34m  mercBot ($19945) Qh As [0m
-[34m  blaBot ($10770) Qs 6c [0m
-[34m  edi9999 ($9755) 7c 8c [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: Ts Jc Js [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19945) Qh,As (One pair)[0m
-[34m  blaBot ($10760) Qs,6c (One pair)[0m
-[31m Actions: [0m
-[31m  mercBot raised by $10[0m
-[31m  blaBot folded[0m
- 
-[34mRound #75 complete.[0m
-[34mWinner was mercBot  Amount won: $35[0m
-[34mPositions: [0m
-[34mflopped a set ($39515) had 9c Qc  [0m
-[34mmercBot ($19970) had Qh As  [0m
-[34mblaBot ($10760) had Qs 6c  [0m
-[34medi9999 ($9755) had 7c 8c  [0m
-[34m=================================[0m
- 
-[34m==== Round #76 starting ====[0m
-[34m4 players:[0m
-[34m  flopped a set ($39515) [0m
-[34m  mercBot ($19970) [0m
-[34m  blaBot ($10760) [0m
-[34m  edi9999 ($9755) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($39510) Ts Kh [0m
-[34m  mercBot ($19960) 9h 7h [0m
-[34m  blaBot ($10760) 4h 9d [0m
-[34m  edi9999 ($9755) 6c Ad [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: 9s 6d Ac [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19960) 9h,7h (One pair)[0m
-[34m  blaBot ($10750) 4h,9d (One pair)[0m
-[31m Actions: [0m
-[31m  mercBot raised by $10[0m
-[31m  blaBot folded[0m
- 
-[34mRound #76 complete.[0m
-[34mWinner was mercBot  Amount won: $35[0m
-[34mPositions: [0m
-[34mflopped a set ($39510) had Ts Kh  [0m
-[34mmercBot ($19985) had 9h 7h  [0m
-[34mblaBot ($10750) had 4h 9d  [0m
-[34medi9999 ($9755) had 6c Ad  [0m
-[34m=================================[0m
- 
-[34m==== Round #77 starting ====[0m
-[34m4 players:[0m
-[34m  flopped a set ($39510) [0m
-[34m  mercBot ($19985) [0m
-[34m  blaBot ($10750) [0m
-[34m  edi9999 ($9755) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($39505) 5h 6c [0m
-[34m  mercBot ($19975) 8c 4h [0m
-[34m  blaBot ($10750) 9c Kd [0m
-[34m  edi9999 ($9755) Kc Qh [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 raised by $40[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
-[31m  blaBot folded[0m
- 
-[34mRound #77 complete.[0m
-[34mWinner was edi9999  Amount won: $65[0m
-[34mPositions: [0m
-[34mflopped a set ($39505) had 5h 6c  [0m
-[34mmercBot ($19975) had 8c 4h  [0m
-[34mblaBot ($10740) had 9c Kd  [0m
-[34medi9999 ($9780) had Kc Qh  [0m
-[34m=================================[0m
- 
-[34m==== Round #78 starting ====[0m
-[34m4 players:[0m
-[34m  mercBot ($19975) [0m
-[34m  blaBot ($10740) [0m
-[34m  edi9999 ($9780) [0m
-[34m  flopped a set ($39505) [0m
- 
-[34m-- pre-flop[0m
-[34m  mercBot ($19970) Qs Td [0m
-[34m  blaBot ($10730) Th Ad [0m
-[34m  edi9999 ($9780) 2s Ah [0m
-[34m  flopped a set ($39505) 9d 5d [0m
-[31m  mercBot  paid a blind of $5[0m
-[31m  blaBot  paid a blind of $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
- 
-[34mRound #78 complete.[0m
-[34mWinner was blaBot  Amount won: $15[0m
-[34mPositions: [0m
-[34mmercBot ($19970) had Qs Td  [0m
-[34mblaBot ($10745) had Th Ad  [0m
-[34medi9999 ($9780) had 2s Ah  [0m
-[34mflopped a set ($39505) had 9d 5d  [0m
-[34m=================================[0m
- 
-[34m==== Round #79 starting ====[0m
-[34m4 players:[0m
-[34m  mercBot ($19970) [0m
-[34m  blaBot ($10745) [0m
-[34m  edi9999 ($9780) [0m
-[34m  flopped a set ($39505) [0m
- 
-[34m-- pre-flop[0m
-[34m  mercBot ($19965) 4s 2h [0m
-[34m  blaBot ($10735) 7d 2d [0m
-[34m  edi9999 ($9780) 2c Jd [0m
-[34m  flopped a set ($39505) Ad 4d [0m
-[31m  mercBot  paid a blind of $5[0m
-[31m  blaBot  paid a blind of $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
- 
-[34mRound #79 complete.[0m
-[34mWinner was blaBot  Amount won: $15[0m
-[34mPositions: [0m
-[34mmercBot ($19965) had 4s 2h  [0m
-[34mblaBot ($10750) had 7d 2d  [0m
-[34medi9999 ($9780) had 2c Jd  [0m
-[34mflopped a set ($39505) had Ad 4d  [0m
-[34m=================================[0m
- 
-[34m==== Round #80 starting ====[0m
-[34m4 players:[0m
-[34m  blaBot ($10750) [0m
-[34m  edi9999 ($9780) [0m
-[34m  flopped a set ($39505) [0m
-[34m  mercBot ($19965) [0m
- 
-[34m-- pre-flop[0m
-[34m  blaBot ($10745) Js 7s [0m
-[34m  edi9999 ($9770) 3d 6h [0m
-[34m  flopped a set ($39505) 4c 8c [0m
-[34m  mercBot ($19965) 2h Tc [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $5[0m
-[31m  edi9999 checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: Ad Qd 7c [0m
-[34m Pot is: 20[0m
-[34m  blaBot ($10740) Js,7s (One pair)[0m
-[34m  edi9999 ($9770) 3d,6h[0m
-[31m Actions: [0m
-[31m  blaBot checked[0m
-[31m  edi9999 raised by $10[0m
-[31m  blaBot folded[0m
- 
-[34mRound #80 complete.[0m
-[34mWinner was edi9999  Amount won: $30[0m
-[34mPositions: [0m
-[34mblaBot ($10740) had Js 7s  [0m
-[34medi9999 ($9790) had 3d 6h  [0m
-[34mflopped a set ($39505) had 4c 8c  [0m
-[34mmercBot ($19965) had 2h Tc  [0m
-[34m=================================[0m
- 
-[34m==== Round #81 starting ====[0m
-[34m4 players:[0m
-[34m  blaBot ($10740) [0m
-[34m  edi9999 ($9790) [0m
-[34m  flopped a set ($39505) [0m
-[34m  mercBot ($19965) [0m
- 
-[34m-- pre-flop[0m
-[34m  blaBot ($10735) 8c 5s [0m
-[34m  edi9999 ($9780) Jc 5c [0m
-[34m  flopped a set ($39505) Kc 2h [0m
-[34m  mercBot ($19965) As 6s [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $5[0m
-[31m  edi9999 checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: Ah 7d 2c [0m
-[34m Pot is: 20[0m
-[34m  blaBot ($10730) 8c,5s[0m
-[34m  edi9999 ($9780) Jc,5c[0m
-[31m Actions: [0m
-[31m  blaBot checked[0m
-[31m  edi9999 raised by $10[0m
-[31m  blaBot folded[0m
- 
-[34mRound #81 complete.[0m
-[34mWinner was edi9999  Amount won: $30[0m
-[34mPositions: [0m
-[34mblaBot ($10730) had 8c 5s  [0m
-[34medi9999 ($9800) had Jc 5c  [0m
-[34mflopped a set ($39505) had Kc 2h  [0m
-[34mmercBot ($19965) had As 6s  [0m
-[34m=================================[0m
- 
-[34m==== Round #82 starting ====[0m
-[34m4 players:[0m
-[34m  edi9999 ($9800) [0m
-[34m  flopped a set ($39505) [0m
-[34m  mercBot ($19965) [0m
-[34m  blaBot ($10730) [0m
- 
-[34m-- pre-flop[0m
-[34m  edi9999 ($9795) 3d 4h [0m
-[34m  flopped a set ($39495) 6d Qs [0m
-[34m  mercBot ($19965) 9d 5d [0m
-[34m  blaBot ($10730) 2d 4d [0m
-[31m  edi9999  paid a blind of $5[0m
-[31m  flopped a set  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: Jc 9h 5c [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39495) 6d,Qs[0m
-[34m  blaBot ($10720) 2d,4d[0m
-[31m Actions: [0m
-[31m  flopped a set checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- turn[0m
-[34m Cards are: Jc 9h 5c Qh [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39495) 6d,Qs (One pair)[0m
-[34m  blaBot ($10720) 2d,4d[0m
-[31m Actions: [0m
-[31m  flopped a set checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- river[0m
-[34m Cards are: Jc 9h 5c Qh 8d [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39495) 6d,Qs (One pair)[0m
-[34m  blaBot ($10720) 2d,4d[0m
-[31m Actions: [0m
-[31m  flopped a set checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- final[0m
-[34m Cards are: Jc 9h 5c Qh 8d [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39495) 6d,Qs (One pair)[0m
-[34m  blaBot ($10720) 2d,4d[0m
-[31m Actions: [0m
- 
-[34mRound #82 complete.[0m
-[34mWinner was flopped a set with One pair Amount won: $25[0m
-[34mPositions: [0m
-[34medi9999 ($9795) had 3d 4h  [0m
-[34mflopped a set ($39520) had 6d Qs  (One pair)[0m
-[34mmercBot ($19965) had 9d 5d  [0m
-[34mblaBot ($10720) had 2d 4d  (High card)[0m
-[34m=================================[0m
- 
-[34m==== Round #83 starting ====[0m
-[34m4 players:[0m
-[34m  flopped a set ($39520) [0m
-[34m  mercBot ($19965) [0m
-[34m  blaBot ($10720) [0m
-[34m  edi9999 ($9795) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($39515) Td 4d [0m
-[34m  mercBot ($19955) Kh 5s [0m
-[34m  blaBot ($10720) Kc Jc [0m
-[34m  edi9999 ($9795) Qh Kd [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 raised by $40[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $30[0m
- 
-[34m-- flop[0m
-[34m Cards are: Jh Tc 2d [0m
-[34m Pot is: 95[0m
-[34m  blaBot ($10680) Kc,Jc (One pair)[0m
-[34m  edi9999 ($9755) Qh,Kd[0m
-[31m Actions: [0m
-[31m  blaBot checked[0m
-[31m  edi9999 raised by $10[0m
-[31m  blaBot folded[0m
- 
-[34mRound #83 complete.[0m
-[34mWinner was edi9999  Amount won: $105[0m
-[34mPositions: [0m
-[34mflopped a set ($39515) had Td 4d  [0m
-[34mmercBot ($19955) had Kh 5s  [0m
-[34mblaBot ($10680) had Kc Jc  [0m
-[34medi9999 ($9850) had Qh Kd  [0m
-[34m=================================[0m
- 
-[34m==== Round #84 starting ====[0m
-[34m4 players:[0m
-[34m  flopped a set ($39515) [0m
-[34m  mercBot ($19955) [0m
-[34m  blaBot ($10680) [0m
-[34m  edi9999 ($9850) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($39510) Kh Tc [0m
-[34m  mercBot ($19945) 7h 6c [0m
-[34m  blaBot ($10680) 6d Qh [0m
-[34m  edi9999 ($9850) 2s Jc [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: Qd 5s Th [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19945) 7h,6c[0m
-[34m  blaBot ($10670) 6d,Qh (One pair)[0m
-[31m Actions: [0m
-[31m  mercBot checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- turn[0m
-[34m Cards are: Qd 5s Th 9d [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19945) 7h,6c[0m
-[34m  blaBot ($10670) 6d,Qh (One pair)[0m
-[31m Actions: [0m
-[31m  mercBot checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- river[0m
-[34m Cards are: Qd 5s Th 9d 2c [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19945) 7h,6c[0m
-[34m  blaBot ($10670) 6d,Qh (One pair)[0m
-[31m Actions: [0m
-[31m  mercBot checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- final[0m
-[34m Cards are: Qd 5s Th 9d 2c [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19945) 7h,6c[0m
-[34m  blaBot ($10670) 6d,Qh (One pair)[0m
-[31m Actions: [0m
- 
-[34mRound #84 complete.[0m
-[34mWinner was blaBot with One pair Amount won: $25[0m
-[34mPositions: [0m
-[34mflopped a set ($39510) had Kh Tc  [0m
-[34mmercBot ($19945) had 7h 6c  (High card)[0m
-[34mblaBot ($10695) had 6d Qh  (One pair)[0m
-[34medi9999 ($9850) had 2s Jc  [0m
-[34m=================================[0m
- 
-[34m==== Round #85 starting ====[0m
-[34m4 players:[0m
-[34m  flopped a set ($39510) [0m
-[34m  mercBot ($19945) [0m
-[34m  blaBot ($10695) [0m
-[34m  edi9999 ($9850) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($39505) 5h 8h [0m
-[34m  mercBot ($19935) Kh 3h [0m
-[34m  blaBot ($10695) Ts 9s [0m
-[34m  edi9999 ($9850) Th 3d [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: 5d Jc 4c [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19935) Kh,3h[0m
-[34m  blaBot ($10685) Ts,9s[0m
-[31m Actions: [0m
-[31m  mercBot checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- turn[0m
-[34m Cards are: 5d Jc 4c 6h [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19935) Kh,3h[0m
-[34m  blaBot ($10685) Ts,9s[0m
-[31m Actions: [0m
-[31m  mercBot checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- river[0m
-[34m Cards are: 5d Jc 4c 6h 8d [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19935) Kh,3h[0m
-[34m  blaBot ($10685) Ts,9s[0m
-[31m Actions: [0m
-[31m  mercBot checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- final[0m
-[34m Cards are: 5d Jc 4c 6h 8d [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19935) Kh,3h[0m
-[34m  blaBot ($10685) Ts,9s[0m
-[31m Actions: [0m
- 
-[34mRound #85 complete.[0m
-[34mWinner was mercBot with High card Amount won: $25[0m
-[34mPositions: [0m
-[34mflopped a set ($39505) had 5h 8h  [0m
-[34mmercBot ($19960) had Kh 3h  (High card)[0m
-[34mblaBot ($10685) had Ts 9s  (High card)[0m
-[34medi9999 ($9850) had Th 3d  [0m
-[34m=================================[0m
- 
-[34m==== Round #86 starting ====[0m
-[34m4 players:[0m
-[34m  mercBot ($19960) [0m
-[34m  blaBot ($10685) [0m
-[34m  edi9999 ($9850) [0m
-[34m  flopped a set ($39505) [0m
- 
-[34m-- pre-flop[0m
-[34m  mercBot ($19955) Qd 8s [0m
-[34m  blaBot ($10675) 9h Kd [0m
-[34m  edi9999 ($9850) Ks 5s [0m
-[34m  flopped a set ($39505) 7s Tc [0m
-[31m  mercBot  paid a blind of $5[0m
-[31m  blaBot  paid a blind of $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
- 
-[34mRound #86 complete.[0m
-[34mWinner was blaBot  Amount won: $15[0m
-[34mPositions: [0m
-[34mmercBot ($19955) had Qd 8s  [0m
-[34mblaBot ($10690) had 9h Kd  [0m
-[34medi9999 ($9850) had Ks 5s  [0m
-[34mflopped a set ($39505) had 7s Tc  [0m
-[34m=================================[0m
- 
-[34m==== Round #87 starting ====[0m
-[34m4 players:[0m
-[34m  mercBot ($19955) [0m
-[34m  blaBot ($10690) [0m
-[34m  edi9999 ($9850) [0m
-[34m  flopped a set ($39505) [0m
- 
-[34m-- pre-flop[0m
-[34m  mercBot ($19950) 3h Jd [0m
-[34m  blaBot ($10680) Ah Kd [0m
-[34m  edi9999 ($9850) 4d Ts [0m
-[34m  flopped a set ($39505) Js 3d [0m
-[31m  mercBot  paid a blind of $5[0m
-[31m  blaBot  paid a blind of $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
- 
-[34mRound #87 complete.[0m
-[34mWinner was blaBot  Amount won: $15[0m
-[34mPositions: [0m
-[34mmercBot ($19950) had 3h Jd  [0m
-[34mblaBot ($10695) had Ah Kd  [0m
-[34medi9999 ($9850) had 4d Ts  [0m
-[34mflopped a set ($39505) had Js 3d  [0m
-[34m=================================[0m
- 
-[34m==== Round #88 starting ====[0m
-[34m4 players:[0m
-[34m  blaBot ($10695) [0m
-[34m  edi9999 ($9850) [0m
-[34m  flopped a set ($39505) [0m
-[34m  mercBot ($19950) [0m
- 
-[34m-- pre-flop[0m
-[34m  blaBot ($10690) 8h 5s [0m
-[34m  edi9999 ($9840) Tc Qd [0m
-[34m  flopped a set ($39505) 8c 6h [0m
-[34m  mercBot ($19950) 3h 5d [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $5[0m
-[31m  edi9999 checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: 8d 3c 4h [0m
-[34m Pot is: 20[0m
-[34m  blaBot ($10685) 8h,5s (One pair)[0m
-[34m  edi9999 ($9840) Tc,Qd[0m
-[31m Actions: [0m
-[31m  blaBot checked[0m
-[31m  edi9999 raised by $10[0m
-[31m  blaBot folded[0m
- 
-[34mRound #88 complete.[0m
-[34mWinner was edi9999  Amount won: $30[0m
-[34mPositions: [0m
-[34mblaBot ($10685) had 8h 5s  [0m
-[34medi9999 ($9860) had Tc Qd  [0m
-[34mflopped a set ($39505) had 8c 6h  [0m
-[34mmercBot ($19950) had 3h 5d  [0m
-[34m=================================[0m
- 
-[34m==== Round #89 starting ====[0m
-[34m4 players:[0m
-[34m  blaBot ($10685) [0m
-[34m  edi9999 ($9860) [0m
-[34m  flopped a set ($39505) [0m
-[34m  mercBot ($19950) [0m
- 
-[34m-- pre-flop[0m
-[34m  blaBot ($10680) 3d Kc [0m
-[34m  edi9999 ($9850) Js 5h [0m
-[34m  flopped a set ($39505) 7d 9c [0m
-[34m  mercBot ($19950) As 2d [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $5[0m
-[31m  edi9999 checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: Ts Kh 4s [0m
-[34m Pot is: 20[0m
-[34m  blaBot ($10675) 3d,Kc (One pair)[0m
-[34m  edi9999 ($9850) Js,5h[0m
-[31m Actions: [0m
-[31m  blaBot checked[0m
-[31m  edi9999 went ALL IN with $9850[0m
-[31m  blaBot folded[0m
- 
-[34mRound #89 complete.[0m
-[34mWinner was edi9999  Amount won: $9870[0m
-[34mPositions: [0m
-[34mblaBot ($10675) had 3d Kc  [0m
-[34medi9999 ($9870) had Js 5h  [0m
-[34mflopped a set ($39505) had 7d 9c  [0m
-[34mmercBot ($19950) had As 2d  [0m
-[34m=================================[0m
- 
-[34m==== Round #90 starting ====[0m
-[34m4 players:[0m
-[34m  edi9999 ($9870) [0m
-[34m  flopped a set ($39505) [0m
-[34m  mercBot ($19950) [0m
-[34m  blaBot ($10675) [0m
- 
-[34m-- pre-flop[0m
-[34m  edi9999 ($9865) 2c Qs [0m
-[34m  flopped a set ($39495) 5c Ah [0m
-[34m  mercBot ($19950) Ad 3s [0m
-[34m  blaBot ($10675) 5h 6d [0m
-[31m  edi9999  paid a blind of $5[0m
-[31m  flopped a set  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: 5s Kd Js [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39495) 5c,Ah (One pair)[0m
-[34m  blaBot ($10665) 5h,6d (One pair)[0m
-[31m Actions: [0m
-[31m  flopped a set checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- turn[0m
-[34m Cards are: 5s Kd Js 3d [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39495) 5c,Ah (One pair)[0m
-[34m  blaBot ($10665) 5h,6d (One pair)[0m
-[31m Actions: [0m
-[31m  flopped a set checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- river[0m
-[34m Cards are: 5s Kd Js 3d 2h [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39495) 5c,Ah (One pair)[0m
-[34m  blaBot ($10665) 5h,6d (One pair)[0m
-[31m Actions: [0m
-[31m  flopped a set checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- final[0m
-[34m Cards are: 5s Kd Js 3d 2h [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39495) 5c,Ah (One pair)[0m
-[34m  blaBot ($10665) 5h,6d (One pair)[0m
-[31m Actions: [0m
- 
-[34mRound #90 complete.[0m
-[34mWinner was flopped a set with One pair Amount won: $25[0m
-[34mPositions: [0m
-[34medi9999 ($9865) had 2c Qs  [0m
-[34mflopped a set ($39520) had 5c Ah  (One pair)[0m
-[34mmercBot ($19950) had Ad 3s  [0m
-[34mblaBot ($10665) had 5h 6d  (One pair)[0m
-[34m=================================[0m
- 
-[34m==== Round #91 starting ====[0m
-[34m4 players:[0m
-[34m  flopped a set ($39520) [0m
-[34m  mercBot ($19950) [0m
-[34m  blaBot ($10665) [0m
-[34m  edi9999 ($9865) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($39515) 2d Jh [0m
-[34m  mercBot ($19940) 2s Jc [0m
-[34m  blaBot ($10665) Td 3s [0m
-[34m  edi9999 ($9865) 4h 4d [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: 8d 8s 7h [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19940) 2s,Jc (One pair)[0m
-[34m  blaBot ($10655) Td,3s (One pair)[0m
-[31m Actions: [0m
-[31m  mercBot raised by $10[0m
-[31m  blaBot folded[0m
- 
-[34mRound #91 complete.[0m
-[34mWinner was mercBot  Amount won: $35[0m
-[34mPositions: [0m
-[34mflopped a set ($39515) had 2d Jh  [0m
-[34mmercBot ($19965) had 2s Jc  [0m
-[34mblaBot ($10655) had Td 3s  [0m
-[34medi9999 ($9865) had 4h 4d  [0m
-[34m=================================[0m
- 
-[34m==== Round #92 starting ====[0m
-[34m4 players:[0m
-[34m  flopped a set ($39515) [0m
-[34m  mercBot ($19965) [0m
-[34m  blaBot ($10655) [0m
-[34m  edi9999 ($9865) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($39510) Ks 8s [0m
-[34m  mercBot ($19955) 9s 7h [0m
-[34m  blaBot ($10655) 9c 4s [0m
-[34m  edi9999 ($9865) 8d 3h [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: Jh 2s Tc [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19955) 9s,7h[0m
-[34m  blaBot ($10645) 9c,4s[0m
-[31m Actions: [0m
-[31m  mercBot checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- turn[0m
-[34m Cards are: Jh 2s Tc 3s [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19955) 9s,7h[0m
-[34m  blaBot ($10645) 9c,4s[0m
-[31m Actions: [0m
-[31m  mercBot checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- river[0m
-[34m Cards are: Jh 2s Tc 3s 5h [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19955) 9s,7h[0m
-[34m  blaBot ($10645) 9c,4s[0m
-[31m Actions: [0m
-[31m  mercBot checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- final[0m
-[34m Cards are: Jh 2s Tc 3s 5h [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19955) 9s,7h[0m
-[34m  blaBot ($10645) 9c,4s[0m
-[31m Actions: [0m
- 
-[34mRound #92 complete.[0m
-[34mWinner was mercBot with High card Amount won: $25[0m
-[34mPositions: [0m
-[34mflopped a set ($39510) had Ks 8s  [0m
-[34mmercBot ($19980) had 9s 7h  (High card)[0m
-[34mblaBot ($10645) had 9c 4s  (High card)[0m
-[34medi9999 ($9865) had 8d 3h  [0m
-[34m=================================[0m
- 
-[34m==== Round #93 starting ====[0m
-[34m4 players:[0m
-[34m  flopped a set ($39510) [0m
-[34m  mercBot ($19980) [0m
-[34m  blaBot ($10645) [0m
-[34m  edi9999 ($9865) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($39505) 3d Ad [0m
-[34m  mercBot ($19970) Ks 9d [0m
-[34m  blaBot ($10645) 7d Kc [0m
-[34m  edi9999 ($9865) Ac 9h [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: 5h Jc Qs [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19970) Ks,9d[0m
-[34m  blaBot ($10635) 7d,Kc[0m
-[31m Actions: [0m
-[31m  mercBot checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- turn[0m
-[34m Cards are: 5h Jc Qs 2d [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19970) Ks,9d[0m
-[34m  blaBot ($10635) 7d,Kc[0m
-[31m Actions: [0m
-[31m  mercBot checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- river[0m
-[34m Cards are: 5h Jc Qs 2d 5s [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19970) Ks,9d (One pair)[0m
-[34m  blaBot ($10635) 7d,Kc (One pair)[0m
-[31m Actions: [0m
-[31m  mercBot raised by $20[0m
-[31m  blaBot folded[0m
- 
-[34mRound #93 complete.[0m
-[34mWinner was mercBot  Amount won: $45[0m
-[34mPositions: [0m
-[34mflopped a set ($39505) had 3d Ad  [0m
-[34mmercBot ($19995) had Ks 9d  [0m
-[34mblaBot ($10635) had 7d Kc  [0m
-[34medi9999 ($9865) had Ac 9h  [0m
-[34m=================================[0m
- 
-[34m==== Round #94 starting ====[0m
-[34m4 players:[0m
-[34m  mercBot ($19995) [0m
-[34m  blaBot ($10635) [0m
-[34m  edi9999 ($9865) [0m
-[34m  flopped a set ($39505) [0m
- 
-[34m-- pre-flop[0m
-[34m  mercBot ($19990) 5h 7h [0m
-[34m  blaBot ($10625) Ac 4h [0m
-[34m  edi9999 ($9865) 2h 7d [0m
-[34m  flopped a set ($39505) Kc Td [0m
-[31m  mercBot  paid a blind of $5[0m
-[31m  blaBot  paid a blind of $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
- 
-[34mRound #94 complete.[0m
-[34mWinner was blaBot  Amount won: $15[0m
-[34mPositions: [0m
-[34mmercBot ($19990) had 5h 7h  [0m
-[34mblaBot ($10640) had Ac 4h  [0m
-[34medi9999 ($9865) had 2h 7d  [0m
-[34mflopped a set ($39505) had Kc Td  [0m
-[34m=================================[0m
- 
-[34m==== Round #95 starting ====[0m
-[34m4 players:[0m
-[34m  mercBot ($19990) [0m
-[34m  blaBot ($10640) [0m
-[34m  edi9999 ($9865) [0m
-[34m  flopped a set ($39505) [0m
- 
-[34m-- pre-flop[0m
-[34m  mercBot ($19985) 5d 9s [0m
-[34m  blaBot ($10630) 9c Qh [0m
-[34m  edi9999 ($9865) 6c Ad [0m
-[34m  flopped a set ($39505) 2c 3s [0m
-[31m  mercBot  paid a blind of $5[0m
-[31m  blaBot  paid a blind of $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
- 
-[34mRound #95 complete.[0m
-[34mWinner was blaBot  Amount won: $15[0m
-[34mPositions: [0m
-[34mmercBot ($19985) had 5d 9s  [0m
-[34mblaBot ($10645) had 9c Qh  [0m
-[34medi9999 ($9865) had 6c Ad  [0m
-[34mflopped a set ($39505) had 2c 3s  [0m
-[34m=================================[0m
- 
-[34m==== Round #96 starting ====[0m
-[34m4 players:[0m
-[34m  blaBot ($10645) [0m
-[34m  edi9999 ($9865) [0m
-[34m  flopped a set ($39505) [0m
-[34m  mercBot ($19985) [0m
- 
-[34m-- pre-flop[0m
-[34m  blaBot ($10640) Kc Jd [0m
-[34m  edi9999 ($9855) 7c 4d [0m
-[34m  flopped a set ($39505) Kh 3d [0m
-[34m  mercBot ($19985) 9c Jc [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $5[0m
-[31m  edi9999 checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: 2h Ad Qd [0m
-[34m Pot is: 20[0m
-[34m  blaBot ($10635) Kc,Jd[0m
-[34m  edi9999 ($9855) 7c,4d[0m
-[31m Actions: [0m
-[31m  blaBot checked[0m
-[31m  edi9999 raised by $10[0m
-[31m  blaBot folded[0m
- 
-[34mRound #96 complete.[0m
-[34mWinner was edi9999  Amount won: $30[0m
-[34mPositions: [0m
-[34mblaBot ($10635) had Kc Jd  [0m
-[34medi9999 ($9875) had 7c 4d  [0m
-[34mflopped a set ($39505) had Kh 3d  [0m
-[34mmercBot ($19985) had 9c Jc  [0m
-[34m=================================[0m
- 
-[34m==== Round #97 starting ====[0m
-[34m4 players:[0m
-[34m  blaBot ($10635) [0m
-[34m  edi9999 ($9875) [0m
-[34m  flopped a set ($39505) [0m
-[34m  mercBot ($19985) [0m
- 
-[34m-- pre-flop[0m
-[34m  blaBot ($10630) 9h 6s [0m
-[34m  edi9999 ($9865) Kc Qs [0m
-[34m  flopped a set ($39505) 7h 2s [0m
-[34m  mercBot ($19985) Th 3d [0m
-[31m  blaBot  paid a blind of $5[0m
-[31m  edi9999  paid a blind of $10[0m
-[31m  flopped a set folded[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $5[0m
-[31m  edi9999 checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: 8s 3s Kh [0m
-[34m Pot is: 20[0m
-[34m  blaBot ($10625) 9h,6s[0m
-[34m  edi9999 ($9865) Kc,Qs (One pair)[0m
-[31m Actions: [0m
-[31m  blaBot checked[0m
-[31m  edi9999 raised by $10[0m
-[31m  blaBot folded[0m
- 
-[34mRound #97 complete.[0m
-[34mWinner was edi9999  Amount won: $30[0m
-[34mPositions: [0m
-[34mblaBot ($10625) had 9h 6s  [0m
-[34medi9999 ($9885) had Kc Qs  [0m
-[34mflopped a set ($39505) had 7h 2s  [0m
-[34mmercBot ($19985) had Th 3d  [0m
-[34m=================================[0m
- 
-[34m==== Round #98 starting ====[0m
-[34m4 players:[0m
-[34m  edi9999 ($9885) [0m
-[34m  flopped a set ($39505) [0m
-[34m  mercBot ($19985) [0m
-[34m  blaBot ($10625) [0m
- 
-[34m-- pre-flop[0m
-[34m  edi9999 ($9880) 3h 6c [0m
-[34m  flopped a set ($39495) Js 5c [0m
-[34m  mercBot ($19985) Ts Kc [0m
-[34m  blaBot ($10625) 8d Qc [0m
-[31m  edi9999  paid a blind of $5[0m
-[31m  flopped a set  paid a blind of $10[0m
-[31m  mercBot folded[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: 6h 8h Ks [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39495) Js,5c[0m
-[34m  blaBot ($10615) 8d,Qc (One pair)[0m
-[31m Actions: [0m
-[31m  flopped a set checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- turn[0m
-[34m Cards are: 6h 8h Ks 4s [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39495) Js,5c[0m
-[34m  blaBot ($10615) 8d,Qc (One pair)[0m
-[31m Actions: [0m
-[31m  flopped a set checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- river[0m
-[34m Cards are: 6h 8h Ks 4s 8s [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39495) Js,5c (One pair)[0m
-[34m  blaBot ($10615) 8d,Qc (Three of a kind)[0m
-[31m Actions: [0m
-[31m  flopped a set checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- final[0m
-[34m Cards are: 6h 8h Ks 4s 8s [0m
-[34m Pot is: 25[0m
-[34m  flopped a set ($39495) Js,5c (One pair)[0m
-[34m  blaBot ($10615) 8d,Qc (Three of a kind)[0m
-[31m Actions: [0m
- 
-[34mRound #98 complete.[0m
-[34mWinner was blaBot with Three of a kind Amount won: $25[0m
-[34mPositions: [0m
-[34medi9999 ($9880) had 3h 6c  [0m
-[34mflopped a set ($39495) had Js 5c  (One pair)[0m
-[34mmercBot ($19985) had Ts Kc  [0m
-[34mblaBot ($10640) had 8d Qc  (Three of a kind)[0m
-[34m=================================[0m
- 
-[34m==== Round #99 starting ====[0m
-[34m4 players:[0m
-[34m  flopped a set ($39495) [0m
-[34m  mercBot ($19985) [0m
-[34m  blaBot ($10640) [0m
-[34m  edi9999 ($9880) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($39490) Jc 4d [0m
-[34m  mercBot ($19975) Qh 9c [0m
-[34m  blaBot ($10640) Kc Qd [0m
-[34m  edi9999 ($9880) Qs 2h [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: Qc 7h Th [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19975) Qh,9c (One pair)[0m
-[34m  blaBot ($10630) Kc,Qd (One pair)[0m
-[31m Actions: [0m
-[31m  mercBot raised by $10[0m
-[31m  blaBot folded[0m
- 
-[34mRound #99 complete.[0m
-[34mWinner was mercBot  Amount won: $35[0m
-[34mPositions: [0m
-[34mflopped a set ($39490) had Jc 4d  [0m
-[34mmercBot ($20000) had Qh 9c  [0m
-[34mblaBot ($10630) had Kc Qd  [0m
-[34medi9999 ($9880) had Qs 2h  [0m
-[34m=================================[0m
- 
-[34m==== Round #100 starting ====[0m
-[34m4 players:[0m
-[34m  flopped a set ($39490) [0m
-[34m  mercBot ($20000) [0m
-[34m  blaBot ($10630) [0m
-[34m  edi9999 ($9880) [0m
- 
-[34m-- pre-flop[0m
-[34m  flopped a set ($39485) 5d 4d [0m
-[34m  mercBot ($19990) 7h 6c [0m
-[34m  blaBot ($10630) Jh Jc [0m
-[34m  edi9999 ($9880) 9s 8d [0m
-[31m  flopped a set  paid a blind of $5[0m
-[31m  mercBot  paid a blind of $10[0m
-[31m  blaBot called $10[0m
-[31m  edi9999 folded[0m
-[31m  flopped a set folded[0m
-[31m  mercBot checked[0m
- 
-[34m-- flop[0m
-[34m Cards are: Ts Qh Kd [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19990) 7h,6c[0m
-[34m  blaBot ($10620) Jh,Jc (One pair)[0m
-[31m Actions: [0m
-[31m  mercBot checked[0m
-[31m  blaBot checked[0m
- 
-[34m-- turn[0m
-[34m Cards are: Ts Qh Kd 7c [0m
-[34m Pot is: 25[0m
-[34m  mercBot ($19990) 7h,6c (One pair)[0m
-[34m  blaBot ($10620) Jh,Jc (One pair)[0m
-[31m Actions: [0m
-[31m  mercBot raised by $20[0m
-[31m  blaBot folded[0m
- 
-[34mRound #100 complete.[0m
-[34mWinner was mercBot  Amount won: $45[0m
-[34mPositions: [0m
-[34mflopped a set ($39485) had 5d 4d  [0m
-[34mmercBot ($20015) had 7h 6c  [0m
-[34mblaBot ($10620) had Jh Jc  [0m
-[34medi9999 ($9880) had 9s 8d  [0m
-[34m=================================[0m
+[34m Cards are: 6d Jd Ac 4s [0m
+[34m Pot is: 261[0m
+[34m  whistle_tips ($8531) 3d,2d[0m
+[34m  chatbot ($50721) Kc,Jh (One pair)[0m
+[31m Actions: [0m
+[31m  whistle_tips checked[0m
+[31m  chatbot raised by $158[0m
+[31m  whistle_tips folded[0m
