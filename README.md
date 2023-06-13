@@ -23,6 +23,7 @@ This fork contains two scripts: `play.js` and `evaluate.js`.
 
 1. Clone this repository and run `npm install`
 2. Use `play.js` to execute all bots in a round: `node play.js <round> <maxHands>`
+   1. The output can be stored into a file by `node play.js <round> <maxHands> > some-file.txt`
 3. Use `evaluate.js` to evaluate how a specific round plays out: `node evaluate.js <round> <speed>`
 4. results/roundX.json will provide the final state of a given round
 5. Have fun!

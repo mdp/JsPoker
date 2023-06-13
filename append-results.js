@@ -70,5 +70,4 @@ readJsonFile('./logs/round'+round+'.json')
         fs.writeFileSync(scoresFile, json);
     })
     .catch(error => console.error(error));
-
-
+    

@@ -209,8 +209,7 @@ function getStages(round, stage) {
   while (found) {
     found = false;
     for (let index = 0; index < round.players.length; index++) {
-
-      const player = round.players[(index + 2)%round.players.length];
+      const player = round.players[(index + 2) % round.players.length];
       if (player.actions[stage]) {
         let action = player.actions[stage][actionIdx];
         comulativeChipsSpend = () => {
@@ -299,17 +298,15 @@ async function displayGame(hands, speed) {
         head: ["Player", "Hand", "HandName", "Chips", "Folded"],
         colWidths: [30, 10, 30, 10, 10],
       });
-  
+
       table.push(
-        ...hand.finalHands.map((hand) => 
-          [
-            colorizeBot(hand.name),
-            hand.hand,
-            hand.handName,
-            hand.chips,
-            hand.folded,
-          ]
-        )
+        ...hand.finalHands.map((hand) => [
+          colorizeBot(hand.name),
+          hand.hand,
+          hand.handName,
+          hand.chips,
+          hand.folded,
+        ])
       );
       console.log(table.toString());
 
@@ -335,7 +332,10 @@ function displayHand(round, progress) {
 
   let stageIsDone = false;
   let isLastStage = progress.stage == round.stages.length;
-  let pot = round.stages[progress.stage - 1].actions.reduce((a, b) => a + b.bet || 0, 0);
+  let pot = round.stages[progress.stage - 1].actions.reduce(
+    (a, b) => a + b.bet || 0,
+    0
+  );
   for (let i = 0; i < progress.stage; ++i) {
     stageIsDone = displayStage(
       round.stages[i],
@@ -371,30 +371,26 @@ function displayStage(stage, progress, isFinal, pot) {
     actions = actions.slice(0, progress.action);
   }
   if (stage.actions.length != 0) {
-
-
     var table = new Table({
       head: ["Player", "Action", "Chips", "Bet", "Hand"],
       colWidths: [30, 10, 10, 10, 10],
     });
 
     var t = {
-      stage: stage,
+      stage: stage.stage,
       actions: actions,
       pot: pot,
       community: stage.communityCards,
     }
     fs.writeFileSync(stage + progress + "test.json", JSON.stringify(t));
     table.push(
-      ...actions.map((action) => 
-        [
-          colorizeBot(action.player),
-          action.action,
-          action.chips,
-          action.bet,
-          prettyPrintCards(action.hand.join(", ")),
-        ]
-      )
+      ...actions.map((action) => [
+        colorizeBot(action.player),
+        action.action,
+        action.chips,
+        action.bet,
+        prettyPrintCards(action.hand.join(", ")), 
+      ])
     );
     console.log(table.toString());
   }
@@ -412,7 +408,6 @@ const result = evaluate(round, speed);
 
 // Write the result to file
 fs.writeFileSync(resultFilePath, JSON.stringify(result));
-
 
 function prettyPrintCards(cards) {
   return cards
