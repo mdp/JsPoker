@@ -4,7 +4,7 @@ var tournament = require('./tournament')
 const args = process.argv;
 
 const round = args[2] || 3;
-const hands = args[3];
+const hands = args[3] || 50;
 var bots = tournament.getTable(__dirname + "/rounds/" + round + "/");
 
 var table = tournament.createTable(bots,hands);
